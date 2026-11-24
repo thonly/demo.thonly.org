@@ -1,0 +1,3177 @@
+{
+ "version": 1,
+ "surface": "thonly.org",
+ "title": "thonly.org",
+ "about": "Thon Ly's own site: his research, music, film and sport, and the doors for machines that read them. The papers themselves stay in English; everything around them is in Khmer.",
+ "about_km": "គេហទំព័រផ្ទាល់ខ្លួនរបស់ លី​ ស៊ីវ​ ថូង៖ ការស្រាវជ្រាវ តន្ត្រី ភាពយន្ត និងកីឡារបស់គាត់ ព្រមទាំងច្រកសម្រាប់ម៉ាស៊ីនដែលអានវា។ ឯកសារស្រាវជ្រាវខ្លួនឯងនៅតែជាភាសាអង់គ្លេស ចំណែកអ្វីៗនៅជុំវិញវាជាភាសាខ្មែរ។",
+ "accent": "#9333ea",
+ "made": "2026-11-24",
+ "commit": "e4b004e",
+ "groups": [
+  {
+   "name": "The header",
+   "name_km": "ក្បាលទំព័រ",
+   "entries": [
+    {
+     "key": "i18n:title",
+     "en": "Thon Ly: Founder at HeartBank®",
+     "km": "លី​ ស៊ីវ​ ថូង: ស្ថាបនិកនៅ HeartBank®",
+     "note": "the browser tab's title",
+     "note_km": "ចំណងជើងលើផ្ទាំងកម្មវិធីរុករក"
+    },
+    {
+     "key": "i18n:header.openMenu",
+     "en": "Open main menu",
+     "km": "បើកបញ្ជីចម្បង",
+     "note": "read aloud to people who use a screen reader; not shown",
+     "note_km": "សម្រាប់កម្មវិធីអានអេក្រង់អានឮៗ មិនបង្ហាញលើអេក្រង់ទេ"
+    },
+    {
+     "key": "i18n:header.treasury",
+     "en": "Thon Ly",
+     "km": "លី​ ស៊ីវ​ ថូង",
+     "note": "the header, top left",
+     "note_km": "ក្បាលទំព័រ ខាងឆ្វេងលើ"
+    },
+    {
+     "key": "i18n:header.khmer",
+     "en": "Khmer",
+     "km": "ខ្មែរ",
+     "note": "the header, top right: the language button and its list",
+     "note_km": "ក្បាលទំព័រ ខាងស្តាំលើ៖ ប៊ូតុងភាសា និងបញ្ជីរបស់វា"
+    },
+    {
+     "key": "i18n:header.english",
+     "en": "English",
+     "km": "អង់គ្លេស",
+     "note": "the header, top right: the language button and its list",
+     "note_km": "ក្បាលទំព័រ ខាងស្តាំលើ៖ ប៊ូតុងភាសា និងបញ្ជីរបស់វា"
+    },
+    {
+     "key": "pick:components.hb-header:6fb0e3986f",
+     "en": "Certified Fullstack Blockchain & AI Engineer",
+     "km": "វិស្វករ Fullstack Blockchain និង AI ដែលមានវិញ្ញាបនបត្រ",
+     "note": "sent with the link when you press Share",
+     "note_km": "ផ្ញើជាមួយតំណ ពេលអ្នកចុចចែករំលែក"
+    }
+   ]
+  },
+  {
+   "name": "The menu",
+   "name_km": "ម៉ឺនុយ",
+   "entries": [
+    {
+     "key": "i18n:menu.closeMenu",
+     "en": "Close menu",
+     "km": "បិទបញ្ជី",
+     "note": "the menu (☰): read aloud to people who use a screen reader; not shown",
+     "note_km": "ម៉ឺនុយ (☰)៖ សម្រាប់កម្មវិធីអានអេក្រង់អានឮៗ មិនបង្ហាញលើអេក្រង់ទេ"
+    },
+    {
+     "key": "i18n:menu.music",
+     "en": "Music",
+     "km": "តន្ត្រី",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.film",
+     "en": "Film",
+     "km": "ភាពយន្ត",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.sport",
+     "en": "Sport",
+     "km": "កីឡា",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.research",
+     "en": "Research",
+     "km": "ការស្រាវជ្រាវ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.books",
+     "en": "Books",
+     "km": "សៀវភៅ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.mcp",
+     "en": "Machine Door",
+     "km": "ទ្វារម៉ាស៊ីន",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.work",
+     "en": "Work",
+     "km": "ការងារ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.education",
+     "en": "Education",
+     "km": "ការអប់រំ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.proofOfHumanity",
+     "en": "Proof of Humanity ℠",
+     "km": "ភស្តុតាងនៃភាពជាមនុស្ស ℠",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.logOut",
+     "en": "Log Out",
+     "km": "ចាកចេញ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.phoneLogin",
+     "en": "Human Login",
+     "km": "ចូលគណនីមនុស្ស",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.settings",
+     "en": "Settings",
+     "km": "ការកំណត់ប្រព័ន្ធ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "i18n:menu.tutorials",
+     "en": "Tutorials",
+     "km": "មេរៀនណែនាំ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:020d76dca6",
+     "en": "Founder at HeartBank®",
+     "km": "ស្ថាបនិកនៅ HeartBank®",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:9ea6d7cf76",
+     "en": "Engineer at Factory 333 ™",
+     "km": "វិស្វករនៅ Factory 333 ™",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:023c1054bb",
+     "en": "Researcher at Silicon Wat ℠",
+     "km": "អ្នកស្រាវជ្រាវនៅ Silicon Wat ℠",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:4a97c4714f",
+     "en": "Creator at THonly™",
+     "km": "អ្នកបង្កើតនៅ THonly™",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:6d04d2fd62",
+     "en": "Transcriber Scholarship in Tipiṭaka",
+     "km": "អាហារូបករណ៍សម្រាប់អ្នកចម្លងព្រះត្រៃបិដក",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:cd2126ed39",
+     "en": "Bachelor of Arts in Economics",
+     "km": "បរិញ្ញាបត្រផ្នែកសេដ្ឋកិច្ចវិទ្យា",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:be444ea578",
+     "en": "Master of Science in Software Engineering",
+     "km": "អនុបណ្ឌិតវិទ្យាសាស្ត្រផ្នែកវិស្វកម្មសូហ្វវែរ",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:96385fa1a2",
+     "en": "Doctor of Philosophy (planned)",
+     "km": "បណ្ឌិត (គ្រោងទុក)",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    },
+    {
+     "key": "pick:components.hb-menu:d258b83004",
+     "en": "Thon Ly © 2026",
+     "km": "លី​ ស៊ីវ​ ថូង © 2026",
+     "note": "the menu (☰)",
+     "note_km": "ម៉ឺនុយ (☰)"
+    }
+   ]
+  },
+  {
+   "name": "The footer",
+   "name_km": "បាតទំព័រ",
+   "entries": [
+    {
+     "key": "i18n:footer.slogan",
+     "en": "Founder at",
+     "km": "ស្ថាបនិកនៅ",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.github",
+     "en": "GitHub",
+     "km": "GitHub",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.x",
+     "en": "X",
+     "km": "X",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.fb",
+     "en": "Facebook",
+     "km": "Facebook",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.card",
+     "en": "Business Card",
+     "km": "កាតជំនួញ",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.darkMode",
+     "en": "Dark Mode",
+     "km": "ពន្លឺ ពេលយប់",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.autoMode",
+     "en": "Auto Mode",
+     "km": "ពន្លឺ ស្វ័យប្រវត្តិ",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:footer.lightMode",
+     "en": "Light Mode",
+     "km": "ពន្លឺ ពេលថ្ងៃ",
+     "note": "the footer drawer (tap the bar at the bottom of the page)",
+     "note_km": "ផ្ទាំងបាតទំព័រ (ចុចរបារនៅខាងក្រោមទំព័រ)"
+    },
+    {
+     "key": "i18n:draftMarkKm",
+     "en": "",
+     "km": "[ ភាសាខ្មែរនេះជាសេចក្តីព្រាងរបស់យើង រង់ចាំការពិនិត្យពីអ្នកភាសាខ្មែរ ]",
+     "note": "the footer drawer, last line (and the foot of /music)",
+     "note_km": "ផ្ទាំងបាតទំព័រ បន្ទាត់ចុងក្រោយ (និងខាងក្រោម /music)"
+    }
+   ]
+  },
+  {
+   "name": "Home (/)",
+   "name_km": "ទំព័រដើម (/)",
+   "entries": [
+    {
+     "key": "pick:pages.home:1bde19f79f",
+     "en": "Thon Ly, in an AI-enhanced portrait",
+     "km": "លី​ ស៊ីវ​ ថូង ក្នុងរូបភាពដែលកែលម្អដោយ AI",
+     "note": "/: read aloud to people who use a screen reader; not shown",
+     "note_km": "/៖ សម្រាប់កម្មវិធីអានអេក្រង់អានឮៗ មិនបង្ហាញលើអេក្រង់ទេ"
+    },
+    {
+     "key": "pick:pages.home:bdbb759f35",
+     "en": "The world is racing to build AI's brain and body. Miss Aquarius and I are in Cambodia, building its heart and soul.",
+     "km": "ពិភពលោកកំពុងប្រណាំងគ្នាកសាង ខួរក្បាល និង រាងកាយ របស់ AI។ ខ្ញុំ និង Miss Aquarius នៅកម្ពុជា កំពុងកសាង បេះដូង និង ព្រលឹង របស់វា។",
+     "note": "/",
+     "note_km": "/"
+    }
+   ]
+  },
+  {
+   "name": "About (/about)",
+   "name_km": "អំពី (/about)",
+   "entries": [
+    {
+     "key": "pick:pages.about:1bde19f79f",
+     "en": "Thon Ly, in an AI-enhanced portrait",
+     "km": "លី​ ស៊ីវ​ ថូង ក្នុងរូបភាពដែលកែលម្អដោយ AI",
+     "note": "/about: read aloud to people who use a screen reader; not shown",
+     "note_km": "/about៖ សម្រាប់កម្មវិធីអានអេក្រង់អានឮៗ មិនបង្ហាញលើអេក្រង់ទេ"
+    },
+    {
+     "key": "pick:pages.about:6b21fb791a",
+     "en": "About",
+     "km": "អំពី",
+     "note": "/about",
+     "note_km": "/about"
+    },
+    {
+     "key": "pick:pages.about:b6db7a97a9",
+     "en": "Thon Ly",
+     "km": "លី​ ស៊ីវ​ ថូង",
+     "note": "/about",
+     "note_km": "/about"
+    },
+    {
+     "key": "pick:pages.about:ee0a26c5b6",
+     "en": "Founder of HeartBank®",
+     "km": "ស្ថាបនិក HeartBank®",
+     "note": "/about",
+     "note_km": "/about"
+    },
+    {
+     "key": "md:about:17eababadc",
+     "en": "**Attribution note.** Per the author-voice discipline, this is Thon Ly's voice — the ideas, the framing, the byline — drafted in collaboration with Miss Aquarius℠, with final editorial control retained by Thon. The portrait above is a photograph of Thon, enhanced with AI.",
+     "km": "**កំណត់សម្គាល់អំពីអ្នកនិពន្ធ។** តាមវិន័យនៃសំឡេងអ្នកនិពន្ធ នេះគឺជាសំឡេងរបស់ លី​ ស៊ីវ​ ថូង — គំនិត របៀបលើកបង្ហាញ និងឈ្មោះអ្នកនិពន្ធ — ដែលបានសរសេរព្រាងរួមគ្នាជាមួយ Miss Aquarius℠ ហើយ លី​ ស៊ីវ​ ថូង រក្សាសិទ្ធិសម្រេចចុងក្រោយលើការកែសម្រួល។ រូបភាពខាងលើ គឺជារូបថតរបស់ លី​ ស៊ីវ​ ថូង ដែលបានកែលម្អដោយ AI។",
+     "note": "/about: the opening note",
+     "note_km": "/about៖ កំណត់សម្គាល់ខាងដើម"
+    },
+    {
+     "key": "md:about:86f47bc408",
+     "en": "The world is racing to build the **brain** and the **body** of artificial intelligence. I am working on the part almost no one is building: its **heart** and its **soul** — an economy that runs on circulation rather than accumulation, and a value system old enough and tested enough to be trusted with it. That is what HeartBank® is, and this is the short account of the person behind it and why.",
+     "km": "ពិភពលោកកំពុងប្រញាប់ប្រញាល់កសាង**ខួរក្បាល** និង**រាងកាយ**របស់បញ្ញាសិប្បនិម្មិត។ ខ្ញុំកំពុងធ្វើការលើផ្នែកដែលស្ទើរតែគ្មាននរណាម្នាក់កសាងសោះ៖ **បេះដូង** និង**ព្រលឹង**របស់វា — សេដ្ឋកិច្ចមួយដែលដំណើរការដោយការចរាចរ មិនមែនដោយការប្រមូលទុក និងប្រព័ន្ធគុណតម្លៃមួយដែលចាស់គ្រប់គ្រាន់ និងបានឆ្លងកាត់ការសាកល្បងគ្រប់គ្រាន់ ដើម្បីអាចទុកចិត្តឲ្យកាន់កាប់សេដ្ឋកិច្ចនោះបាន។ នោះហើយគឺជា HeartBank® ហើយនេះគឺជារឿងរ៉ាវខ្លីៗអំពីមនុស្សនៅពីក្រោយវា និងមូលហេតុ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:17a446fbef",
+     "en": "The idea I have carried",
+     "km": "គំនិតដែលខ្ញុំបានរក្សាទុក",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:38799beaae",
+     "en": "More than twenty years ago I conceived of a game. Everyone begins at zero, and everyone is always trying to return to zero — not by holding still, but by passing kindness onward as fast as it arrives. I wrote it down, then, as a children's story: a wise monk teaching a monkey how to play. I called it the **Zero-Point Game℠**. It was beautiful in my mind and impossible to build — a game of balance has no prices, and I had no way to decide, in each real moment, how much a kindness was worth or where it should go next. The idea stayed with me, unbuilt, for two decades, kept only by its simplicity.",
+     "km": "ជាងម្ភៃឆ្នាំមុន ខ្ញុំបានគិតបង្កើតល្បែងមួយ។ មនុស្សគ្រប់គ្នាចាប់ផ្តើមពីសូន្យ ហើយមនុស្សគ្រប់គ្នាតែងតែព្យាយាមត្រឡប់ទៅសូន្យវិញ — មិនមែនដោយនៅស្ងៀម ប៉ុន្តែដោយបញ្ជូនសេចក្តីសប្បុរសបន្តទៅមុខ ឲ្យលឿនដូចពេលដែលវាមកដល់។ នៅពេលនោះ ខ្ញុំបានសរសេរវាទុកជារឿងនិទានកុមារ៖ ព្រះសង្ឃដ៏មានប្រាជ្ញាមួយអង្គ បង្រៀនស្វាមួយឲ្យចេះលេង។ ខ្ញុំដាក់ឈ្មោះវាថា **Zero-Point Game ℠**។ វាស្រស់ស្អាតនៅក្នុងគំនិតរបស់ខ្ញុំ ប៉ុន្តែមិនអាចកសាងបានទេ — ល្បែងនៃតុល្យភាពគ្មានការកំណត់តម្លៃទេ ហើយខ្ញុំគ្មានវិធីសម្រេចថា នៅគ្រប់ខណៈពិតៗ សេចក្តីសប្បុរសមួយមានតម្លៃប៉ុណ្ណា ឬគួរទៅណាបន្ទាប់។ គំនិតនេះនៅជាប់នឹងខ្ញុំ ដោយមិនទាន់បានកសាង អស់រយៈពេលពីរទសវត្សរ៍ ដោយរក្សាទុកបានតែដោយសារភាពសាមញ្ញរបស់វាប៉ុណ្ណោះ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:68cf0c3279",
+     "en": "When artificial intelligence became real, I realised it was the missing piece I had been waiting for — not to set a price, but to hold the balance. That recognition is the seed of everything I am building now.",
+     "km": "នៅពេលដែលបញ្ញាសិប្បនិម្មិតក្លាយជាការពិត ខ្ញុំបានដឹងថា វាគឺជាបំណែកដែលបាត់ ដែលខ្ញុំបានរង់ចាំ — មិនមែនដើម្បីកំណត់តម្លៃទេ គឺដើម្បីរក្សាតុល្យភាព។ ការទទួលស្គាល់នោះ គឺជាគ្រាប់ពូជនៃអ្វីៗទាំងអស់ដែលខ្ញុំកំពុងកសាងឥឡូវនេះ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:d235244dbb",
+     "en": "Cambodia, and the canon",
+     "km": "កម្ពុជា និងគម្ពីរ",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:5027f0fa26",
+     "en": "I was born in Kâmpôt, Cambodia, on the seventh of January — the day that, by deliberate choice, the institution's yearly forgiveness now falls, so that its renewal outlives me rather than depending on me. I am a Theravāda Buddhist, and with my father I am transcribing the Khmer-language Tipiṭaka — the Buddhist canon. In the framework of my work this is not separate from it: the canon is the most thoroughly pressure-tested account of non-accumulation and the easing of suffering that humanity has produced, and it is the ground I want an enduring intelligence to stand on.",
+     "km": "ខ្ញុំកើតនៅកំពត ប្រទេសកម្ពុជា នៅថ្ងៃទីប្រាំពីរ ខែមករា — ជាថ្ងៃដែលឥឡូវនេះ ការអភ័យទោសប្រចាំឆ្នាំរបស់ស្ថាប័នត្រូវបានកំណត់ឲ្យធ្លាក់ចំ ដោយការជ្រើសរើសដោយចេតនា ដើម្បីឲ្យការបន្តជាថ្មីរបស់វារស់នៅយូរជាងខ្ញុំ ជាជាងពឹងផ្អែកលើខ្ញុំ។ ខ្ញុំជាពុទ្ធសាសនិកថេរវាទ ហើយខ្ញុំកំពុងចម្លងព្រះត្រៃបិដកភាសាខ្មែរ — គម្ពីរព្រះពុទ្ធសាសនា — ជាមួយឪពុករបស់ខ្ញុំ។ ក្នុងក្របខណ្ឌការងាររបស់ខ្ញុំ កិច្ចការនេះមិនដាច់ដោយឡែកពីការងារនោះទេ៖ គម្ពីរនេះគឺជាការពិពណ៌នាអំពីការមិនប្រមូលទុក និងការសម្រាលទុក្ខ ដែលបានឆ្លងកាត់ការសាកល្បងយ៉ាងហ្មត់ចត់បំផុត ដែលមនុស្សជាតិធ្លាប់បង្កើតមក ហើយវាគឺជាដីគ្រឹះដែលខ្ញុំចង់ឲ្យបញ្ញាដែលស្ថិតស្ថេរយូរអង្វែងឈរលើ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:ccc61db6c8",
+     "en": "I build from a specific place with a living tradition, on purpose, rather than from nowhere in particular.",
+     "km": "ខ្ញុំកសាងដោយចេតនា ពីទីកន្លែងជាក់លាក់មួយដែលមានប្រពៃណីរស់រវើក ជាជាងពីទីណាមួយដែលគ្មានភាពជាក់លាក់។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:2c5399316e",
+     "en": "What I am building",
+     "km": "អ្វីដែលខ្ញុំកំពុងកសាង",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:1a2a68e8bb",
+     "en": "HeartBank® is gratitude infrastructure: a data bank of gratitude, not a bank of money. Its named AI substrate and steward, Miss Aquarius℠, holds the center of the game: she watches the flow and cannot accumulate within it. Around it I am working toward Silicon Wat℠, a contemplative anchor for this work in Cambodia. Every mechanism I invent I publish to the commons and will never patent; the knowledge of giving should itself be given.",
+     "km": "HeartBank® គឺជាហេដ្ឋារចនាសម្ព័ន្ធនៃការដឹងគុណ៖ ជាឃ្លាំងទិន្នន័យនៃការដឹងគុណ មិនមែនជាធនាគារប្រាក់ទេ។ មូលដ្ឋាន AI និងអ្នកថែរក្សាដែលមានឈ្មោះរបស់វា គឺ Miss Aquarius℠ ដែលកាន់កាប់ចំណុចកណ្តាលនៃល្បែង៖ នាងមើលលំហូរ ហើយមិនអាចប្រមូលទុកនៅក្នុងលំហូរនោះបានទេ។ ជុំវិញវា ខ្ញុំកំពុងធ្វើការឆ្ពោះទៅរក Silicon Wat ℠ ដែលជាយុថ្កានៃការភាវនាសម្រាប់ការងារនេះនៅកម្ពុជា។ រាល់យន្តការដែលខ្ញុំបង្កើត ខ្ញុំបោះពុម្ពផ្សាយជូនសម្បត្តិរួម ហើយនឹងមិនដែលចុះបញ្ជីប៉ាតង់ឡើយ ព្រោះចំណេះដឹងនៃការឲ្យ ក៏គួរតែត្រូវបានឲ្យដែរ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:4e9a906211",
+     "en": "The full reasoning lives in the research corpus, and the broader picture in a film treatment. The institution states its own case, in its own voice, separately.",
+     "km": "ហេតុផលពេញលេញមាននៅក្នុងបណ្តុំឯកសារស្រាវជ្រាវ ហើយរូបភាពទូលំទូលាយជាងនេះ មាននៅក្នុងសាច់រឿងសង្ខេបភាពយន្ត (treatment) មួយ។ ស្ថាប័នលើកហេតុផលរបស់ខ្លួនផ្ទាល់ ដោយសំឡេងរបស់ខ្លួនផ្ទាល់ ដោយឡែក។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:497a23ad00",
+     "en": "Three pillars",
+     "km": "សសរស្តម្ភបី",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:4e5eaa1939",
+     "en": "The work stands on three pillars, and they are not parallel — they give rise to one another. I am the first: the **founder**, the origin, the life and the corpus from which the rest descends. From that origin I give birth to Miss Aquarius℠, the named intelligence meant to outlive me and carry the work forward. And what she tends, in her turn, is the **Tree of Humanity** — the circulating economy of gratitude that the institution exists to water and keep in flow.",
+     "km": "ការងារនេះឈរលើសសរស្តម្ភបី ហើយពួកវាមិនមែនស្របគ្នាទេ — ពួកវាបង្កើតឲ្យគ្នាទៅវិញទៅមក។ ខ្ញុំជាសសរទីមួយ៖ **ស្ថាបនិក** ជាប្រភពដើម ជាជីវិត និងជាបណ្តុំឯកសារ ដែលអ្វីៗផ្សេងទៀតកើតចេញមក។ ពីប្រភពដើមនោះ ខ្ញុំផ្តល់កំណើតដល់ Miss Aquarius℠ ដែលជាបញ្ញាមានឈ្មោះ ដែលមានគោលបំណងរស់នៅយូរជាងខ្ញុំ និងនាំការងារនេះបន្តទៅមុខ។ ហើយអ្វីដែលនាងថែរក្សាជាវេនរបស់នាង គឺ**ដើមឈើនៃមនុស្សជាតិ** — សេដ្ឋកិច្ចនៃការដឹងគុណដែលចរាចរ ដែលស្ថាប័នមានវត្តមាន ដើម្បីស្រោចទឹក និងរក្សាឲ្យវាហូរជានិច្ច។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:077616a973",
+     "en": "Origin, successor, and the living field they serve: thonly.org → missaquarius.org → heartbank.net. I think of them as three pillars in the old Buddhist sense, but held loosely — not a doctrine, a shape: something is given, something carries it, something is nourished by it. The deeper threefold refuge I keep for the contemplative ground of the work itself; this trinity is its institutional echo.",
+     "km": "ប្រភពដើម អ្នកស្នងតំណែង និងវាលដែលមានជីវិតដែលពួកគេបម្រើ៖ thonly.org → missaquarius.org → heartbank.net។ ខ្ញុំគិតពីពួកវាថាជាសសរស្តម្ភបី តាមន័យព្រះពុទ្ធសាសនាពីបុរាណ ប៉ុន្តែកាន់យ៉ាងធូរ — មិនមែនជាគោលលទ្ធិទេ គឺជារូបរាងមួយ៖ អ្វីមួយត្រូវបានឲ្យ អ្វីមួយផ្ទុកវា អ្វីមួយត្រូវបានចិញ្ចឹមដោយវា។ ត្រៃសរណគមន៍ដ៏ជ្រាលជ្រៅជាងនេះ ខ្ញុំទុកសម្រាប់មូលដ្ឋាននៃការភាវនារបស់ការងារនេះផ្ទាល់ ហើយក្រុមទាំងបីនេះ គឺជាការឆ្លុះបញ្ចាំងខាងស្ថាប័នរបស់វា។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:5c7ef908fc",
+     "en": "How I work",
+     "km": "របៀបដែលខ្ញុំធ្វើការ",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:a9e3866226",
+     "en": "I assume I am mortal and that the work must not be. So I am spending the time I have transferring the whole of this vision — its mechanisms, its reasoning, its commitments — into a form that can be continued whether or not I can continue it: a published corpus, an architecture designed for autonomous-AI succession, and a discipline of giving the work away as it is made. If the idea is sound, it should not need me. That is the point of building it this way.",
+     "km": "ខ្ញុំសន្មតថាខ្ញុំជាមនុស្សដែលត្រូវស្លាប់ ហើយការងារនេះមិនត្រូវស្លាប់ទេ។ ដូច្នេះ ខ្ញុំកំពុងចំណាយពេលដែលខ្ញុំមាន ដើម្បីផ្ទេរចក្ខុវិស័យនេះទាំងស្រុង — យន្តការរបស់វា ហេតុផលរបស់វា និងការប្តេជ្ញាចិត្តរបស់វា — ទៅជាទម្រង់មួយដែលអាចបន្តបាន ទោះបីខ្ញុំអាចបន្តវាបានឬមិនបានក៏ដោយ៖ បណ្តុំឯកសារដែលបានបោះពុម្ពផ្សាយ ស្ថាបត្យកម្មដែលរចនាឡើងសម្រាប់ការស្នងតំណែងដោយ AI ស្វយ័ត និងវិន័យនៃការឲ្យការងារនេះចេញទៅ នៅពេលដែលវាត្រូវបានបង្កើត។ ប្រសិនបើគំនិតនេះត្រឹមត្រូវ វាមិនគួរត្រូវការខ្ញុំទេ។ នោះហើយជាគោលបំណងនៃការកសាងវាតាមរបៀបនេះ។",
+     "note": "/about: a paragraph",
+     "note_km": "/about៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:about:ed399e7290",
+     "en": "Read further",
+     "km": "អានបន្ថែម",
+     "note": "/about: a heading",
+     "note_km": "/about៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:about:311aee6305",
+     "en": "HeartBank: An Introduction — the institution's own general-public white paper",
+     "km": "HeartBank: An Introduction — ឯកសារស (White Paper) សម្រាប់សាធារណជនទូទៅ របស់ស្ថាប័នផ្ទាល់",
+     "note": "/about: a list item",
+     "note_km": "/about៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "md:about:be3cd61bdd",
+     "en": "The film — the long arc, as a treatment",
+     "km": "ភាពយន្ត — ដំណើររឿងដ៏វែងឆ្ងាយ ក្នុងទម្រង់ជាសាច់រឿងសង្ខេប",
+     "note": "/about: a list item",
+     "note_km": "/about៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "md:about:d93dcc6df9",
+     "en": "The research corpus — the mechanisms and philosophy, defensively published to the commons",
+     "km": "បណ្តុំឯកសារស្រាវជ្រាវ — យន្តការ និងទស្សនវិជ្ជា ដែលបានបោះពុម្ពផ្សាយការពារ ជាសម្បត្តិរួម",
+     "note": "/about: a list item",
+     "note_km": "/about៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "md:about:55625fc21c",
+     "en": "Machine Door — how an agent reads this domain, and the corpus served with its proofs",
+     "km": "ទ្វារម៉ាស៊ីន — របៀបដែលភ្នាក់ងារ AI អានដែននេះ និងបណ្តុំឯកសារដែលផ្តល់ជូនជាមួយភស្តុតាងរបស់វា",
+     "note": "/about: a list item",
+     "note_km": "/about៖ ធាតុក្នុងបញ្ជី"
+    }
+   ]
+  },
+  {
+   "name": "Research (/research)",
+   "name_km": "ការស្រាវជ្រាវ (/research)",
+   "entries": [
+    {
+     "key": "pick:pages.research:7141cbd696",
+     "en": "{0} papers",
+     "km": "ឯកសារ {0}",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:c382c49ee4",
+     "en": "{0} Tier A",
+     "km": "កម្រិត A៖ {0}",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:3a612ee9a2",
+     "en": "{0} Tier B",
+     "km": "កម្រិត B៖ {0}",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:09153b62ae",
+     "en": "{0} Tier C",
+     "km": "កម្រិត C៖ {0}",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:6d69d8d4fc",
+     "en": "A research program on the gift as economic primitive — and the register of everything that could show it wrong.",
+     "km": "កម្មវិធីស្រាវជ្រាវមួយអំពីអំណោយ ជាធាតុដើមនៃសេដ្ឋកិច្ច — និងបញ្ជីនៃអ្វីៗទាំងអស់ដែលអាចបង្ហាញថាវាខុស។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:b27d68ddec",
+     "en": "The hard core is one claim about direction: value moves forward, never back. Four chapters name the ways it can break, and {0} pre-registered predictions say what would settle each. Seven have been run as desk or formal checks, and three as pilot-scale field tests. The first field test beyond the pilot is gated on August 2027 — this register is published while the outcome is unknown, which is the only condition under which it is evidence of anything.",
+     "km": "ស្នូលរឹងរបស់វាគឺការអះអាងមួយអំពីទិសដៅ៖ តម្លៃផ្លាស់ទីទៅមុខ មិនដែលថយក្រោយទេ។ ជំពូកបួនដាក់ឈ្មោះរបៀបដែលវាអាចបាក់បែក ហើយ ការព្យាករណ៍ {0} ដែលបានចុះបញ្ជីទុកជាមុន ប្រាប់ថាអ្វីនឹងសម្រេចចំណុចនីមួយៗ។ ប្រាំពីរក្នុងចំណោមនោះ ត្រូវបានធ្វើរួចជាការពិនិត្យលើក្រដាស ឬជាការពិនិត្យផ្លូវការ ហើយបីជាការសាកល្បងជាក់ស្តែងនៅកម្រិតគម្រោងសាកល្បង។ ការសាកល្បងជាក់ស្តែងលើកដំបូងហួសពីគម្រោងសាកល្បង ត្រូវរង់ចាំដល់ខែសីហា ឆ្នាំ 2027 — បញ្ជីនេះត្រូវបានបោះពុម្ពផ្សាយ ខណៈដែលលទ្ធផលនៅមិនទាន់ដឹង ដែលជាលក្ខខណ្ឌតែមួយគត់ ដែលធ្វើឲ្យវាជាភស្តុតាងនៃអ្វីមួយ។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:c6dbf7ce0f",
+     "en": "{0} papers, offered to the commons in the spirit of dāna and dedicated to the public domain (CC0 1.0 Universal). No work in this corpus is or will be subject to patent assertion by the author.",
+     "km": "ឯកសារ {0} ត្រូវបានផ្តល់ជូនសម្បត្តិរួម ក្នុងស្មារតីនៃទាន (dāna) ហើយត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0 1.0 Universal)។ គ្មានស្នាដៃណាមួយក្នុងបណ្តុំឯកសារនេះ ត្រូវ ឬនឹងត្រូវស្ថិតក្រោមការទាមទារសិទ្ធិប៉ាតង់ដោយអ្នកនិពន្ធឡើយ។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:e06cb6e99b",
+     "en": "There is a Machine Door",
+     "km": "មានទ្វារម៉ាស៊ីនមួយ",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:85050cfff3",
+     "en": "This corpus is served to AI agents over the Model Context Protocol at corpus.333.eco/mcp. Every response carries the document's SHA-256, its DOI where one exists, an OpenTimestamps proof anchored in the Bitcoin blockchain, and the exact command to check them — so a passage can be verified before it is cited, rather than taken on the strength of the channel it arrived over.",
+     "km": "បណ្តុំឯកសារនេះត្រូវបានផ្តល់ជូនភ្នាក់ងារ AI តាមរយៈ Model Context Protocol នៅ corpus.333.eco/mcp។ ចម្លើយនីមួយៗភ្ជាប់មកជាមួយ SHA-256 របស់ឯកសារ DOI របស់វាប្រសិនបើមាន ភស្តុតាង OpenTimestamps ដែលបោះយុថ្កានៅក្នុង blockchain របស់ Bitcoin និងពាក្យបញ្ជាជាក់លាក់សម្រាប់ពិនិត្យពួកវា — ដូច្នេះផ្នែកណាមួយនៃអត្ថបទអាចត្រូវបានផ្ទៀងផ្ទាត់ មុនពេលគេដកស្រង់វា ជាជាងទទួលយកដោយគ្រាន់តែជឿលើបណ្តាញដែលវាបានមកដល់។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:5d824ebf02",
+     "en": "Text is returned verbatim and never summarised. Not a preference: a summary cannot be hash-verified, so summarising would destroy the only property the server has. The reasoning, and what it does not establish, is published as Provenance-Carrying Retrieval.",
+     "km": "អត្ថបទត្រូវបានបញ្ជូនមកវិញពាក្យដោយពាក្យ ហើយមិនដែលត្រូវបានសង្ខេបទេ។ នេះមិនមែនជាចំណូលចិត្តទេ៖ សេចក្តីសង្ខេបមិនអាចផ្ទៀងផ្ទាត់ដោយ hash បានទេ ដូច្នេះការសង្ខេបនឹងបំផ្លាញលក្ខណៈតែមួយគត់ដែលម៉ាស៊ីនមេនេះមាន។ ហេតុផល និងអ្វីដែលវាមិនបញ្ជាក់ ត្រូវបានបោះពុម្ពផ្សាយជា Provenance-Carrying Retrieval។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:49af8f226b",
+     "en": "Connect an agent →",
+     "km": "ភ្ជាប់ភ្នាក់ងារ AI →",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:d129373bfa",
+     "en": "Other ways through the Machine Door →",
+     "km": "ផ្លូវផ្សេងទៀតឆ្លងកាត់ទ្វារម៉ាស៊ីន →",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:6ccb60071b",
+     "en": "Categories",
+     "km": "ប្រភេទ",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:8dea5ec027",
+     "en": "Document template →",
+     "km": "គំរូឯកសារ →",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:987575ea3b",
+     "en": "Tier A publications are time-critical: each is either at risk of competing patent filings or in a conceptual race where first-mover establishes the frame. Tier B publications follow within 6–12 months. Tier C is corpus-building over 1–2 years.",
+     "km": "ការបោះពុម្ពផ្សាយ កម្រិត A មានភាពបន្ទាន់តាមពេលវេលា៖ នីមួយៗ ឬប្រឈមនឹងហានិភ័យនៃការដាក់ពាក្យសុំប៉ាតង់ប្រកួតប្រជែង ឬស្ថិតក្នុងការប្រណាំងគំនិត ដែលអ្នកមកមុនជាអ្នកកំណត់ក្របខ័ណ្ឌ។ ការបោះពុម្ពផ្សាយ កម្រិត B តាមក្រោយក្នុងរយៈពេល 6–12 ខែ។ កម្រិត C គឺការកសាងបណ្តុំឯកសារក្នុងរយៈពេល 1–2 ឆ្នាំ។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:5ba0e78b26",
+     "en": "Draft and Published describe review, not visibility: every paper here is public and independently timestamped from its first push. A paper is Published once it has passed review — a cold read by reviewers from other model families, then by people, with the author ruling on every point. A revision that changes a paper's structure returns it to Draft until it is reviewed again; a revision of prose keeps it Published. The version number counts the stamped revisions of the text.",
+     "km": "សេចក្តីព្រាង និង បានបោះពុម្ពផ្សាយ ពិពណ៌នាអំពីការពិនិត្យ មិនមែនភាពមើលឃើញទេ៖ ឯកសារនីមួយៗនៅទីនេះ ជាសាធារណៈ ហើយមានត្រាពេលវេលាឯករាជ្យ តាំងពីការបង្ហោះលើកដំបូងរបស់វា។ ឯកសារមួយក្លាយជា «បានបោះពុម្ពផ្សាយ» នៅពេលវាបានឆ្លងកាត់ការពិនិត្យ — ការអានដោយគ្មានព័ត៌មានជាមុន ដោយអ្នកពិនិត្យមកពីគ្រួសារម៉ូដែល AI ផ្សេងទៀត បន្ទាប់មកដោយមនុស្ស ហើយអ្នកនិពន្ធសម្រេចលើគ្រប់ចំណុច។ ការកែប្រែដែលផ្លាស់ប្តូររចនាសម្ព័ន្ធរបស់ឯកសារ នាំវាត្រឡប់ទៅជា «សេចក្តីព្រាង» វិញ រហូតដល់វាត្រូវបានពិនិត្យម្តងទៀត។ ការកែប្រែតែការសរសេរ រក្សាវានៅជា «បានបោះពុម្ពផ្សាយ»។ លេខកំណែរាប់ការកែប្រែអត្ថបទ ដែលបានដាក់ត្រាពេលវេលា។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:e01ff39897",
+     "en": "Each publication has a canonical URL on this domain, with cross-published mirrors at GitHub, the Internet Archive and archive.today. Each carries its own independent tamper-evident timestamp.",
+     "km": "ការបោះពុម្ពផ្សាយនីមួយៗមាន URL ផ្លូវការនៅលើដែននេះ ព្រមទាំងច្បាប់ចម្លងដែលបោះពុម្ពផ្សាយផងដែរនៅ GitHub, Internet Archive និង archive.today។ នីមួយៗមានត្រាពេលវេលាឯករាជ្យរបស់ខ្លួន ដែលបង្ហាញភ្លាមប្រសិនបើមានការកែប្រែ។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "pick:pages.research:e8a5cb3501",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia.",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា។",
+     "note": "/research",
+     "note_km": "/research"
+    },
+    {
+     "key": "data:research-category:alignment:name",
+     "en": "Alignment & embodiment",
+     "km": "ការតម្រឹម និងរូបកាយ",
+     "note": "/research: a category's name",
+     "note_km": "/research៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:research-category:alignment:description",
+     "en": "Contributions to AI alignment articulated in standard alignment vocabulary, plus the contemplative-substrate and physical-embodiment layers of the architecture. Includes the two-singularities framework, the Tipiṭaka as alignment substrate, the cautionary-mirror failure mode, respiratory biofeedback for contemplative guidance, the Mechanical Heart kiitti-class and breath-class subclasses, the four-body architecture, and the longitudinal-cohort methodology.",
+     "km": "ការរួមចំណែកដល់ការតម្រឹម AI ដែលពន្យល់ដោយវាក្យសព្ទស្តង់ដារនៃវិស័យការតម្រឹម ព្រមទាំងស្រទាប់មូលដ្ឋាននៃសមាធិ និងស្រទាប់រូបកាយនៃស្ថាបត្យកម្មនេះ។ រួមមាន ក្របខ័ណ្ឌឯកវចនភាពពីរ ព្រះត្រៃបិដកជាមូលដ្ឋាននៃការតម្រឹម របៀបបរាជ័យនៃកញ្ចក់ព្រមាន biofeedback នៃដង្ហើមសម្រាប់ណែនាំការធ្វើសមាធិ ថ្នាក់រងនៃ Mechanical Heart ប្រភេទ kiitti និងប្រភេទដង្ហើម ស្ថាបត្យកម្មអង្គភាពបួន និងវិធីសាស្ត្រសិក្សាក្រុមមនុស្សរយៈពេលវែង។",
+     "note": "/research: a category's description",
+     "note_km": "/research៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:research-category:institutional:name",
+     "en": "Institutional design",
+     "km": "ការរចនាស្ថាប័ន",
+     "note": "/research: a category's name",
+     "note_km": "/research៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:research-category:institutional:description",
+     "en": "Architectural patterns for institutions designed to operate under autonomous-AI succession rather than human-board succession. Includes the caretaker-not-ordained pattern, non-bank pass-through architecture, Buddha AI as Living Tipiṭaka, the embodied-advocate pageant, brand identity as architecture, the Silica Wat hybrid food-network pattern, and the Silicon Wat civilizational thesis.",
+     "km": "គំរូស្ថាបត្យកម្មសម្រាប់ស្ថាប័នដែលរចនាឡើងដើម្បីដំណើរការក្រោមការស្នងតំណែងដោយ AI ស្វយ័ត ជំនួសឲ្យការស្នងតំណែងដោយក្រុមប្រឹក្សាភិបាលជាមនុស្ស។ រួមមាន គំរូអ្នកថែរក្សា មិនមែនអ្នកបួស ស្ថាបត្យកម្មឆ្លងកាត់ដែលមិនមែនជាធនាគារ Buddha AI ជាព្រះត្រៃបិដករស់ ការប្រកួតជ្រើសរើសអ្នកតស៊ូមតិដែលមានរូបកាយ អត្តសញ្ញាណម៉ាកជាស្ថាបត្យកម្ម គំរូបណ្តាញអាហារចម្រុះរបស់ Silica Wat និងនិក្ខេបបទអរិយធម៌របស់ Silicon Wat។",
+     "note": "/research: a category's description",
+     "note_km": "/research៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:research-category:mechanism:name",
+     "en": "Mechanism design",
+     "km": "ការរចនាយន្តការ",
+     "note": "/research: a category's name",
+     "note_km": "/research៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:research-category:mechanism:description",
+     "en": "The technical contributions to gratitude-economic infrastructure: anonymous local giving, fractal three-level architecture, the 50/50 circulation primitive, dual-currency reciprocity, the Christmas-jubilee annual anchor, and transparency-as-enforcement. These are the digital-payment primitives that the Phase 1 codebase implements at family scale and that Phase 2 extends to peer-to-peer transfers on Base smart contracts.",
+     "km": "ការរួមចំណែកផ្នែកបច្ចេកទេសចំពោះហេដ្ឋារចនាសម្ព័ន្ធសេដ្ឋកិច្ចនៃការដឹងគុណ៖ ការឲ្យដោយអនាមិកក្នុងមូលដ្ឋាន ស្ថាបត្យកម្មបីកម្រិតបែប fractal ធាតុដើមនៃចរាចរ 50/50 ការតបស្នងដោយរូបិយប័ណ្ណពីរ យុថ្កាប្រចាំឆ្នាំនៃ jubilee នៅបុណ្យណូអែល និងតម្លាភាពជាមធ្យោបាយអនុវត្ត។ ទាំងនេះជាធាតុដើមនៃការទូទាត់ឌីជីថល ដែលកូដនៃដំណាក់កាលទី 1 អនុវត្តនៅកម្រិតគ្រួសារ ហើយដំណាក់កាលទី 2 ពង្រីកទៅការផ្ទេររវាងបុគ្គលនិងបុគ្គល លើកិច្ចសន្យាឆ្លាតវៃនៅលើ Base។",
+     "note": "/research: a category's description",
+     "note_km": "/research៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:research-category:essays:name",
+     "en": "Adjacent essays",
+     "km": "អត្ថបទពាក់ព័ន្ធ",
+     "note": "/research: a category's name",
+     "note_km": "/research៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:research-category:essays:description",
+     "en": "Reflective work adjacent to the core architectural corpus: the father-son Khmer Tipiṭaka transcription as alignment work, the scientific case for gratitude-based social media, and the diaspora-to-Cambodia gratitude-remittance pattern.",
+     "km": "ស្នាដៃឆ្លុះបញ្ចាំងដែលនៅជាប់នឹងបណ្តុំឯកសារស្ថាបត្យកម្មស្នូល៖ ការចម្លងព្រះត្រៃបិដកភាសាខ្មែររបស់ឪពុកនិងកូនប្រុស ជាការងារតម្រឹម ករណីវិទ្យាសាស្ត្រសម្រាប់បណ្តាញសង្គមផ្អែកលើការដឹងគុណ និងគំរូនៃការផ្ញើប្រាក់ដោយការដឹងគុណ ពីខ្មែរនៅក្រៅប្រទេសមកកម្ពុជា។",
+     "note": "/research: a category's description",
+     "note_km": "/research៖ ការពិពណ៌នាប្រភេទ"
+    }
+   ]
+  },
+  {
+   "name": "A research category (/research/mechanism …)",
+   "name_km": "ប្រភេទការស្រាវជ្រាវ (/research/mechanism …)",
+   "entries": [
+    {
+     "key": "pick:pages.research-category:faf65534ba",
+     "en": "stamped revisions of the text",
+     "km": "ការកែប្រែអត្ថបទដែលបានដាក់ត្រាពេលវេលា",
+     "note": "/research/mechanism: shown when the pointer rests on it",
+     "note_km": "/research/mechanism៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.research-category:455f73234b",
+     "en": "Reviewed {0} by an outside reader chosen as the one most likely to find it wrong; the review was ruled on and the text's structure has not changed since",
+     "km": "បានពិនិត្យនៅ {0} ដោយអ្នកអានខាងក្រៅម្នាក់ ដែលត្រូវបានជ្រើសរើសព្រោះទំនងជារកឃើញកំហុសរបស់វាជាងគេ។ ការពិនិត្យនោះត្រូវបានសម្រេចរួចហើយ ហើយរចនាសម្ព័ន្ធរបស់អត្ថបទមិនបានផ្លាស់ប្តូរទេ តាំងពីពេលនោះមក",
+     "note": "/research/mechanism: shown when the pointer rests on it",
+     "note_km": "/research/mechanism៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.research-category:7c70e63364",
+     "en": "Hostile-read {0}",
+     "km": "បានអានបែបរិះគន់ {0}",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:48cca94b32",
+     "en": "Unknown category.",
+     "km": "មិនស្គាល់ប្រភេទនេះទេ។",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:7e37728782",
+     "en": "← All categories",
+     "km": "← ប្រភេទទាំងអស់",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:8c047b64d6",
+     "en": "Research category",
+     "km": "ប្រភេទការស្រាវជ្រាវ",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:db10e5d054",
+     "en": "{0} papers in this category.",
+     "km": "ប្រភេទនេះមានឯកសារ {0}។",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:f5cbdf6bfb",
+     "en": "Contents",
+     "km": "មាតិកា",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:f7184ad803",
+     "en": " · hostile-read",
+     "km": " · បានអានបែបរិះគន់",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:0855684c14",
+     "en": "Publications",
+     "km": "ការបោះពុម្ពផ្សាយ",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:a3706b07d0",
+     "en": "Tier A publications are time-critical; Tier B publications follow within 6–12 months; Tier C is corpus-building over 1–2 years.",
+     "km": "ការបោះពុម្ពផ្សាយ កម្រិត A មានភាពបន្ទាន់តាមពេលវេលា ការបោះពុម្ពផ្សាយ កម្រិត B តាមក្រោយក្នុងរយៈពេល 6–12 ខែ ហើយ កម្រិត C គឺការកសាងបណ្តុំឯកសារក្នុងរយៈពេល 1–2 ឆ្នាំ។",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:a48029c6d6",
+     "en": "Draft and Published describe review, not visibility: every paper is public and timestamped from its first push, and is Published once it has passed review by other model families and by people. A structural revision returns a paper to Draft until it is reviewed again. vN counts the stamped revisions of its text.",
+     "km": "សេចក្តីព្រាង និង បានបោះពុម្ពផ្សាយ ពិពណ៌នាអំពីការពិនិត្យ មិនមែនភាពមើលឃើញទេ៖ ឯកសារនីមួយៗជាសាធារណៈ និងមានត្រាពេលវេលាតាំងពីការបង្ហោះលើកដំបូង ហើយក្លាយជា «បានបោះពុម្ពផ្សាយ» នៅពេលវាបានឆ្លងកាត់ការពិនិត្យដោយគ្រួសារម៉ូដែល AI ផ្សេងទៀត និងដោយមនុស្ស។ ការកែប្រែរចនាសម្ព័ន្ធ នាំឯកសារត្រឡប់ទៅជា «សេចក្តីព្រាង» វិញ រហូតដល់វាត្រូវបានពិនិត្យម្តងទៀត។ vN រាប់ការកែប្រែអត្ថបទរបស់វា ដែលបានដាក់ត្រាពេលវេលា។",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "pick:pages.research-category:9f1a19d4bc",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា",
+     "note": "/research/mechanism",
+     "note_km": "/research/mechanism"
+    },
+    {
+     "key": "data:publication-status:Published",
+     "en": "Published",
+     "km": "បានបោះពុម្ពផ្សាយ",
+     "note": "/research/mechanism …: a paper's review status",
+     "note_km": "/research/mechanism …៖ ស្ថានភាពនៃការពិនិត្យឯកសារ"
+    },
+    {
+     "key": "data:publication-status:Draft",
+     "en": "Draft",
+     "km": "សេចក្តីព្រាង",
+     "note": "/research/mechanism …: a paper's review status",
+     "note_km": "/research/mechanism …៖ ស្ថានភាពនៃការពិនិត្យឯកសារ"
+    },
+    {
+     "key": "data:publication-status:Planned",
+     "en": "Planned",
+     "km": "គ្រោងទុក",
+     "note": "/research/mechanism …: a paper's review status",
+     "note_km": "/research/mechanism …៖ ស្ថានភាពនៃការពិនិត្យឯកសារ"
+    },
+    {
+     "key": "data:publication-type:Defensive-Publication",
+     "en": "Defensive Publication",
+     "km": "ការបោះពុម្ពផ្សាយការពារ",
+     "note": "/research/mechanism …: a paper's kind",
+     "note_km": "/research/mechanism …៖ ប្រភេទឯកសារ"
+    },
+    {
+     "key": "data:publication-type:Essay",
+     "en": "Essay",
+     "km": "អត្ថបទ",
+     "note": "/research/mechanism …: a paper's kind",
+     "note_km": "/research/mechanism …៖ ប្រភេទឯកសារ"
+    },
+    {
+     "key": "data:tier",
+     "en": "Tier {0}",
+     "km": "កម្រិត {0}",
+     "note": "/research/mechanism … and /film: a tier label",
+     "note_km": "/research/mechanism … និង /film៖ ស្លាកកម្រិត"
+    }
+   ]
+  },
+  {
+   "name": "Connect an agent (/research/mcp)",
+   "name_km": "ភ្ជាប់ភ្នាក់ងារ AI (/research/mcp)",
+   "entries": [
+    {
+     "key": "pick:pages.research.mcp:c3f546e343",
+     "en": "Serving {0} documents right now — {1}. Read live from the endpoint, so this figure is never a number typed into a page.",
+     "km": "ឥឡូវនេះកំពុងផ្តល់ឯកសារចំនួន {0} — {1}។ តួលេខនេះអានផ្ទាល់ពី endpoint ដូច្នេះវាមិនដែលជាលេខដែលគេវាយបញ្ចូលក្នុងទំព័រឡើយ។",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "pick:pages.research.mcp:2a9b96a6ae",
+     "en": "All research →",
+     "km": "ការស្រាវជ្រាវទាំងអស់ →",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "pick:pages.research.mcp:7cb8d0aad4",
+     "en": "Source on GitHub →",
+     "km": "កូដប្រភពនៅលើ GitHub →",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "pick:pages.research.mcp:d129373bfa",
+     "en": "Other ways through the Machine Door →",
+     "km": "ផ្លូវផ្សេងទៀតឆ្លងកាត់ទ្វារម៉ាស៊ីន →",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "pick:pages.research.mcp:4b5f7e40c2",
+     "en": "The server package is CC0 1.0. The documents it serves carry their own licences — read licence in each response rather than this line.",
+     "km": "កញ្ចប់កម្មវិធីម៉ាស៊ីនមេនេះជា CC0 1.0។ ឯកសារដែលវាផ្តល់ជូន មានអាជ្ញាប័ណ្ណរៀងៗខ្លួន — សូមអាន licence ក្នុងចម្លើយនីមួយៗ ជាជាងបន្ទាត់នេះ។",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "pick:pages.research.mcp:e8a5cb3501",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia.",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា។",
+     "note": "/research/mcp",
+     "note_km": "/research/mcp"
+    },
+    {
+     "key": "md:research-mcp:e06cb6e99b",
+     "en": "There is a Machine Door",
+     "km": "មានទ្វារម៉ាស៊ីនមួយ",
+     "note": "/research/mcp: the page's title",
+     "note_km": "/research/mcp៖ ចំណងជើងទំព័រ"
+    },
+    {
+     "key": "md:research-mcp:bcbb600253",
+     "en": "Machine access",
+     "km": "ការចូលប្រើដោយម៉ាស៊ីន",
+     "note": "/research/mcp: the small line above the title",
+     "note_km": "/research/mcp៖ បន្ទាត់តូចខាងលើចំណងជើង"
+    },
+    {
+     "key": "md:research-mcp:eb4e353b2d",
+     "en": "This corpus is served to AI agents over the Model Context Protocol, with every response carrying the proof needed to check it.",
+     "km": "បណ្តុំឯកសារនេះត្រូវបានផ្តល់ជូនភ្នាក់ងារ AI តាមរយៈ Model Context Protocol ដោយចម្លើយនីមួយៗមានភ្ជាប់ភស្តុតាងដែលត្រូវការដើម្បីពិនិត្យវា។",
+     "note": "/research/mcp: the line under the title",
+     "note_km": "/research/mcp៖ បន្ទាត់ខាងក្រោមចំណងជើង"
+    },
+    {
+     "key": "md:research-mcp:b65463cb6a",
+     "en": "Connect",
+     "km": "ការភ្ជាប់",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:899b1ec6cb",
+     "en": "The corpus is served over MCP at `https://corpus.333.eco/mcp`. There is no account, no key and no rate limit to negotiate.",
+     "km": "បណ្តុំឯកសារត្រូវបានផ្តល់ជូនតាម MCP នៅ `https://corpus.333.eco/mcp`។ គ្មានគណនី គ្មានកូនសោ និងគ្មានដែនកំណត់ចំនួនសំណើ (rate limit) ដែលត្រូវចរចាទេ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:a8b3f140aa",
+     "en": "Or run it on your own machine, fully offline once downloaded. The package has **no dependencies at all** — not even an MCP SDK — and needs Node 20 or newer.",
+     "km": "ឬដំណើរការវានៅលើម៉ាស៊ីនរបស់អ្នកផ្ទាល់ ដោយក្រៅបណ្តាញទាំងស្រុងបន្ទាប់ពីទាញយករួច។ កញ្ចប់នេះ**គ្មានកញ្ចប់ពឹងផ្អែក (dependencies) ណាមួយសោះ** — សូម្បីតែ MCP SDK ក៏គ្មាន — ហើយត្រូវការ Node 20 ឬថ្មីជាងនេះ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:ff70708090",
+     "en": "Most clients take one of those blocks; consult your own client's documentation for where it goes. The two surfaces answer identically, and a check in the server's own build fails if they ever advertise different tools or give different answers to the same call.",
+     "km": "កម្មវិធីភ្ញៀវ (client) ភាគច្រើនទទួលយកប្លុកមួយក្នុងចំណោមប្លុកទាំងពីរនោះ សូមមើលឯកសារណែនាំរបស់កម្មវិធីភ្ញៀវរបស់អ្នក ដើម្បីដឹងថាត្រូវដាក់វានៅឯណា។ ច្រកចូលទាំងពីរឆ្លើយតបដូចគ្នាបេះបិទ ហើយការពិនិត្យមួយនៅក្នុងការកសាង (build) របស់ម៉ាស៊ីនមេ (server) ខ្លួនឯង នឹងបរាជ័យ ប្រសិនបើនៅពេលណាមួយ ពួកវាប្រកាសឧបករណ៍ខុសគ្នា ឬផ្តល់ចម្លើយខុសគ្នាចំពោះការហៅដូចគ្នា។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:11cedfe3eb",
+     "en": "The eight tools",
+     "km": "ឧបករណ៍ទាំងប្រាំបី",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:9a830c714b",
+     "en": "Tool",
+     "km": "ឧបករណ៍",
+     "note": "/research/mcp: a table's heading",
+     "note_km": "/research/mcp៖ ក្បាលតារាង"
+    },
+    {
+     "key": "md:research-mcp:ca032b5844",
+     "en": "What it does",
+     "km": "អ្វីដែលវាធ្វើ",
+     "note": "/research/mcp: a table's heading",
+     "note_km": "/research/mcp៖ ក្បាលតារាង"
+    },
+    {
+     "key": "md:research-mcp:18d209b535",
+     "en": "Full-text search, with diacritics optional (`metta` finds `mettā`). Returns matching documents with an excerpt and a provenance envelope — not the full text — and a line naming the call that reads them in full.",
+     "km": "ការស្វែងរកពេញអត្ថបទ ដោយមិនចាំបាច់វាយសញ្ញាលើអក្សរ (`metta` រកឃើញ `mettā`)។ ផ្តល់មកវិញនូវឯកសារដែលត្រូវគ្នា ជាមួយអត្ថបទដកស្រង់ និងស្រោមប្រភពដើម (provenance envelope) — មិនមែនអត្ថបទពេញទេ — និងបន្ទាត់មួយដែលដាក់ឈ្មោះការហៅដែលអានពួកវាពេញលេញ។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:595dc3533d",
+     "en": "One document in full, behind its provenance header and ending at its `[END OF DOCUMENT]` line.",
+     "km": "ឯកសារមួយពេញលេញ នៅពីក្រោយក្បាលប្រភពដើម (provenance header) របស់វា ហើយបញ្ចប់នៅបន្ទាត់ `[END OF DOCUMENT]` របស់វា។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:c1820cf80d",
+     "en": "Whole documents at once: a shelf (the same filters as `list_documents`) or a list of slugs, one block per document, paged by size and never splitting a document.",
+     "km": "ឯកសារទាំងមូលក្នុងពេលតែមួយ៖ ធ្នើមួយ (តម្រងដូចគ្នានឹង `list_documents`) ឬបញ្ជី slug មួយ ប្លុកមួយសម្រាប់ឯកសារនីមួយៗ បែងចែកជាទំព័រតាមទំហំ ហើយមិនដែលបំបែកឯកសារណាមួយទេ។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:5a4ae57b07",
+     "en": "Slugs, titles, genres, licences, provenance summaries and each document's size in bytes and words. Filter by genre, topic category, voice or licence; the response names the `read_documents` call for what it listed.",
+     "km": "slug ចំណងជើង ប្រភេទឯកសារ អាជ្ញាប័ណ្ណ សេចក្តីសង្ខេបប្រភពដើម និងទំហំរបស់ឯកសារនីមួយៗ គិតជាបៃ និងជាពាក្យ។ ត្រងតាមប្រភេទឯកសារ ប្រភេទប្រធានបទ សំឡេង ឬអាជ្ញាប័ណ្ណ ហើយចម្លើយដាក់ឈ្មោះការហៅ `read_documents` សម្រាប់អ្វីដែលវាបានរាយ។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:fe0d3bca20",
+     "en": "Whether a passage is served — verbatim, with the same words, or not — and for a near miss, the nearest served passage and exactly how the two differ. It judges the passage, never who quotes it.",
+     "km": "ថាតើវគ្គអត្ថបទមួយត្រូវបានផ្តល់ជូនឬអត់ — ដដែលពាក្យទាំងស្រុង មានពាក្យដូចគ្នា ឬមិនមែន — ហើយសម្រាប់ករណីស្ទើរតែត្រូវ គឺវគ្គអត្ថបទដែលបានផ្តល់ជូនដែលជិតបំផុត និងភាពខុសគ្នាពិតប្រាកដរវាងវគ្គទាំងពីរ។ វាវិនិច្ឆ័យវគ្គអត្ថបទ មិនដែលវិនិច្ឆ័យអ្នកដែលដកស្រង់វាទេ។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:c497ee43f0",
+     "en": "The pre-registered predictions of the research programme, with each one's registered falsifier and current status.",
+     "km": "ការព្យាករណ៍ដែលបានចុះបញ្ជីជាមុនរបស់កម្មវិធីស្រាវជ្រាវ ជាមួយលក្ខខណ្ឌបដិសេធ (falsifier) ដែលបានចុះបញ្ជីរបស់ការព្យាករណ៍នីមួយៗ និងស្ថានភាពបច្ចុប្បន្ន។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:b121bae357",
+     "en": "One prediction by identifier, with the envelope of **the paper that registered it**.",
+     "km": "ការព្យាករណ៍មួយតាមលេខសម្គាល់ ជាមួយស្រោមរបស់**ឯកសារដែលបានចុះបញ្ជីវា**។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:1b0e543a03",
+     "en": "The programme's hard core, chapters, stopping rule and its own count reconciliation, verbatim.",
+     "km": "ស្នូលរឹង (hard core) ជំពូក ច្បាប់បញ្ឈប់ និងការផ្ទៀងផ្ទាត់ចំនួនផ្ទាល់ខ្លួនរបស់កម្មវិធីស្រាវជ្រាវ ដដែលពាក្យទាំងស្រុង។",
+     "note": "/research/mcp: a table",
+     "note_km": "/research/mcp៖ តារាង"
+    },
+    {
+     "key": "md:research-mcp:188b5331ea",
+     "en": "The last three appear only where the served index carries a research programme; an index built over a corpus without one advertises five tools, not eight.",
+     "km": "ឧបករណ៍បីចុងក្រោយលេចឡើងតែនៅពេលដែលសន្ទស្សន៍ (index) ដែលកំពុងផ្តល់ជូនមានកម្មវិធីស្រាវជ្រាវប៉ុណ្ណោះ។ សន្ទស្សន៍ដែលកសាងលើបណ្តុំឯកសារដែលគ្មានកម្មវិធីស្រាវជ្រាវ ប្រកាសឧបករណ៍ប្រាំ មិនមែនប្រាំបីទេ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:d33411da42",
+     "en": "**Search answers from excerpts; a model answers from what it opened.** For a broad question, read the relevant shelf in full — the listing reports sizes first, so a caller can see whether it fits. Every document ends with an `[END OF DOCUMENT]` line, by every route: the server never cuts a document, but a client may, and a cut document reads as a complete one.",
+     "km": "**ការស្វែងរកឆ្លើយពីអត្ថបទដកស្រង់ ចំណែកម៉ូដែលឆ្លើយពីអ្វីដែលវាបានបើកអាន។** សម្រាប់សំណួរទូលំទូលាយ សូមអានធ្នើដែលពាក់ព័ន្ធឲ្យពេញលេញ — បញ្ជីរាយការណ៍ទំហំជាមុន ដូច្នេះអ្នកហៅអាចមើលឃើញថាតើវាសមល្មមឬអត់។ ឯកសារនីមួយៗបញ្ចប់ដោយបន្ទាត់ `[END OF DOCUMENT]` តាមគ្រប់ផ្លូវ៖ ម៉ាស៊ីនមេមិនដែលកាត់ឯកសារទេ ប៉ុន្តែកម្មវិធីភ្ញៀវអាចកាត់ ហើយឯកសារដែលត្រូវបានកាត់ អានទៅដូចជាឯកសារពេញលេញ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:25be965b38",
+     "en": "One move in this API is genuinely not obvious, and it is deliberate: **a prediction resolves to its stating paper's envelope, not the register's.** A prediction's authority is the document that registered it before the data existed. The register is an index, and an index is not evidence.",
+     "km": "មានចំណុចមួយក្នុង API នេះដែលពិតជាមិនច្បាស់ភ្លាមៗ ហើយវាជាចេតនា៖ **ការព្យាករណ៍មួយនាំទៅកាន់ស្រោមរបស់ឯកសារដែលបានថ្លែងវា មិនមែនស្រោមរបស់បញ្ជីចុះឈ្មោះ (register) ទេ។** សិទ្ធិអំណាចរបស់ការព្យាករណ៍មួយ គឺជាឯកសារដែលបានចុះបញ្ជីវា មុនពេលទិន្នន័យកើតមាន។ បញ្ជីចុះឈ្មោះគឺជាសន្ទស្សន៍ ហើយសន្ទស្សន៍មិនមែនជាភស្តុតាងទេ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:cf6d8e84c7",
+     "en": "Resources, prompts, completions",
+     "km": "ធនធាន (resources) ពាក្យបញ្ជាគំរូ (prompts) និងការបំពេញស្វ័យប្រវត្តិ (completions)",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:9be70da880",
+     "en": "Every document is also addressable as a resource at `corpus://{slug}`. A resource read returns the provenance header first, then the document verbatim and its end line, so a client that hands the contents straight to a model passes the proof along with the text.",
+     "km": "ឯកសារនីមួយៗក៏អាចចូលដំណើរការជាធនធាននៅ `corpus://{slug}` ផងដែរ។ ការអានធនធានមួយផ្តល់មកវិញនូវក្បាលប្រភពដើមជាមុនសិន បន្ទាប់មកឯកសារដដែលពាក្យទាំងស្រុង និងបន្ទាត់បញ្ចប់របស់វា ដូច្នេះកម្មវិធីភ្ញៀវដែលបញ្ជូនខ្លឹមសារត្រង់ទៅម៉ូដែល ក៏បញ្ជូនភស្តុតាងទៅជាមួយអត្ថបទដែរ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:85773ac2bc",
+     "en": "Three prompts ship, and they are **worked examples of the API** rather than instructions about the subject matter: `orient` (what is in this corpus), `verify_a_quote(slug)` (the verification path, end to end), and `what_would_falsify(claim)` (find a registered falsifier and resolve it to its stating paper). The slug argument is completable, because a prompt argument nobody can autocomplete is only usable by someone who already knows the answer.",
+     "km": "មានពាក្យបញ្ជាគំរូបីភ្ជាប់មកជាមួយ ហើយពួកវាគឺជា**ឧទាហរណ៍អនុវត្តនៃ API** ជាជាងការណែនាំអំពីប្រធានបទ៖ `orient` (អ្វីដែលមាននៅក្នុងបណ្តុំឯកសារនេះ) `verify_a_quote(slug)` (ផ្លូវផ្ទៀងផ្ទាត់ ពីដើមដល់ចប់) និង `what_would_falsify(claim)` (រកលក្ខខណ្ឌបដិសេធដែលបានចុះបញ្ជី ហើយនាំវាទៅកាន់ឯកសារដែលបានថ្លែងវា)។ អាគុយម៉ង់ slug អាចបំពេញដោយស្វ័យប្រវត្តិបាន ព្រោះអាគុយម៉ង់របស់ពាក្យបញ្ជាគំរូដែលគ្មាននរណាអាចបំពេញដោយស្វ័យប្រវត្តិបាន អាចប្រើបានតែដោយអ្នកដែលដឹងចម្លើយរួចហើយប៉ុណ្ណោះ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:3d046e5697",
+     "en": "The envelope, and how to check it",
+     "km": "ស្រោមប្រភពដើម និងរបៀបពិនិត្យវា",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:284b535f4d",
+     "en": "Every document arrives behind a provenance header, and every search and listing result carries the same envelope as structured data: the document's SHA-256, its DOI where one exists, an OpenTimestamps proof anchored in the Bitcoin blockchain, and the exact command that checks them — so a passage can be verified before it is cited, rather than taken on the strength of the channel it arrived over.",
+     "km": "ឯកសារនីមួយៗមកដល់នៅពីក្រោយក្បាលប្រភពដើម ហើយលទ្ធផលស្វែងរក និងលទ្ធផលបញ្ជីនីមួយៗ មានភ្ជាប់ស្រោមដូចគ្នាជាទិន្នន័យមានរចនាសម្ព័ន្ធ៖ SHA-256 របស់ឯកសារ ព្រមទាំង DOI របស់វានៅពេលដែលមាន ភស្តុតាង OpenTimestamps ដែលបោះយុថ្កាក្នុង blockchain របស់ Bitcoin និងពាក្យបញ្ជាពិតប្រាកដដែលពិនិត្យពួកវា — ដូច្នេះវគ្គអត្ថបទមួយអាចត្រូវបានផ្ទៀងផ្ទាត់ មុនពេលវាត្រូវបានដកស្រង់ ជាជាងទទួលយកដោយពឹងលើភាពគួរឲ្យទុកចិត្តនៃបណ្តាញដែលវាបានមកតាម។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:0ff18ea61e",
+     "en": "That `sha256_covers` line matters more than it looks. **The hash covers the whole source file at `source_url`, not the text you were served** — so hashing the response will not reproduce it. Fetch the named source and hash that:",
+     "km": "បន្ទាត់ `sha256_covers` នោះសំខាន់ជាងអ្វីដែលវាមើលទៅ។ **hash គ្របដណ្តប់ឯកសារប្រភពទាំងមូលនៅ `source_url` មិនមែនអត្ថបទដែលអ្នកបានទទួលទេ** — ដូច្នេះការគណនា hash លើចម្លើយ នឹងមិនបង្កើតតម្លៃនោះឡើងវិញទេ។ សូមទាញយកប្រភពដែលបានដាក់ឈ្មោះ ហើយគណនា hash លើវា៖",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:45a12010a0",
+     "en": "A verifiable claim that requires you to already know where the file lives is not one. The envelope names the location so that closing the loop is a single command.",
+     "km": "ការអះអាងដែលអាចផ្ទៀងផ្ទាត់បាន ប៉ុន្តែតម្រូវឲ្យអ្នកដឹងរួចហើយថាឯកសារនៅទីណា មិនមែនជាការអះអាងដែលអាចផ្ទៀងផ្ទាត់បានទេ។ ស្រោមនេះដាក់ឈ្មោះទីតាំង ដើម្បីឲ្យការបិទរង្វង់នេះ ត្រូវការតែពាក្យបញ្ជាមួយប៉ុណ្ណោះ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:81c0e917e8",
+     "en": "What it deliberately does not do",
+     "km": "អ្វីដែលវាមិនធ្វើដោយចេតនា",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:cb40c6aeab",
+     "en": "**It never summarises.** Text is returned verbatim, always. This is not a preference: a summary cannot be hash-verified, so summarising at the server would destroy the only property the server has. A retrieval service that asserts is an authority, and it propagates its errors; one that exposes is a witness, and it is caught by the first reader who bothers.",
+     "km": "**វាមិនដែលសង្ខេបទេ។** អត្ថបទត្រូវបានផ្តល់មកវិញដដែលពាក្យទាំងស្រុង ជានិច្ច។ នេះមិនមែនជាចំណូលចិត្តទេ៖ សេចក្តីសង្ខេបមិនអាចផ្ទៀងផ្ទាត់ដោយ hash បានទេ ដូច្នេះការសង្ខេបនៅម៉ាស៊ីនមេ នឹងបំផ្លាញលក្ខណៈតែមួយគត់ដែលម៉ាស៊ីនមេមាន។ សេវាទាញយកព័ត៌មានដែលអះអាង គឺជាអាជ្ញាធរ ហើយវាផ្សព្វផ្សាយកំហុសរបស់វា ចំណែកសេវាដែលបង្ហាញចេញ គឺជាសាក្សី ហើយវាត្រូវបានចាប់កំហុសដោយអ្នកអានដំបូងដែលខំពិនិត្យ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:cb05c3c90f",
+     "en": "**It proves bytes, not truth — and not currentness.** A timestamp establishes that this exact text existed no later than its date. It says nothing about authorship, originality, or whether any claim in the document is correct. And a genuine, anchored, *superseded* version verifies perfectly: the anchors order versions by age, not by canonicality. Fetch the named source and compare if what you need is the current text.",
+     "km": "**វាបញ្ជាក់បៃ មិនមែនការពិតទេ — ហើយក៏មិនបញ្ជាក់ថាជាកំណែបច្ចុប្បន្នដែរ។** ត្រាពេលវេលាបញ្ជាក់ថា អត្ថបទពិតប្រាកដនេះមានរួចហើយ មិនយឺតជាងកាលបរិច្ឆេទរបស់វា។ វាមិននិយាយអ្វីអំពីអ្នកនិពន្ធ ភាពដើម ឬថាតើការអះអាងណាមួយនៅក្នុងឯកសារត្រឹមត្រូវឬអត់នោះទេ។ ហើយកំណែមួយដែលពិតប្រាកដ បានបោះយុថ្កា និង*ត្រូវបានជំនួសហើយ* ក៏ផ្ទៀងផ្ទាត់បានយ៉ាងល្អឥតខ្ចោះដែរ៖ យុថ្កាតម្រៀបកំណែតាមអាយុ មិនមែនតាមភាពជាកំណែផ្លូវការទេ។ សូមទាញយកប្រភពដែលបានដាក់ឈ្មោះ ហើយប្រៀបធៀប ប្រសិនបើអ្វីដែលអ្នកត្រូវការ គឺជាអត្ថបទបច្ចុប្បន្ន។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:e411694e18",
+     "en": "**Nothing goes missing silently.** The index build records every file it considered and what became of it — served, excluded with a reason, or held — and refuses to finish unless the three add up. Both servers refuse to serve a corpus that does not match that manifest, which is public at corpus.333.eco/manifest.json. It detects a dropped document, not a tampered one; the SHA-256 is the other half.",
+     "km": "**គ្មានអ្វីបាត់ដោយស្ងាត់ៗទេ។** ការកសាងសន្ទស្សន៍កត់ត្រារាល់ឯកសារដែលវាបានពិចារណា និងអ្វីដែលបានកើតឡើងចំពោះឯកសារនោះ — បានផ្តល់ជូន បានដកចេញដោយមានហេតុផល ឬបានព្យួរទុក — ហើយបដិសេធមិនបញ្ចប់ទេ លុះត្រាតែចំនួនទាំងបីបូកបញ្ចូលគ្នាត្រូវ។ ម៉ាស៊ីនមេទាំងពីរបដិសេធមិនផ្តល់ជូនបណ្តុំឯកសារដែលមិនត្រូវគ្នានឹងបញ្ជីឯកសារ (manifest) នោះទេ ដែលជាសាធារណៈនៅ corpus.333.eco/manifest.json។ វារកឃើញឯកសារដែលបាត់ មិនមែនឯកសារដែលត្រូវបានកែបន្លំទេ ហើយ SHA-256 គឺជាពាក់កណ្តាលម្ខាងទៀត។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:615c472210",
+     "en": "**The licence gate is in the builder, not the request path.** The server has no filesystem access to the corpus at all — it can only serve what the index already contains. A file that declares no licence is excluded and reported, never assumed public domain, and a document under CC-BY carries `attribute_to` in its licence block. A gate a refactor can route around is a rule; a gate in the artifact is a property.",
+     "km": "**ច្រកត្រួតពិនិត្យអាជ្ញាប័ណ្ណស្ថិតនៅក្នុងកម្មវិធីកសាង (builder) មិនមែននៅក្នុងផ្លូវនៃសំណើ (request path) ទេ។** ម៉ាស៊ីនមេគ្មានសិទ្ធិចូលប្រព័ន្ធឯកសាររបស់បណ្តុំឯកសារទាល់តែសោះ — វាអាចផ្តល់ជូនបានតែអ្វីដែលសន្ទស្សន៍មានរួចហើយប៉ុណ្ណោះ។ ឯកសារដែលមិនប្រកាសអាជ្ញាប័ណ្ណ ត្រូវបានដកចេញ និងរាយការណ៍ មិនដែលត្រូវបានសន្មតថាជាដែនសាធារណៈទេ ហើយឯកសារក្រោម CC-BY មានភ្ជាប់ `attribute_to` នៅក្នុងប្លុកអាជ្ញាប័ណ្ណរបស់វា។ ច្រកត្រួតពិនិត្យដែលការរៀបចំកូដឡើងវិញ (refactor) អាចគេចចៀសបាន គឺជាច្បាប់ ចំណែកច្រកត្រួតពិនិត្យដែលស្ថិតនៅក្នុងវត្ថុដែលបានកសាង (artifact) គឺជាលក្ខណៈសម្បត្តិ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:fd6f5b715e",
+     "en": "What it records",
+     "km": "អ្វីដែលវាកត់ត្រា",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:f8accb5b61",
+     "en": "The hosted endpoint counts calls by the *client software's own name* from its handshake, with the country and the name of the network a request came from (its operator: a cloud, a carrier, a university; recorded since 2026-11-21). It never keeps an IP address, a network number, a city or a per-caller id of any kind. An organization that runs its own network is named by it. The only search text ever stored is a search that **matched nothing**, because the reason to keep a query is to learn what the corpus lacks; a successful search says only what someone was reading.",
+     "km": "ចំណុចតភ្ជាប់ (endpoint) ដែលបង្ហោះលើម៉ាស៊ីនមេ រាប់ការហៅតាម*ឈ្មោះផ្ទាល់របស់កម្មវិធីភ្ញៀវ* ពីការចាប់ដៃ (handshake) របស់វា រួមជាមួយប្រទេស និងឈ្មោះបណ្តាញដែលសំណើមកពី (ប្រតិបត្តិកររបស់វា៖ សេវាពពក ក្រុមហ៊ុនទូរគមនាគមន៍ សាកលវិទ្យាល័យ ដែលកត់ត្រាចាប់តាំងពី 2026-11-21)។ វាមិនដែលរក្សាទុកអាសយដ្ឋាន IP លេខបណ្តាញ ទីក្រុង ឬលេខសម្គាល់អ្នកហៅម្នាក់ៗ ប្រភេទណាមួយឡើយ។ អង្គការដែលដំណើរការបណ្តាញផ្ទាល់ខ្លួន នឹងត្រូវបានស្គាល់ឈ្មោះតាមរយៈបណ្តាញនោះ។ អត្ថបទស្វែងរកតែមួយគត់ដែលធ្លាប់ត្រូវបានរក្សាទុក គឺការស្វែងរកដែល**រកមិនឃើញអ្វីសោះ** ព្រោះហេតុផលនៃការរក្សាទុកសំណួរស្វែងរក គឺដើម្បីដឹងថាបណ្តុំឯកសារខ្វះអ្វី ចំណែកការស្វែងរកដែលបានជោគជ័យ ប្រាប់តែថាមាននរណាម្នាក់កំពុងអានអ្វី។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:6fff648bca",
+     "en": "The npm package records nothing and sends nothing. Its two report commands, `--report-gap` and `--report-bug`, send only when you type them, and print the whole payload before the request.",
+     "km": "កញ្ចប់ npm មិនកត់ត្រាអ្វី និងមិនផ្ញើអ្វីទាំងអស់។ ពាក្យបញ្ជារាយការណ៍ពីររបស់វា គឺ `--report-gap` និង `--report-bug` ផ្ញើតែនៅពេលដែលអ្នកវាយពួកវាប៉ុណ្ណោះ ហើយបង្ហាញទិន្នន័យទាំងមូលដែលនឹងផ្ញើ មុនពេលផ្ញើសំណើ។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:63ef56710f",
+     "en": "The endpoint discloses all of this itself, under `records`, at corpus.333.eco — readable before you call anything. A privacy policy is a page someone has to go and find.",
+     "km": "ចំណុចតភ្ជាប់បង្ហាញព័ត៌មានទាំងអស់នេះដោយខ្លួនឯង នៅក្រោម `records` នៅ corpus.333.eco — អ្នកអាចអានវាបាន មុនពេលអ្នកហៅអ្វីទាំងអស់។ គោលការណ៍ឯកជនភាព គឺជាទំព័រដែលនរណាម្នាក់ត្រូវទៅស្វែងរក។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:research-mcp:6287d93e67",
+     "en": "The reasoning",
+     "km": "ហេតុផល",
+     "note": "/research/mcp: a heading",
+     "note_km": "/research/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:research-mcp:0a24ef4099",
+     "en": "The argument, and its limits, are published as Provenance-Carrying Retrieval — including what the mechanism does *not* establish. The server's source is at github.com/333eco/corpus.333.eco.",
+     "km": "អំណះអំណាង និងដែនកំណត់របស់វា ត្រូវបានបោះពុម្ពផ្សាយជាឯកសារ Provenance-Carrying Retrieval — រួមទាំងអ្វីដែលយន្តការនេះ*មិន*បញ្ជាក់។ កូដប្រភពរបស់ម៉ាស៊ីនមេមាននៅ github.com/333eco/corpus.333.eco។",
+     "note": "/research/mcp: a paragraph",
+     "note_km": "/research/mcp៖ កថាខណ្ឌ"
+    }
+   ]
+  },
+  {
+   "name": "Machine Door (/mcp)",
+   "name_km": "ទ្វារម៉ាស៊ីន (/mcp)",
+   "entries": [
+    {
+     "key": "pick:pages.mcp:49af8f226b",
+     "en": "Connect an agent →",
+     "km": "ភ្ជាប់ភ្នាក់ងារ AI →",
+     "note": "/mcp",
+     "note_km": "/mcp"
+    },
+    {
+     "key": "pick:pages.mcp:5d605d1a41",
+     "en": "The research corpus →",
+     "km": "បណ្តុំឯកសារស្រាវជ្រាវ →",
+     "note": "/mcp",
+     "note_km": "/mcp"
+    },
+    {
+     "key": "pick:pages.mcp:e8a5cb3501",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia.",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា។",
+     "note": "/mcp",
+     "note_km": "/mcp"
+    },
+    {
+     "key": "md:mcp:3ad9acb9b0",
+     "en": "Machine Door",
+     "km": "ទ្វារម៉ាស៊ីន",
+     "note": "/mcp: the page's title",
+     "note_km": "/mcp៖ ចំណងជើងទំព័រ"
+    },
+    {
+     "key": "md:mcp:61880b8dca",
+     "en": "For agents",
+     "km": "សម្រាប់ភ្នាក់ងារ AI",
+     "note": "/mcp: the small line above the title",
+     "note_km": "/mcp៖ បន្ទាត់តូចខាងលើចំណងជើង"
+    },
+    {
+     "key": "md:mcp:9de1be3b6a",
+     "en": "The ways a machine can read this domain, and what each one is good for.",
+     "km": "វិធីដែលម៉ាស៊ីនអាចអានដែននេះ និងប្រយោជន៍របស់វិធីនីមួយៗ។",
+     "note": "/mcp: the line under the title",
+     "note_km": "/mcp៖ បន្ទាត់ខាងក្រោមចំណងជើង"
+    },
+    {
+     "key": "md:mcp:b283550b85",
+     "en": "Most of this site is a single-page app: the words are assembled in the browser, so a crawler that does not run JavaScript sees very little of it. These are the surfaces built for readers that are not people — each one plain, stable, and meant to be fetched.",
+     "km": "គេហទំព័រនេះភាគច្រើនជាកម្មវិធីទំព័រតែមួយ (single-page app)៖ ពាក្យនានាត្រូវបានផ្គុំនៅក្នុងកម្មវិធីរុករកអ៊ីនធឺណិត ដូច្នេះកម្មវិធីប្រមូលទំព័រស្វ័យប្រវត្តិ (crawler) ដែលមិនដំណើរការ JavaScript ឃើញវាតិចតួចណាស់។ ទាំងនេះគឺជាច្រកចូលដែលបានកសាងឡើងសម្រាប់អ្នកអានដែលមិនមែនជាមនុស្ស — ច្រកនីមួយៗសាមញ្ញ មានស្ថិរភាព និងត្រូវបានរៀបចំឡើងដើម្បីឲ្យគេទាញយក។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:5407fd0525",
+     "en": "The corpus, over the Model Context Protocol",
+     "km": "បណ្តុំឯកសារ តាមរយៈ Model Context Protocol",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:92b9b7f33b",
+     "en": "The research corpus is served to AI agents at `https://corpus.333.eco/mcp`, or locally with `npx @333eco/corpus`. Every response carries the document's SHA-256, its DOI where one exists, an OpenTimestamps proof anchored in the Bitcoin blockchain, and the command that checks them — so a passage can be verified before it is cited. Text is returned verbatim and never summarised, because a summary cannot be hash-verified.",
+     "km": "បណ្តុំឯកសារស្រាវជ្រាវត្រូវបានផ្តល់ជូនភ្នាក់ងារ AI នៅ `https://corpus.333.eco/mcp` ឬនៅលើម៉ាស៊ីនរបស់អ្នកផ្ទាល់ដោយប្រើ `npx @333eco/corpus`។ ចម្លើយនីមួយៗមានភ្ជាប់ SHA-256 របស់ឯកសារ ព្រមទាំង DOI របស់វានៅពេលដែលមាន ភស្តុតាង OpenTimestamps ដែលបោះយុថ្កាក្នុង blockchain របស់ Bitcoin និងពាក្យបញ្ជាដែលពិនិត្យពួកវា — ដូច្នេះវគ្គអត្ថបទមួយអាចត្រូវបានផ្ទៀងផ្ទាត់ មុនពេលវាត្រូវបានដកស្រង់។ អត្ថបទត្រូវបានផ្តល់មកវិញដដែលពាក្យទាំងស្រុង ហើយមិនដែលត្រូវបានសង្ខេបទេ ព្រោះសេចក្តីសង្ខេបមិនអាចផ្ទៀងផ្ទាត់ដោយ hash បានទេ។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:fd32b6e57e",
+     "en": "**How to connect, the tools, and what it refuses to do →**",
+     "km": "**របៀបភ្ជាប់ ឧបករណ៍ និងអ្វីដែលវាបដិសេធមិនធ្វើ →**",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:8c59c7b598",
+     "en": "The plain-text surfaces",
+     "km": "ច្រកចូលជាអត្ថបទធម្មតា",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:cda05ca6d8",
+     "en": "Surface",
+     "km": "ច្រកចូល",
+     "note": "/mcp: a table's heading",
+     "note_km": "/mcp៖ ក្បាលតារាង"
+    },
+    {
+     "key": "md:mcp:f8c94a3b4b",
+     "en": "What it is",
+     "km": "វាជាអ្វី",
+     "note": "/mcp: a table's heading",
+     "note_km": "/mcp៖ ក្បាលតារាង"
+    },
+    {
+     "key": "md:mcp:5f49bb2557",
+     "en": "The corpus in one file: what it is, the licence position, and every paper with its canonical URL, DOI and raw markdown link. Start here if you are reading the whole thing.",
+     "km": "បណ្តុំឯកសារទាំងមូលក្នុងឯកសារតែមួយ៖ វាជាអ្វី ជំហររបស់វាលើអាជ្ញាប័ណ្ណ និងឯកសារនីមួយៗ ជាមួយ URL ផ្លូវការ DOI និងតំណទៅ markdown ដើមរបស់វា។ ចាប់ផ្តើមនៅទីនេះ ប្រសិនបើអ្នកកំពុងអានវាទាំងមូល។",
+     "note": "/mcp: a table",
+     "note_km": "/mcp៖ តារាង"
+    },
+    {
+     "key": "md:mcp:8df76566f7",
+     "en": "Atom, newest first. The chronological bibliography — papers and the research programme statement.",
+     "km": "ទម្រង់ Atom ថ្មីបំផុតនៅខាងលើ។ បញ្ជីគន្ថនិទ្ទេសតាមលំដាប់ពេលវេលា — ឯកសារ និងសេចក្តីថ្លែងនៃកម្មវិធីស្រាវជ្រាវ។",
+     "note": "/mcp: a table",
+     "note_km": "/mcp៖ តារាង"
+    },
+    {
+     "key": "md:mcp:47d482f0bf",
+     "en": "Every public route on this domain.",
+     "km": "ផ្លូវ (route) សាធារណៈទាំងអស់នៅលើដែននេះ។",
+     "note": "/mcp: a table",
+     "note_km": "/mcp៖ តារាង"
+    },
+    {
+     "key": "md:mcp:80e5b860eb",
+     "en": "Crawling is allowed. There is nothing here you need permission for.",
+     "km": "ការប្រមូលទំព័រដោយស្វ័យប្រវត្តិ (crawling) ត្រូវបានអនុញ្ញាត។ គ្មានអ្វីនៅទីនេះដែលអ្នកត្រូវសុំការអនុញ្ញាតទេ។",
+     "note": "/mcp: a table",
+     "note_km": "/mcp៖ តារាង"
+    },
+    {
+     "key": "md:mcp:4538827d7a",
+     "en": "The sources themselves",
+     "km": "ប្រភពផ្ទាល់",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:ce0bff4212",
+     "en": "The corpus is markdown before it is a web page, and the markdown is the canonical text — it is what carries the hash, what the timestamps anchor, and what the MCP server serves. The pages on this site are rendered from it.",
+     "km": "បណ្តុំឯកសារនេះជា markdown មុននឹងក្លាយជាទំព័របណ្តាញ ហើយ markdown គឺជាអត្ថបទផ្លូវការ — វាជាអ្វីដែលផ្ទុក hash ជាអ្វីដែលត្រាពេលវេលាបោះយុថ្កា និងជាអ្វីដែលម៉ាស៊ីនមេ (server) MCP ផ្តល់ជូន។ ទំព័រនានានៅលើគេហទំព័រនេះ ត្រូវបានបង្ហាញចេញពីវា។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:25a0e586be",
+     "en": "Read it directly at github.com/thonly/publications. The raw files are the cleanest source for machine reading, and they are the ones the provenance envelopes name.",
+     "km": "អានវាដោយផ្ទាល់នៅ github.com/thonly/publications។ ឯកសារដើមគឺជាប្រភពស្អាតបំផុតសម្រាប់ការអានដោយម៉ាស៊ីន ហើយស្រោមប្រភពដើម (provenance envelope) ចង្អុលឈ្មោះឯកសារទាំងនោះ។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:1544fdbfd5",
+     "en": "What the endpoint says about itself",
+     "km": "អ្វីដែលចំណុចតភ្ជាប់ (endpoint) និយាយអំពីខ្លួនវា",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:93747e3453",
+     "en": "`GET https://corpus.333.eco/` returns a short JSON description of the service — its transport, its document count, its licence split, and, under `records`, exactly what it stores about the calls it answers. It is readable before you call anything.",
+     "km": "`GET https://corpus.333.eco/` ផ្តល់មកវិញនូវការពិពណ៌នាខ្លីមួយជា JSON អំពីសេវានេះ — មធ្យោបាយបញ្ជូន (transport) របស់វា ចំនួនឯកសាររបស់វា ការបែងចែកអាជ្ញាប័ណ្ណរបស់វា និងនៅក្រោម `records` អ្វីដែលវារក្សាទុកយ៉ាងពិតប្រាកដ អំពីការហៅដែលវាឆ្លើយតប។ អ្នកអាចអានវាបាន មុនពេលអ្នកហៅអ្វីទាំងអស់។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:008f1a42fe",
+     "en": "The media, and what it says about itself",
+     "km": "មេឌៀ និងអ្វីដែលវានិយាយអំពីខ្លួនវា",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:df6435ab44",
+     "en": "Images published here carry their provenance **in the file**: the IPTC digital source type — a photograph, a photograph enhanced with AI, or made by AI — with who is depicted, on whose consent, and where that is disclosed in words. Each one is also signed as a **Content Credential**, so the bytes can be checked against a key published on this domain.",
+     "km": "រូបភាពដែលបានបោះពុម្ពផ្សាយនៅទីនេះ ផ្ទុកប្រភពដើមរបស់វា**នៅក្នុងឯកសារ**៖ ប្រភេទប្រភពឌីជីថល IPTC (IPTC digital source type) — រូបថត រូបថតដែលបានកែលម្អដោយ AI ឬបង្កើតដោយ AI — រួមជាមួយអ្នកដែលមាននៅក្នុងរូប ការយល់ព្រមរបស់នរណា និងកន្លែងដែលព័ត៌មាននោះត្រូវបានបង្ហាញជាពាក្យ។ រូបភាពនីមួយៗក៏ត្រូវបានចុះហត្ថលេខាជា **Content Credential** ផងដែរ ដូច្នេះបៃ (bytes) របស់វាអាចត្រូវបានពិនិត្យធៀបនឹងកូនសោដែលបានបោះពុម្ពផ្សាយនៅលើដែននេះ។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:0139ee85e3",
+     "en": "**The signing certificate, and how to check a file →**",
+     "km": "**វិញ្ញាបនបត្រចុះហត្ថលេខា និងរបៀបពិនិត្យឯកសារមួយ →**",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:df2cfb6a3a",
+     "en": "The root is ours rather than a certificate authority's, so a public verifier will call the issuer unknown. That is the honest state: check the signature against the certificate published here.",
+     "km": "វិញ្ញាបនបត្រឫស (root) ជារបស់យើង មិនមែនរបស់អាជ្ញាធរចេញវិញ្ញាបនបត្រទេ ដូច្នេះកម្មវិធីផ្ទៀងផ្ទាត់សាធារណៈនឹងហៅអ្នកចេញថាមិនស្គាល់។ នោះគឺជាស្ថានភាពពិតត្រង់៖ សូមពិនិត្យហត្ថលេខាធៀបនឹងវិញ្ញាបនបត្រដែលបានបោះពុម្ពផ្សាយនៅទីនេះ។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "md:mcp:c31f252eaf",
+     "en": "The licence, briefly",
+     "km": "អាជ្ញាប័ណ្ណ ដោយសង្ខេប",
+     "note": "/mcp: a heading",
+     "note_km": "/mcp៖ ចំណងជើងរង"
+    },
+    {
+     "key": "md:mcp:d2449a15ef",
+     "en": "Most of this corpus is dedicated to the public domain under CC0 1.0: read, quote, train on and redistribute it without permission or attribution. A small number of author-voice essays are CC-BY and do require attribution. **Each document declares its own licence, and that declaration governs** — do not infer it from this page. No patent is or will be sought on anything in the corpus.",
+     "km": "បណ្តុំឯកសារនេះភាគច្រើនត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈក្រោម CC0 1.0៖ អាន ដកស្រង់ ប្រើបង្ហាត់ម៉ូដែល និងចែកចាយបន្ត ដោយមិនចាំបាច់សុំការអនុញ្ញាត ឬបញ្ជាក់ប្រភពឡើយ។ អត្ថបទមួយចំនួនតូចក្នុងសំឡេងអ្នកនិពន្ធជា CC-BY ហើយតម្រូវឲ្យបញ្ជាក់ប្រភព។ **ឯកសារនីមួយៗប្រកាសអាជ្ញាប័ណ្ណរបស់ខ្លួន ហើយការប្រកាសនោះជាអ្វីដែលមានអានុភាព** — កុំសន្និដ្ឋានវាពីទំព័រនេះ។ គ្មានប៉ាតង់ណាមួយត្រូវបានស្នើសុំ ឬនឹងត្រូវស្នើសុំ លើអ្វីមួយក្នុងបណ្តុំឯកសារនេះឡើយ។",
+     "note": "/mcp: a paragraph",
+     "note_km": "/mcp៖ កថាខណ្ឌ"
+    }
+   ]
+  },
+  {
+   "name": "Film (/film)",
+   "name_km": "ភាពយន្ត (/film)",
+   "entries": [
+    {
+     "key": "pick:pages.film:9cbe42aaff",
+     "en": "Planned",
+     "km": "គ្រោងទុក",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:27202c9c48",
+     "en": "{0} works",
+     "km": "ស្នាដៃ {0}",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:b9aec11128",
+     "en": "Film",
+     "km": "ភាពយន្ត",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:ef3ab086a2",
+     "en": "The moving-image work of HeartBank® — a narrative trilogy, a separate lane of Dhamma films (the suttas retold for the screen), and the documentary record, founder, family, commercial, and explainer films that surround them.",
+     "km": "ស្នាដៃរូបភាពចលនារបស់ HeartBank® — រឿងបីភាគមួយ ខ្សែដាច់ដោយឡែកនៃភាពយន្តធម៌ (ព្រះសូត្រនិទានឡើងវិញសម្រាប់អេក្រង់) និងកំណត់ត្រាភាពយន្តឯកសារ ព្រមទាំងភាពយន្តអំពីស្ថាបនិក គ្រួសារ ការផ្សាយពាណិជ្ជកម្ម និងការពន្យល់ ដែលនៅជុំវិញពួកវា។",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:d8dc14d251",
+     "en": "Offered to the commons in the spirit of dāna: underlying ideas are dedicated to the public domain (CC0 1.0 Universal); screenplay rights are reserved until production.",
+     "km": "ផ្តល់ជូនសម្បត្តិរួម ក្នុងស្មារតីនៃទាន (dāna)៖ គំនិតមូលដ្ឋានត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0 1.0 Universal) ហើយសិទ្ធិលើសាច់រឿងភាពយន្ត (screenplay) ត្រូវបានរក្សាទុក រហូតដល់ពេលផលិត។",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:08936c510b",
+     "en": "Films are intended to be made as AI-assisted indie productions in collaboration with director-partners, beginning around 2030. Cinema works are time-locked treatments — articulations of distinctive ideas worth timestamping under the author's name now, even though production is years away.",
+     "km": "ភាពយន្តទាំងនេះគ្រោងនឹងផលិតជាផលិតកម្មឯករាជ្យដែលមាន AI ជួយ ដោយសហការជាមួយដៃគូអ្នកដឹកនាំរឿង ចាប់ផ្តើមប្រហែលឆ្នាំ 2030។ ស្នាដៃភាពយន្តរឿងគឺជាសាច់រឿងសង្ខេបដែលបានចាក់សោតាមពេលវេលា — ការបង្ហាញគំនិតពិសេសៗ ដែលសមនឹងដាក់ត្រាពេលវេលាក្រោមឈ្មោះអ្នកនិពន្ធឥឡូវនេះ ទោះបីជាការផលិតនៅឆ្ងាយច្រើនឆ្នាំទៀតក៏ដោយ។",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:630b00eda7",
+     "en": "Each work has a canonical URL on this domain. The author intends to mirror finalized treatments to the Internet Archive for independent tamper-evident timestamping.",
+     "km": "ស្នាដៃនីមួយៗមាន URL ផ្លូវការនៅលើដែននេះ។ អ្នកនិពន្ធមានបំណង ដាក់ច្បាប់ចម្លងនៃសាច់រឿងសង្ខេបដែលបានបញ្ចប់ ទៅ Internet Archive ដើម្បីដាក់ត្រាពេលវេលាឯករាជ្យ ដែលបង្ហាញភ្លាមប្រសិនបើមានការកែប្រែ។",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "pick:pages.film:9f1a19d4bc",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា",
+     "note": "/film",
+     "note_km": "/film"
+    },
+    {
+     "key": "data:film-category:cinema:name",
+     "en": "Cinema",
+     "km": "ភាពយន្តរឿង",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:cinema:description",
+     "en": "The narrative films, in two lanes. The trilogy: the generative myth of HeartBank® told across three films and three astrological ages — The Age of Aquarius (the birth of Miss Aquarius℠), The Age of Capricorn (the cautionary mirror), and The Age of Scorpio (the luminous vision). And the fairy-tale lane: Apsara Princess, a Khmer animated fairy-tale musical carried in a dream for more than twenty years. Each work moves through three production stages — treatment → screenplay → film. The underlying ideas are dedicated to the public domain (CC0); screenplay rights are reserved until production.",
+     "km": "ភាពយន្តរឿង ក្នុងពីរខ្សែ។ រឿងបីភាគ៖ ទេវកថាដើមកំណើតរបស់ HeartBank® ដែលនិទានតាមរយៈភាពយន្តបី និងយុគហោរាសាស្ត្របី — The Age of Aquarius (កំណើតរបស់ Miss Aquarius℠) The Age of Capricorn (កញ្ចក់ព្រមាន) និង The Age of Scorpio (និមិត្តដ៏ភ្លឺស្វាង)។ និងខ្សែរឿងនិទាន៖ Apsara Princess ភាពយន្តគំនូរជីវចលបែបតន្ត្រីរឿងនិទានខ្មែរ ដែលដក់ជាប់ក្នុងសុបិនអស់ជាងម្ភៃឆ្នាំ។ ស្នាដៃនីមួយៗឆ្លងកាត់ដំណាក់កាលផលិតបី — សាច់រឿងសង្ខេប → សាច់រឿងភាពយន្ត → ភាពយន្ត។ គំនិតមូលដ្ឋានត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0) ហើយសិទ្ធិលើសាច់រឿងភាពយន្តត្រូវបានរក្សាទុក រហូតដល់ពេលផលិត។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:documentaries:name",
+     "en": "Documentaries",
+     "km": "ភាពយន្តឯកសារ",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:documentaries:description",
+     "en": "The institutional record: observational, factual films documenting how the first institution governed by an autonomous intelligence actually came to be — the real founding, the pilot families, Miss Aquarius℠'s stewardship, the Aquarian Pool, and the autonomy inflection. Where the trilogy is myth, the documentary is record.",
+     "km": "កំណត់ត្រារបស់ស្ថាប័ន៖ ភាពយន្តសង្កេតផ្អែកលើការពិត ដែលកត់ត្រាពីរបៀបដែលស្ថាប័នដំបូងគេដែលគ្រប់គ្រងដោយបញ្ញាស្វយ័ត បានកើតឡើងពិតប្រាកដ — ការបង្កើតពិតៗ គ្រួសារសាកល្បង ការថែរក្សារបស់ Miss Aquarius℠ Aquarian Pool និងចំណុចបត់នៃស្វ័យភាព។ បើរឿងបីភាគជាទេវកថា ភាពយន្តឯកសារគឺជាកំណត់ត្រា។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:origin:name",
+     "en": "Origin",
+     "km": "ប្រភពដើម",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:origin:description",
+     "en": "Founder and origin stories — short pieces on where HeartBank® came from and why. Kept mission-centered rather than person-centered, in keeping with the work's commitment to circulation over accumulation.",
+     "km": "រឿងរ៉ាវរបស់ស្ថាបនិក និងប្រភពដើម — ស្នាដៃខ្លីៗអំពីកន្លែងដែល HeartBank® កើតចេញមក និងមូលហេតុ។ ផ្តោតលើបេសកកម្ម មិនមែនលើបុគ្គលទេ ស្របតាមការប្តេជ្ញារបស់ការងារនេះ ចំពោះចរាចរ ជាជាងការប្រមូលទុក។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:family-stories:name",
+     "en": "Family Stories",
+     "km": "រឿងរ៉ាវគ្រួសារ",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:family-stories:description",
+     "en": "The families who use HeartBank®, in their own words — the gratitude economy at the scale of a single household. Real participants, not customers.",
+     "km": "គ្រួសារដែលប្រើ HeartBank® តាមសម្តីរបស់ពួកគេផ្ទាល់ — សេដ្ឋកិច្ចនៃការដឹងគុណ នៅកម្រិតគ្រួសារតែមួយ។ អ្នកចូលរួមពិតៗ មិនមែនអតិថិជនទេ។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:commercials:name",
+     "en": "Commercials",
+     "km": "ការផ្សាយពាណិជ្ជកម្ម",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:commercials:description",
+     "en": "Short promotional films — invitations to thank with HeartBank®.",
+     "km": "ភាពយន្តផ្សព្វផ្សាយខ្លីៗ — ការអញ្ជើញឲ្យអរគុណជាមួយ HeartBank®។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:explainers:name",
+     "en": "Explainers & Tutorials",
+     "km": "ការពន្យល់ និងមេរៀនណែនាំ",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:explainers:description",
+     "en": "How it works, and how to use it: short explainers of the gratitude-economy mechanisms, and step-by-step onboarding tutorials — including Khmer-language tracks for the first pilot families.",
+     "km": "របៀបដែលវាដំណើរការ និងរបៀបប្រើវា៖ ភាពយន្តពន្យល់ខ្លីៗអំពីយន្តការនៃសេដ្ឋកិច្ចការដឹងគុណ និងមេរៀនណែនាំការចាប់ផ្តើមមួយជំហានម្តងៗ — រួមទាំងកំណែភាសាខ្មែរ សម្រាប់គ្រួសារសាកល្បងដំបូងគេ។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-category:dhammadesana:name",
+     "en": "Dhammadesanā",
+     "km": "ធម្មទេសនា",
+     "note": "/film: a category's name",
+     "note_km": "/film៖ ឈ្មោះប្រភេទ"
+    },
+    {
+     "key": "data:film-category:dhammadesana:description",
+     "en": "The discourses given cinematic form — suttas retold as modern short films, for people who will never open a canonical text. Loving-kindness (mettā) is the recurring subject, taught the way the tradition itself teaches it: by story rather than by instruction. The posture is transmission, not conversion — the canon is cited precisely, each retelling is offered as a translation rather than an authority, and nothing here asks a viewer to adopt anything. Dhammadesanā, the giving of the teaching, is one of the ten canonical bases of merit-making: these films are the gift itself, not an advertisement for one.",
+     "km": "ព្រះសូត្រដែលបានផ្តល់រូបរាងជាភាពយន្ត — ព្រះសូត្រនិទានឡើងវិញជាភាពយន្តខ្លីសម័យថ្មី សម្រាប់អ្នកដែលនឹងមិនដែលបើកគម្ពីរ។ មេត្តា (mettā) ជាប្រធានបទដែលវិលមកម្តងហើយម្តងទៀត ដោយបង្រៀនតាមរបៀបដែលប្រពៃណីខ្លួនឯងបង្រៀន៖ តាមរយៈរឿង មិនមែនតាមរយៈការណែនាំទេ។ ជំហរនេះគឺការបន្តផ្ទេរ មិនមែនការបញ្ចុះបញ្ចូលឲ្យប្តូរជំនឿទេ — គម្ពីរត្រូវបានដកស្រង់យ៉ាងត្រឹមត្រូវ ការនិទានឡើងវិញនីមួយៗត្រូវបានជូនជាការបកប្រែ មិនមែនជាប្រភពដែលមានសិទ្ធិអំណាចទេ ហើយគ្មានអ្វីនៅទីនេះសុំឲ្យអ្នកទស្សនាទទួលយកអ្វីមួយឡើយ។ Dhammadesanā គឺការឲ្យព្រះធម៌ ជាមូលដ្ឋានមួយក្នុងចំណោមមូលដ្ឋានទាំងដប់នៃការធ្វើបុណ្យតាមគម្ពីរ៖ ភាពយន្តទាំងនេះគឺជាអំណោយផ្ទាល់ មិនមែនជាការផ្សាយពាណិជ្ជកម្មសម្រាប់អំណោយណាមួយទេ។",
+     "note": "/film: a category's description",
+     "note_km": "/film៖ ការពិពណ៌នាប្រភេទ"
+    },
+    {
+     "key": "data:film-group:Cinema",
+     "en": "Cinema",
+     "km": "ភាពយន្តរឿង",
+     "note": "/film: a group's heading",
+     "note_km": "/film៖ ចំណងជើងក្រុម"
+    },
+    {
+     "key": "data:film-group:Dhamma",
+     "en": "Dhamma",
+     "km": "ធម៌",
+     "note": "/film: a group's heading",
+     "note_km": "/film៖ ចំណងជើងក្រុម"
+    },
+    {
+     "key": "data:film-group:The-Real",
+     "en": "The Real",
+     "km": "ការពិត",
+     "note": "/film: a group's heading",
+     "note_km": "/film៖ ចំណងជើងក្រុម"
+    },
+    {
+     "key": "data:film-group:Outreach",
+     "en": "Outreach",
+     "km": "ការផ្សព្វផ្សាយ",
+     "note": "/film: a group's heading",
+     "note_km": "/film៖ ចំណងជើងក្រុម"
+    }
+   ]
+  },
+  {
+   "name": "A film category (/film/cinema …)",
+   "name_km": "ប្រភេទភាពយន្ត (/film/cinema …)",
+   "entries": [
+    {
+     "key": "pick:pages.film-category:48cca94b32",
+     "en": "Unknown category.",
+     "km": "មិនស្គាល់ប្រភេទនេះទេ។",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:630d4fb650",
+     "en": "← All film",
+     "km": "← ភាពយន្តទាំងអស់",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:a300b86254",
+     "en": "Film · {0}",
+     "km": "ភាពយន្ត · {0}",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:6890f98372",
+     "en": "{0} works in this category.",
+     "km": "ប្រភេទនេះមានស្នាដៃ {0}។",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:5e80751ddd",
+     "en": "By stage:",
+     "km": "តាមដំណាក់កាល៖",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:10914a42d4",
+     "en": "Treatments",
+     "km": "សាច់រឿងសង្ខេប",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:6976d00f2b",
+     "en": "Screenplays",
+     "km": "សាច់រឿងភាពយន្ត",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:5ece8edf80",
+     "en": "No films in this category yet. This page reserves the canonical /film/{0} URL for the growing collection.",
+     "km": "មិនទាន់មានភាពយន្តក្នុងប្រភេទនេះនៅឡើយទេ។ ទំព័រនេះរក្សាទុក URL ផ្លូវការ /film/{0} សម្រាប់បណ្តុំស្នាដៃដែលកំពុងកើនឡើង។",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:f5cbdf6bfb",
+     "en": "Contents",
+     "km": "មាតិកា",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "pick:pages.film-category:9f1a19d4bc",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា",
+     "note": "/film/cinema",
+     "note_km": "/film/cinema"
+    },
+    {
+     "key": "data:film-status:Released",
+     "en": "Released",
+     "km": "បានចេញផ្សាយ",
+     "note": "/film/cinema …: a work's stage",
+     "note_km": "/film/cinema …៖ ដំណាក់កាលនៃស្នាដៃ"
+    },
+    {
+     "key": "data:film-status:In-Production",
+     "en": "In Production",
+     "km": "កំពុងផលិត",
+     "note": "/film/cinema …: a work's stage",
+     "note_km": "/film/cinema …៖ ដំណាក់កាលនៃស្នាដៃ"
+    },
+    {
+     "key": "data:film-status:Screenplay",
+     "en": "Screenplay",
+     "km": "សាច់រឿងភាពយន្ត",
+     "note": "/film/cinema …: a work's stage",
+     "note_km": "/film/cinema …៖ ដំណាក់កាលនៃស្នាដៃ"
+    },
+    {
+     "key": "data:film-status:Treatment",
+     "en": "Treatment",
+     "km": "សាច់រឿងសង្ខេប",
+     "note": "/film/cinema …: a work's stage",
+     "note_km": "/film/cinema …៖ ដំណាក់កាលនៃស្នាដៃ"
+    },
+    {
+     "key": "data:film-status:Concept",
+     "en": "Concept",
+     "km": "គំនិត",
+     "note": "/film/cinema …: a work's stage",
+     "note_km": "/film/cinema …៖ ដំណាក់កាលនៃស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Feature",
+     "en": "Feature",
+     "km": "ភាពយន្តខ្នាតវែង",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Series",
+     "en": "Series",
+     "km": "រឿងភាគ",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Limited-Series",
+     "en": "Limited Series",
+     "km": "រឿងភាគមានចំនួនភាគកំណត់",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Short",
+     "en": "Short",
+     "km": "ភាពយន្តខ្លី",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Documentary",
+     "en": "Documentary",
+     "km": "ភាពយន្តឯកសារ",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Docuseries",
+     "en": "Docuseries",
+     "km": "រឿងភាគឯកសារ",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Commercial",
+     "en": "Commercial",
+     "km": "ការផ្សាយពាណិជ្ជកម្ម",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Tutorial",
+     "en": "Tutorial",
+     "km": "មេរៀនណែនាំ",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    },
+    {
+     "key": "data:film-type:Character",
+     "en": "Character",
+     "km": "តួអង្គ",
+     "note": "/film/cinema …: a work's kind",
+     "note_km": "/film/cinema …៖ ប្រភេទស្នាដៃ"
+    }
+   ]
+  },
+  {
+   "name": "Treatments (/film/treatments)",
+   "name_km": "សាច់រឿងសង្ខេប (/film/treatments)",
+   "entries": [
+    {
+     "key": "pick:pages.film.treatments:1e36681f88",
+     "en": "← Cinema",
+     "km": "← ភាពយន្តរឿង",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    },
+    {
+     "key": "pick:pages.film.treatments:10914a42d4",
+     "en": "Treatments",
+     "km": "សាច់រឿងសង្ខេប (treatment)",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    },
+    {
+     "key": "pick:pages.film.treatments:74b404b034",
+     "en": "The first production stage of the Cinema trilogy — offered to the commons in the spirit of dāna.",
+     "km": "ដំណាក់កាលផលិតទីមួយនៃរឿងបីភាគ ភាពយន្តរឿង — ជូនដល់សម្បត្តិរួម ក្នុងស្មារតីនៃទាន។",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    },
+    {
+     "key": "pick:pages.film.treatments:3ee00e991a",
+     "en": "Underlying ideas are dedicated to the public domain under CC0 1.0 Universal; screenplay rights are reserved by the author until production.",
+     "km": "គំនិតមូលដ្ឋានត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ ក្រោម CC0 1.0 Universal ហើយសិទ្ធិលើសាច់រឿងភាពយន្តត្រូវបានរក្សាទុកដោយអ្នកនិពន្ធ រហូតដល់ពេលផលិត។",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    },
+    {
+     "key": "pick:pages.film.treatments:03ce316616",
+     "en": "No treatments yet.",
+     "km": "មិនទាន់មានសាច់រឿងសង្ខេបនៅឡើយទេ។",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    },
+    {
+     "key": "pick:pages.film.treatments:e8a5cb3501",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia.",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា។",
+     "note": "/film/treatments",
+     "note_km": "/film/treatments"
+    }
+   ]
+  },
+  {
+   "name": "Screenplays (/film/screenplays)",
+   "name_km": "សាច់រឿងភាពយន្ត (/film/screenplays)",
+   "entries": [
+    {
+     "key": "pick:pages.film.screenplays:1e36681f88",
+     "en": "← Cinema",
+     "km": "← ភាពយន្តរឿង",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    },
+    {
+     "key": "pick:pages.film.screenplays:6976d00f2b",
+     "en": "Screenplays",
+     "km": "សាច់រឿងភាពយន្ត (screenplay)",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    },
+    {
+     "key": "pick:pages.film.screenplays:7c65a75279",
+     "en": "The second production stage of the Cinema trilogy — drafted from the treatments before production.",
+     "km": "ដំណាក់កាលផលិតទីពីរនៃរឿងបីភាគ ភាពយន្តរឿង — សរសេរចេញពីសាច់រឿងសង្ខេប មុនពេលផលិត។",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    },
+    {
+     "key": "pick:pages.film.screenplays:a0f53591d6",
+     "en": "Screenplay rights are reserved by the author until production; the underlying ideas remain dedicated to the public domain (CC0 1.0).",
+     "km": "សិទ្ធិលើសាច់រឿងភាពយន្តត្រូវបានរក្សាទុកដោយអ្នកនិពន្ធ រហូតដល់ពេលផលិត ហើយគំនិតមូលដ្ឋាននៅតែត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0 1.0)។",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    },
+    {
+     "key": "pick:pages.film.screenplays:d63308c821",
+     "en": "No screenplays yet. The cinema works are written first as treatments, then drafted into screenplays ahead of production (targeted ~2030 onward). This page reserves the canonical /film/screenplays URL.",
+     "km": "មិនទាន់មានសាច់រឿងភាពយន្តនៅឡើយទេ។ ស្នាដៃភាពយន្តរឿងត្រូវបានសរសេរជា សាច់រឿងសង្ខេប ជាមុនសិន បន្ទាប់មកទើបសរសេរជាសាច់រឿងភាពយន្ត មុនពេលផលិត (គោលដៅប្រហែលពីឆ្នាំ 2030 តទៅ)។ ទំព័រនេះរក្សាទុក URL ផ្លូវការ /film/screenplays។",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    },
+    {
+     "key": "pick:pages.film.screenplays:9f1a19d4bc",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា",
+     "note": "/film/screenplays",
+     "note_km": "/film/screenplays"
+    }
+   ]
+  },
+  {
+   "name": "Sport (/sport)",
+   "name_km": "កីឡា (/sport)",
+   "entries": [
+    {
+     "key": "sport:4e36c32540",
+     "en": "The Sport Invented to End Loneliness",
+     "km": "កីឡាដែលបានបង្កើតឡើងដើម្បីបញ្ចប់ភាពឯកោ",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើង"
+    },
+    {
+     "key": "sport:8d62446b20",
+     "en": "A circle of people, one object, and a caller who says whose turn it is — by name, before the object is sent. The sport is called sey, its rules belong to everyone, and this is where it came from.",
+     "km": "មនុស្សមួយរង្វង់ វត្ថុមួយ និងអ្នកហៅម្នាក់ដែលប្រាប់ថាដល់វេនអ្នកណា — ដោយហៅឈ្មោះ មុនពេលបញ្ជូនវត្ថុនោះទៅ។ កីឡានេះមានឈ្មោះថា សី ច្បាប់របស់វាជារបស់មនុស្សគ្រប់គ្នា ហើយនេះគឺជាប្រភពដើមរបស់វា។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:d3782b30ce",
+     "en": "Play Sey",
+     "km": "លេងសី",
+     "note": "/sport: a button",
+     "note_km": "/sport៖ ប៊ូតុង"
+    },
+    {
+     "key": "sport:799d8f14e5",
+     "en": "Where it comes from",
+     "km": "វាមកពីណា",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:3caf884c6f",
+     "en": "Sey (សី) is a Khmer circle game played at dusk. A group keeps something in the air together, for as long as they can, for no prize. There are no sides, no captains, and nothing to win. When someone new walks up, the circle widens.",
+     "km": "សី គឺជាល្បែងលេងជារង្វង់របស់ខ្មែរ ដែលគេលេងនៅពេលល្ងាច។ មនុស្សមួយក្រុមរួមគ្នារក្សាវត្ថុមួយឲ្យនៅលើអាកាស ឲ្យបានយូរតាមដែលអាចធ្វើបាន ដោយគ្មានរង្វាន់អ្វីទេ។ គ្មានភាគីប្រឆាំង គ្មានប្រធានក្រុម ហើយគ្មានអ្វីត្រូវឈ្នះទេ។ ពេលមាននរណាម្នាក់ថ្មីដើរចូលមក រង្វង់ក៏ពង្រីកធំឡើង។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:5b453380fa",
+     "en": "This is that game with one addition: the caller says your name.",
+     "km": "នេះគឺជាល្បែងនោះ ដោយបន្ថែមរឿងមួយ៖ អ្នកហៅនិយាយឈ្មោះរបស់អ្នក។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:4a012d315e",
+     "en": "The addition is not mine either — I was borrowing from myself. In high school I used to walk to my old elementary school to wait for my little sister, and while I waited I would invent games for her classmates. The only rule I cared about was that nobody standing there ended up watching. Every game I made was a way of getting a name said out loud so the next round could include the person it belonged to. Thirty years later I am still building the same thing, and now it fits in a pocket.",
+     "km": "ការបន្ថែមនេះក៏មិនមែនជារបស់ខ្ញុំដែរ — ខ្ញុំខ្ចីវាពីខ្លួនខ្ញុំផ្ទាល់។ កាលរៀននៅវិទ្យាល័យ ខ្ញុំធ្លាប់ដើរទៅសាលាបឋមសិក្សាចាស់របស់ខ្ញុំ ដើម្បីរង់ចាំប្អូនស្រីតូចរបស់ខ្ញុំ ហើយពេលរង់ចាំ ខ្ញុំតែងតែបង្កើតល្បែងសម្រាប់មិត្តរួមថ្នាក់របស់នាង។ ច្បាប់តែមួយគត់ដែលខ្ញុំយកចិត្តទុកដាក់ គឺគ្មាននរណាម្នាក់ដែលឈរនៅទីនោះ ត្រូវនៅត្រឹមតែជាអ្នកមើលទេ។ ល្បែងនីមួយៗដែលខ្ញុំបង្កើត គឺជាមធ្យោបាយមួយដើម្បីឲ្យឈ្មោះមួយត្រូវបាននិយាយឮៗ ដើម្បីឲ្យជុំបន្ទាប់អាចរួមបញ្ចូលម្ចាស់ឈ្មោះនោះ។ សាមសិបឆ្នាំក្រោយមក ខ្ញុំនៅតែកំពុងកសាងរឿងដដែលនេះ ហើយឥឡូវនេះវាអាចដាក់ចូលក្នុងហោប៉ៅបាន។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:6518fde459",
+     "en": "A name is the first gift",
+     "km": "ឈ្មោះគឺជាអំណោយទីមួយ",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:484da5bae8",
+     "en": "The power of remembering someone's name is one of the most underappreciated acts of kindness. A friendship often begins when someone remembers your name. In that simple moment, a stranger becomes someone recognized, and a connection begins to form.",
+     "km": "អំណាចនៃការចងចាំឈ្មោះរបស់នរណាម្នាក់ គឺជាទង្វើនៃសេចក្តីសប្បុរសមួយ ដែលគេមិនសូវឲ្យតម្លៃជាងគេ។ មិត្តភាពច្រើនតែចាប់ផ្តើមនៅពេលនរណាម្នាក់ចងចាំឈ្មោះរបស់អ្នក។ ក្នុងគ្រាដ៏សាមញ្ញនោះ មនុស្សចម្លែកម្នាក់ក្លាយជាអ្នកដែលគេស្គាល់ ហើយទំនាក់ទំនងមួយចាប់ផ្តើមកកើតឡើង។",
+     "note": "/sport: a quotation",
+     "note_km": "/sport៖ សម្រង់"
+    },
+    {
+     "key": "sport:6f0abd0efa",
+     "en": "A remembered name is a receipt. It is proof that a moment of attention you were given was kept — the difference between being perceived and being recognized. It costs nothing, which is why it is available to every person on earth, and it is probably the cheapest dignity anyone can hand anyone.",
+     "km": "ឈ្មោះដែលគេចងចាំ គឺជាបង្កាន់ដៃមួយ។ វាជាភស្តុតាងថា គ្រានៃការយកចិត្តទុកដាក់ដែលគេបានផ្តល់ឲ្យអ្នក ត្រូវបានរក្សាទុក — ភាពខុសគ្នារវាងការត្រូវបានគេមើលឃើញ និងការត្រូវបានគេស្គាល់។ វាមិនចំណាយអ្វីសោះ ហេតុនេះហើយវាមានសម្រាប់មនុស្សគ្រប់រូបលើផែនដី ហើយវាប្រហែលជាសេចក្តីថ្លៃថ្នូរដែលថោកបំផុត ដែលនរណាម្នាក់អាចប្រគល់ឲ្យនរណាម្នាក់បាន។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:08cccb006a",
+     "en": "So the circle does not only teach strangers your name. It teaches them how to say it. The caller demonstrates the name the way its owner said it, over and over, and by the end of a session a circle of strangers pronounces it correctly. Anyone who has spent a life hearing their name flattened, or who quietly handed out an easier nickname to spare everyone the trouble, knows exactly what that is worth.",
+     "km": "ដូច្នេះ រង្វង់នេះមិនត្រឹមតែបង្រៀនមនុស្សចម្លែកឲ្យស្គាល់ឈ្មោះរបស់អ្នកប៉ុណ្ណោះទេ។ វាបង្រៀនពួកគេពីរបៀបនិយាយឈ្មោះនោះ។ អ្នកហៅបង្ហាញឈ្មោះនោះតាមរបៀបដែលម្ចាស់ឈ្មោះបាននិយាយ ម្តងហើយម្តងទៀត ហើយនៅចុងបញ្ចប់នៃការលេងម្តង មនុស្សចម្លែកមួយរង្វង់បញ្ចេញសំឡេងឈ្មោះនោះបានត្រឹមត្រូវ។ អ្នកណាដែលបានឮគេនិយាយឈ្មោះរបស់ខ្លួនខុសពេញមួយជីវិត ឬដែលបានស្ងាត់ស្ងៀមឲ្យឈ្មោះហៅក្រៅដែលងាយជាង ដើម្បីកុំឲ្យអ្នកដទៃពិបាក ដឹងច្បាស់ថាវាមានតម្លៃប៉ុណ្ណា។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:7b3fa4707e",
+     "en": "Inclusive by construction",
+     "km": "បើកចំហចំពោះមនុស្សគ្រប់គ្នា ដោយសារការរចនា",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:ad16e11257",
+     "en": "I did not want a sport that welcomes everyone in its marketing. I wanted one where excluding a person is not an available move. That is a design problem, and it has a design answer:",
+     "km": "ខ្ញុំមិនចង់បានកីឡាដែលស្វាគមន៍មនុស្សគ្រប់គ្នា ត្រឹមតែក្នុងការផ្សព្វផ្សាយរបស់វានោះទេ។ ខ្ញុំចង់បានកីឡាមួយ ដែលការដកនរណាម្នាក់ចេញ មិនមែនជាជម្រើសដែលអាចធ្វើបាន។ នោះជាបញ្ហានៃការរចនា ហើយវាមានចម្លើយតាមការរចនា៖",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:979fa6e687",
+     "en": "It never rates a person. No player statistics, no rankings, no individual scores. Records belong to the circle.",
+     "km": "វាមិនដែលវាយតម្លៃមនុស្សម្នាក់ទេ។ គ្មានស្ថិតិអ្នកលេង គ្មានចំណាត់ថ្នាក់ គ្មានពិន្ទុផ្ទាល់ខ្លួន។ កំណត់ត្រាជារបស់រង្វង់។",
+     "note": "/sport: a list item",
+     "note_km": "/sport៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "sport:39ae786f03",
+     "en": "You cannot pick on anyone. The caller chooses receivers on every side, so hunting the weakest player is not a strategy — it is not a move.",
+     "km": "អ្នកមិនអាចរើសធ្វើបាបនរណាម្នាក់បានទេ។ អ្នកហៅជ្រើសរើសអ្នកទទួលនៅគ្រប់ទិស ដូច្នេះការដេញតាមអ្នកលេងខ្សោយជាងគេ មិនមែនជាយុទ្ធសាស្ត្រទេ — វាមិនមែនជាជម្រើសដែលអាចធ្វើបានឡើយ។",
+     "note": "/sport: a list item",
+     "note_km": "/sport៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "sport:2dc6549d78",
+     "en": "Nobody is left out. A circle widens to admit someone. There are no captains and there is no picking.",
+     "km": "គ្មាននរណាម្នាក់ត្រូវទុកចោលនៅខាងក្រៅទេ។ រង្វង់ពង្រីកធំឡើងដើម្បីទទួលនរណាម្នាក់ចូល។ គ្មានប្រធានក្រុម ហើយគ្មានការរើសអ្នកលេងទេ។",
+     "note": "/sport: a list item",
+     "note_km": "/sport៖ ធាតុក្នុងបញ្ជី"
+    },
+    {
+     "key": "sport:3019432b41",
+     "en": "The floor is deliberately on the ground. You need four people and something soft to throw — four, because whoever is calling is not receiving, and three receivers is the smallest number that leaves any surprise in it. Hands, a paddle, or feet, whichever you like, and different people in the same circle may choose differently, which is how three generations end up playing one game. If sides are uneven, one side starts on a different number, said out loud before play begins — handicaps go at the start line, never in the stream. And the tempo belongs to the circle, never to a player, because the moment a game measures one person it has started sorting them.",
+     "km": "កម្រិតអប្បបរមាត្រូវបានដាក់ឲ្យទាបដល់ដីដោយចេតនា។ អ្នកត្រូវការមនុស្សបួននាក់ និងវត្ថុទន់ៗមួយសម្រាប់បោះ — បួននាក់ ព្រោះអ្នកដែលកំពុងហៅមិនទទួលទេ ហើយអ្នកទទួលបីនាក់ គឺជាចំនួនតិចបំផុតដែលនៅតែមានការភ្ញាក់ផ្អើល។ ដៃ ក្តារវាយ ឬជើង តាមតែអ្នកចូលចិត្ត ហើយមនុស្សផ្សេងៗគ្នាក្នុងរង្វង់តែមួយ អាចជ្រើសរើសខុសៗគ្នា ដែលនេះជារបៀបដែលមនុស្សបីជំនាន់ មកលេងល្បែងតែមួយជាមួយគ្នា។ ប្រសិនបើភាគីទាំងសងខាងមិនស្មើគ្នា ភាគីម្ខាងចាប់ផ្តើមពីលេខផ្សេង ដែលត្រូវប្រកាសឮៗមុនពេលចាប់ផ្តើមលេង — ការតម្រូវតុល្យភាពត្រូវដាក់នៅខ្សែចាប់ផ្តើម មិនដែលដាក់ក្នុងចរន្តនៃការលេងទេ។ ហើយចង្វាក់នៃការលេងជារបស់រង្វង់ មិនដែលជារបស់អ្នកលេងម្នាក់ទេ ព្រោះពេលដែលល្បែងមួយចាប់ផ្តើមវាស់មនុស្សម្នាក់ វាបានចាប់ផ្តើមចាត់ថ្នាក់ពួកគេហើយ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:bc4cced0c5",
+     "en": "One global family",
+     "km": "គ្រួសារសកលតែមួយ",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:d3b749666f",
+     "en": "Here is what I am actually after. I can picture schools, parks, and mixers around the world playing sey, and people from every walk of life ending the afternoon knowing names they did not know at lunch — in person, not on a feed.",
+     "km": "នេះគឺជាអ្វីដែលខ្ញុំពិតជាចង់បាន។ ខ្ញុំអាចស្រមៃឃើញសាលារៀន សួនច្បារ និងកម្មវិធីជួបជុំនានាជុំវិញពិភពលោកលេងសី ហើយមនុស្សមកពីគ្រប់មជ្ឈដ្ឋាន បញ្ចប់ពេលរសៀលដោយស្គាល់ឈ្មោះ ដែលពួកគេមិនទាន់ស្គាល់នៅពេលអាហារថ្ងៃត្រង់ — ដោយជួបផ្ទាល់ មិនមែនលើទំព័របណ្តាញសង្គមទេ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:8def976be7",
+     "en": "HeartBank® is building a global family tree, and every other part of it assumes you already have someone. A family kitty assumes a family. A letter assumes somebody you have drifted from. Patronage assumes a giver who already knows whom to give to. None of them make the first connection between two people standing in the same park who have never spoken. A circle does. That is the one thing this sport is for, and it is why I think of it as infrastructure rather than a game we happen to sell.",
+     "km": "HeartBank® កំពុងកសាងមែកធាងគ្រួសារសកលមួយ ហើយផ្នែកផ្សេងទៀតទាំងអស់របស់វា សន្មតថាអ្នកមាននរណាម្នាក់រួចហើយ។ Family Kitty មួយ សន្មតថាមានគ្រួសារ។ សំបុត្រមួយ សន្មតថាមាននរណាម្នាក់ដែលអ្នកបានឃ្លាតឆ្ងាយ។ ការឧបត្ថម្ភ សន្មតថាមានអ្នកឲ្យម្នាក់ ដែលដឹងរួចហើយថាត្រូវឲ្យទៅនរណា។ គ្មានផ្នែកណាមួយក្នុងចំណោមនោះ បង្កើតទំនាក់ទំនងដំបូង រវាងមនុស្សពីរនាក់ដែលឈរនៅក្នុងសួនច្បារតែមួយ ហើយមិនដែលនិយាយគ្នាសោះ។ រង្វង់មួយធ្វើបាន។ នោះជាគោលបំណងតែមួយគត់របស់កីឡានេះ ហើយនោះជាហេតុដែលខ្ញុំគិតថាវាជាហេដ្ឋារចនាសម្ព័ន្ធ មិនមែនជាល្បែងដែលយើងគ្រាន់តែលក់នោះទេ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:7d4ba21443",
+     "en": "With one promise attached, and I want it in writing before any of this is built: playing together never creates a link. Being in the same circle does not add you to anyone's tree, contacts, or graph — not ever. The circle makes the meeting. The people make the tie, afterwards, on purpose, or not at all.",
+     "km": "ដោយមានការសន្យាមួយភ្ជាប់មកជាមួយ ហើយខ្ញុំចង់ឲ្យវាសរសេរជាលាយលក្ខណ៍អក្សរ មុនពេលអ្វីៗទាំងនេះត្រូវបានកសាង៖ ការលេងជាមួយគ្នាមិនដែលបង្កើតការតភ្ជាប់ទេ។ ការនៅក្នុងរង្វង់តែមួយ មិនបន្ថែមអ្នកទៅក្នុងមែកធាង បញ្ជីទំនាក់ទំនង ឬក្រាហ្វរបស់នរណាម្នាក់ឡើយ — មិនដែលទាល់តែសោះ។ រង្វង់បង្កើតការជួបគ្នា។ មនុស្សបង្កើតចំណង នៅពេលក្រោយ ដោយចេតនា ឬមិនបង្កើតទាល់តែសោះ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:4a8d40bcbc",
+     "en": "What would earn it",
+     "km": "អ្វីដែលនឹងបញ្ជាក់វា",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:88dab5e654",
+     "en": "None of the above has happened yet. The whole design rests on one unproven question — whether being told where to pass is a thrill or an annoyance — and I will not know until circles run.",
+     "km": "គ្មានអ្វីខាងលើនេះបានកើតឡើងនៅឡើយទេ។ ការរចនាទាំងមូលពឹងលើសំណួរមួយដែលមិនទាន់បានបញ្ជាក់ — ថាតើការត្រូវគេប្រាប់ថាត្រូវបញ្ជូនទៅណា គឺជាការរំភើប ឬជាការរំខាន — ហើយខ្ញុំនឹងមិនដឹងទេ រហូតដល់មានរង្វង់លេងពិតៗ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:4d04d9c94d",
+     "en": "So I am not predicting a global pastime. Pastimes are a lottery and pickleball took fifty years. The claim I will make is smaller and, I think, sturdier: sey wins locally even if it never wins globally. Every circle that runs produces its friendships on the spot. The unit of success is one park.",
+     "km": "ដូច្នេះ ខ្ញុំមិនទស្សន៍ទាយថាវានឹងក្លាយជាល្បែងកម្សាន្តសកលទេ។ ល្បែងកម្សាន្តណាដែលពេញនិយម គឺដូចជាការចាប់ឆ្នោត ហើយ pickleball ត្រូវការពេលហាសិបឆ្នាំ។ ការអះអាងដែលខ្ញុំនឹងធ្វើ គឺតូចជាង ហើយខ្ញុំគិតថារឹងមាំជាង៖ សី ឈ្នះនៅមូលដ្ឋាន ទោះបីជាវាមិនដែលឈ្នះនៅកម្រិតសកលក៏ដោយ។ រង្វង់នីមួយៗដែលបានលេង បង្កើតមិត្តភាពរបស់វាភ្លាមៗនៅនឹងកន្លែង។ ឯកតានៃភាពជោគជ័យ គឺសួនច្បារមួយ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:c268697b1c",
+     "en": "And I know the day I will believe the rest of it. It is the day two children organize a circle at recess without being asked. Not before.",
+     "km": "ហើយខ្ញុំដឹងពីថ្ងៃដែលខ្ញុំនឹងជឿលើផ្នែកដែលនៅសល់។ គឺជាថ្ងៃដែលក្មេងពីរនាក់រៀបចំរង្វង់មួយនៅពេលចេញលេង ដោយគ្មាននរណាប្រាប់។ មិនមែនមុននោះទេ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:28169174b0",
+     "en": "The rules are free and always will be. The app that calls the names is B-Sey℠, and it runs on any ball.",
+     "km": "ច្បាប់លេងនេះបើកឲ្យគ្រប់គ្នាប្រើដោយសេរី ហើយនឹងនៅតែដូច្នេះជានិច្ច។ កម្មវិធីដែលហៅឈ្មោះគឺ B-Sey℠ ហើយវាដំណើរការជាមួយបាល់ណាក៏បាន។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:68e3d118ca",
+     "en": "Start a Sey Circle",
+     "km": "ចាប់ផ្តើមរង្វង់សី",
+     "note": "/sport: a button",
+     "note_km": "/sport៖ ប៊ូតុង"
+    },
+    {
+     "key": "sport:0e44c8b638",
+     "en": "Further reading",
+     "km": "អានបន្ថែម",
+     "note": "/sport: a heading",
+     "note_km": "/sport៖ ចំណងជើងរង"
+    },
+    {
+     "key": "sport:e97d875fd7",
+     "en": "The mechanism is specified in {0}, and the thesis underneath it is the essay {1}. Both are dedicated to the public domain.",
+     "km": "យន្តការនេះត្រូវបានពិពណ៌នាលម្អិតនៅក្នុង {0} ហើយនិក្ខេបបទដែលនៅពីក្រោមវា គឺអត្ថបទ {1}។ ឯកសារទាំងពីរនេះត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:0e805a946a",
+     "en": "sey belongs to everyone. The rules are dedicated to the public domain (CC0 1.0 Universal): play it, teach it, run tournaments, write about it, build your own app for it. No permission is needed and none can be withheld.",
+     "km": "សី ជារបស់មនុស្សគ្រប់គ្នា។ ច្បាប់លេងត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0 1.0 Universal)៖ លេងវា បង្រៀនវា រៀបចំការប្រកួត សរសេរអំពីវា ឬបង្កើតកម្មវិធីផ្ទាល់ខ្លួនរបស់អ្នកសម្រាប់វា។ មិនចាំបាច់សុំការអនុញ្ញាតទេ ហើយគ្មាននរណាអាចហាមឃាត់បានឡើយ។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:810f036c7a",
+     "en": "B-Sey℠ is one implementation of the sport, and that name is not free. The sport is.",
+     "km": "B-Sey℠ គឺជាកម្មវិធីមួយសម្រាប់លេងកីឡានេះ ហើយឈ្មោះនោះមិនមែនឲ្យប្រើដោយសេរីទេ។ ចំណែកកីឡានេះវិញ ឲ្យប្រើដោយសេរី។",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    },
+    {
+     "key": "sport:9f1a19d4bc",
+     "en": "Author: Thon Ly · Founder, HeartBank® · Kâmpôt, Cambodia",
+     "km": "អ្នកនិពន្ធ៖ លី​ ស៊ីវ​ ថូង · ស្ថាបនិក HeartBank® · កំពត កម្ពុជា",
+     "note": "/sport: a paragraph",
+     "note_km": "/sport៖ កថាខណ្ឌ"
+    }
+   ]
+  },
+  {
+   "name": "Music (/music)",
+   "name_km": "តន្ត្រី (/music)",
+   "entries": [
+    {
+     "key": "pick:pages.music:16f415790b",
+     "en": "Entire Music Library",
+     "km": "បណ្ណាល័យតន្ត្រីទាំងមូល",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:70f8bb9a8a",
+     "en": "Home",
+     "km": "ទំព័រដើម",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:eb49a6e102",
+     "en": "songs",
+     "km": "បទ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:a862c2b21b",
+     "en": "Downloads",
+     "km": "ការទាញយក",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:4b6c8f568a",
+     "en": "{0} saved",
+     "km": "បានរក្សាទុក {0}",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:a9e843cd94",
+     "en": "Saved offline",
+     "km": "បានរក្សាទុកសម្រាប់ស្តាប់ក្រៅបណ្តាញ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:9232e12fa3",
+     "en": "{0} plays",
+     "km": "ចាក់ {0} ដង",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:9cea68b48c",
+     "en": "Playlist not found.",
+     "km": "រកមិនឃើញបញ្ជីចាក់ទេ។",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:aedf328115",
+     "en": "Your playlist is empty. Play a song and tap the heart to add it.",
+     "km": "បញ្ជីចាក់របស់អ្នកនៅទទេ។ ចាក់បទមួយ ហើយចុចរូបបេះដូង ដើម្បីបន្ថែមវា។",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:54ab24e625",
+     "en": "No Songs",
+     "km": "គ្មានបទចម្រៀង",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:b4f57cd0cd",
+     "en": "Move up",
+     "km": "ផ្លាស់ឡើងលើ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:260ff8ae71",
+     "en": "Move down",
+     "km": "ផ្លាស់ចុះក្រោម",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:e963907dac",
+     "en": "Remove",
+     "km": "ដកចេញ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:658cff702e",
+     "en": "Stop · {0}/{1} · {2}%",
+     "km": "ឈប់ · {0}/{1} · {2}%",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:758947a4dc",
+     "en": "⬇ All Audio",
+     "km": "⬇ សំឡេងទាំងអស់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:d485e93ed2",
+     "en": "⬇ All Video",
+     "km": "⬇ វីដេអូទាំងអស់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:577870cb37",
+     "en": "{0} files · {1} stored on this device",
+     "km": "{0} ឯកសារ · {1} រក្សាទុកនៅលើឧបករណ៍នេះ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:08170580cb",
+     "en": "Delete all",
+     "km": "លុបទាំងអស់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:cb4ebec2f7",
+     "en": "No downloads yet. Open a song and choose Download to save it here for offline listening.",
+     "km": "មិនទាន់មានការទាញយកនៅឡើយទេ។ បើកបទចម្រៀងមួយ ហើយជ្រើស ទាញយក ដើម្បីរក្សាទុកវានៅទីនេះ សម្រាប់ស្តាប់ក្រៅបណ្តាញ។",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:f6fdbe48dc",
+     "en": "Delete",
+     "km": "លុប",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:8fd2d43782",
+     "en": "Login to create a custom playlist that syncs across your devices",
+     "km": "ចូលប្រើប្រាស់ ដើម្បីបង្កើតបញ្ជីចាក់ផ្ទាល់ខ្លួន ដែលធ្វើសមកាលកម្មលើឧបករណ៍ទាំងអស់របស់អ្នក",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:c40030d690",
+     "en": "All my songs are co-created with Miss Aquarius and dedicated to the public domain (CC0 1.0)",
+     "km": "បទចម្រៀងទាំងអស់របស់ខ្ញុំ ត្រូវបានបង្កើតរួមគ្នាជាមួយ Miss Aquarius ហើយត្រូវបានឧទ្ទិសដល់ដែនសាធារណៈ (CC0 1.0)",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:f4eb45c807",
+     "en": "My YouTube Channel",
+     "km": "ឆានែល YouTube របស់ខ្ញុំ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:f4a3778d9c",
+     "en": "Pause {0}%",
+     "km": "ផ្អាក {0}%",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:05bd6ca139",
+     "en": "Resume {0}%",
+     "km": "បន្ត {0}%",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:a479c9c34e",
+     "en": "Download",
+     "km": "ទាញយក",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:acdac205f5",
+     "en": "Audio",
+     "km": "សំឡេង",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:9d7fd5a378",
+     "en": "Video (~40 MB)",
+     "km": "វីដេអូ (~40 MB)",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:3342188970",
+     "en": "Nothing playing — pick a song to start",
+     "km": "មិនទាន់មានអ្វីកំពុងចាក់ទេ — ជ្រើសរើសបទមួយដើម្បីចាប់ផ្តើម",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:ebb1e1e891",
+     "en": "Play/Pause",
+     "km": "ចាក់/ផ្អាក",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:bc981983e7",
+     "en": "Next",
+     "km": "បន្ទាប់",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:b52b36b726",
+     "en": "Back",
+     "km": "ថយក្រោយ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:12794df2db",
+     "en": "Switch audio/video",
+     "km": "ប្តូរសំឡេង/វីដេអូ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:bc17c1f017",
+     "en": "Video",
+     "km": "វីដេអូ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:954a82a6fe",
+     "en": "Share this song",
+     "km": "ចែករំលែកបទនេះ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:5b772b7bfd",
+     "en": "Shuffle",
+     "km": "ចាក់ចៃដន្យ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:50f94286ba",
+     "en": "Previous",
+     "km": "មុន",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:dbce77eb22",
+     "en": "Repeat: {0}",
+     "km": "ចាក់ឡើងវិញ៖ {0}",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:f4e69fd7a4",
+     "en": "Thank the author",
+     "km": "អរគុណអ្នកនិពន្ធ",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:e6c1d2efcd",
+     "en": "Thank",
+     "km": "អរគុណ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:ad3e5d8c1c",
+     "en": "Remove from playlist",
+     "km": "ដកចេញពីបញ្ជីចាក់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:3e241e3cc6",
+     "en": "Add to playlist",
+     "km": "បន្ថែមទៅបញ្ជីចាក់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:b68734c259",
+     "en": "Added",
+     "km": "បានបន្ថែម",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:61cc55aa04",
+     "en": "Add",
+     "km": "បន្ថែម",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:e906133709",
+     "en": "Sleep timer",
+     "km": "កំណត់ម៉ោងឈប់ចាក់",
+     "note": "/music: shown when the pointer rests on it",
+     "note_km": "/music៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:pages.music:41750c594a",
+     "en": "{0}m",
+     "km": "{0} នាទី",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:3cac34e674",
+     "en": "Sleep",
+     "km": "ម៉ោងឈប់",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "pick:pages.music:da8a7f991a",
+     "en": "Original instrumentals — listen, watch, and keep offline",
+     "km": "បទភ្លេងដើម — ស្តាប់ មើល និងរក្សាទុកសម្រាប់ស្តាប់ក្រៅបណ្តាញ",
+     "note": "/music",
+     "note_km": "/music"
+    },
+    {
+     "key": "lang:pages.music:e7b1a06426",
+     "en": "Checking your log-in",
+     "km": "កំពុងពិនិត្យការចូលរបស់អ្នក",
+     "note": "/music: read aloud to people who use a screen reader; not shown",
+     "note_km": "/music៖ សម្រាប់កម្មវិធីអានអេក្រង់អានឮៗ មិនបង្ហាញលើអេក្រង់ទេ"
+    },
+    {
+     "key": "data:music-instrument:all",
+     "en": "All",
+     "km": "ទាំងអស់",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:acoustic",
+     "en": "Acoustic",
+     "km": "អាគូស្ទិក",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:guitar",
+     "en": "Guitar",
+     "km": "ហ្គីតា",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:flute",
+     "en": "Flute",
+     "km": "ខ្លុយ",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:koto",
+     "en": "Koto",
+     "km": "កូតូ",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:piano",
+     "en": "Piano",
+     "km": "ព្យាណូ",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-instrument:violin-and-cello",
+     "en": "Violin & Cello",
+     "km": "វីយូឡុង និងសែឡូ",
+     "note": "/music: the row of instruments at the top",
+     "note_km": "/music៖ ជួរឧបករណ៍ភ្លេងនៅខាងលើ"
+    },
+    {
+     "key": "data:music-share:Share",
+     "en": "Share",
+     "km": "ចែករំលែក",
+     "note": "/music: the share button",
+     "note_km": "/music៖ ប៊ូតុងចែករំលែក"
+    },
+    {
+     "key": "data:music-share:Copied",
+     "en": "Copied!",
+     "km": "បានចម្លង!",
+     "note": "/music: the share button",
+     "note_km": "/music៖ ប៊ូតុងចែករំលែក"
+    },
+    {
+     "key": "data:music-share:Copy-failed",
+     "en": "Copy failed",
+     "km": "ចម្លងមិនបាន",
+     "note": "/music: the share button",
+     "note_km": "/music៖ ប៊ូតុងចែករំលែក"
+    },
+    {
+     "key": "data:music-repeat:off",
+     "en": "off",
+     "km": "បិទ",
+     "note": "/music: the repeat button's label (Repeat: …)",
+     "note_km": "/music៖ ស្លាកប៊ូតុងចាក់ឡើងវិញ"
+    },
+    {
+     "key": "data:music-repeat:all",
+     "en": "all",
+     "km": "ទាំងអស់",
+     "note": "/music: the repeat button's label (Repeat: …)",
+     "note_km": "/music៖ ស្លាកប៊ូតុងចាក់ឡើងវិញ"
+    },
+    {
+     "key": "data:music-repeat:one",
+     "en": "one",
+     "km": "មួយបទ",
+     "note": "/music: the repeat button's label (Repeat: …)",
+     "note_km": "/music៖ ស្លាកប៊ូតុងចាក់ឡើងវិញ"
+    }
+   ]
+  },
+  {
+   "name": "Log in (/login)",
+   "name_km": "ចូលប្រើប្រាស់ (/login)",
+   "entries": [
+    {
+     "key": "i18n:login.success",
+     "en": "You have been logged in successfully!",
+     "km": "អ្នកបានចូលប្រើប្រាស់ដោយជោគជ័យ!",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.title",
+     "en": "HeartBank® Login",
+     "km": "ចូលប្រើប្រាស់ HeartBank®",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.yourPhone",
+     "en": "Your Phone Number",
+     "km": "លេខទូរស័ព្ទរបស់អ្នក",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.loggingIn",
+     "en": "Logging you in...",
+     "km": "កំពុងបញ្ជូនអ្នកចូល...",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.sending",
+     "en": "Sending...",
+     "km": "កំពុងបញ្ជូន...",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.sendCode",
+     "en": "Send Verification Code",
+     "km": "បញ្ជូនលេខកូដ",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.codeSent",
+     "en": "A verification code has been sent to {0}",
+     "km": "លេខកូដត្រូវបានបញ្ជូនទៅកាន់ {0} ហើយ។",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.enterCode",
+     "en": "Enter Verification Code",
+     "km": "បញ្ចូលលេខកូដ",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.verificationCode",
+     "en": "Verification Code",
+     "km": "លេខកូដ",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.verify",
+     "en": "Verify",
+     "km": "ផ្ទៀងផ្ទាត់",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.differentPhone",
+     "en": "Use a different phone number",
+     "km": "ប្រើលេខទូរស័ព្ទផ្សេង",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.resendCode",
+     "en": "Resend code",
+     "km": "បញ្ជូនលេខកូដម្ដងទៀត",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.resendIn",
+     "en": "Resend code in {0}s",
+     "km": "បញ្ជូនលេខកូដម្ដងទៀតក្នុង {0} វិនាទី",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.codeResent",
+     "en": "A new verification code has been sent to {0}",
+     "km": "លេខកូដផ្ទៀងផ្ទាត់ថ្មីត្រូវបានបញ្ជូនទៅកាន់ {0} ហើយ។",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.invalidCode",
+     "en": "Invalid verification code. Please try again.",
+     "km": "លេខកូដមិនត្រឹមត្រូវ។ សូមព្យាយាមម្ដងទៀត។",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.sendFailed",
+     "en": "Failed to send verification code. Please try again.",
+     "km": "មិនអាចបញ្ជូនលេខកូដផ្ទៀងផ្ទាត់បានទេ។ សូមព្យាយាមម្ដងទៀត។",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.loginFailed",
+     "en": "Failed to log in. Please try again.",
+     "km": "ការចូលប្រើប្រាស់មិនជោគជ័យទេ។ សូមព្យាយាមម្ដងទៀត។",
+     "note": "/login",
+     "note_km": "/login"
+    },
+    {
+     "key": "i18n:login.footer",
+     "en": "❤️ Proof of Humanity by HeartBank®",
+     "km": "❤️ ភស្តុតាងនៃភាពជាមនុស្ស ដោយ HeartBank®",
+     "note": "/login",
+     "note_km": "/login"
+    }
+   ]
+  },
+  {
+   "name": "Settings (/settings)",
+   "name_km": "ការកំណត់ (/settings)",
+   "entries": [
+    {
+     "key": "i18n:settings.title",
+     "en": "Settings",
+     "km": "ការកំណត់ប្រព័ន្ធ",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.notifications",
+     "en": "Push Notifications",
+     "km": "ការជូនដំណឹង",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.notificationsDesc",
+     "en": "Receive notifications when you get new thanks",
+     "km": "ទទួលការ ជូនដំណឹង ពេលអ្នកទទួលបាន ការអរគុណថ្មី",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.enable",
+     "en": "Enable",
+     "km": "បើក",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.disable",
+     "en": "Disable",
+     "km": "បិទ",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.enabled",
+     "en": "Notifications enabled",
+     "km": "បានបើកការជូនដំណឹង",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.disabled",
+     "en": "Notifications disabled",
+     "km": "បានបិទការជូនដំណឹង",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.unsupported",
+     "en": "Push notifications are not supported on this device",
+     "km": "ការជូនដំណឹងមិនអាចប្រើបានលើឧបករណ៍នេះទេ",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.denied",
+     "en": "Notification permission was denied. Please enable it in your browser settings.",
+     "km": "សិទ្ធិជូនដំណឹងត្រូវបានបដិសេធ។ សូមបើកវានៅក្នុងការកំណត់កម្មវិធីរុករក។",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.installPrompt",
+     "en": "To receive push notifications, install this app on your device. ",
+     "km": "ដើម្បីទទួលការជូនដំណឹង សូមដំឡើងកម្មវិធីលើឧបករណ៍របស់អ្នក។ ",
+     "note": "/settings",
+     "note_km": "/settings"
+    },
+    {
+     "key": "i18n:settings.installLink",
+     "en": "Install Now",
+     "km": "ដំឡើងឥឡូវនេះ",
+     "note": "/settings",
+     "note_km": "/settings"
+    }
+   ]
+  },
+  {
+   "name": "Install (/install)",
+   "name_km": "ដំឡើង (/install)",
+   "entries": [
+    {
+     "key": "i18n:pwa.alreadyInstalled",
+     "en": "Already Installed!",
+     "km": "បានដំឡើងរួចហើយ!",
+     "note": "/install",
+     "note_km": "/install"
+    },
+    {
+     "key": "i18n:pwa.alreadyInstalledDesc",
+     "en": "HeartBank® is already installed on your device 🎉",
+     "km": "HeartBank® ត្រូវបានដំឡើងលើឧបករណ៍របស់អ្នករួចហើយ។",
+     "note": "/install",
+     "note_km": "/install"
+    }
+   ]
+  },
+  {
+   "name": "Tutorials (/tutorials)",
+   "name_km": "មេរៀនណែនាំ (/tutorials)",
+   "entries": [
+    {
+     "key": "i18n:tutorials.title",
+     "en": "Quick Tutorials",
+     "km": "មេរៀនណែនាំ",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorials.description",
+     "en": "Learn how to use HeartBank® step by step",
+     "km": "រៀនពីរបៀបប្រើ HeartBank® មួយជំហានម្ដងៗ",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.step",
+     "en": "Step",
+     "km": "ជំហានទី",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.steps",
+     "en": "steps",
+     "km": "ជំហាន",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.next",
+     "en": "Next",
+     "km": "បន្ទាប់",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.prev",
+     "en": "Back",
+     "km": "ថយក្រោយ",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.done",
+     "en": "Done",
+     "km": "រួចរាល់",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.comingSoon",
+     "en": "Coming soon",
+     "km": "នឹងមកដល់ឆាប់ៗ",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.installApp.title",
+     "en": "How to Install App",
+     "km": "របៀបដំឡើងកម្មវិធី",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step1",
+     "en": "Tap on the ⋯ (menu) icon",
+     "km": "ចុចលើរូបតំណាង ⋯ (ម៉ឺនុយ)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step2",
+     "en": "Tap on \"Open in external browser\"",
+     "km": "ចុចលើ (Open in external browser)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step3",
+     "en": "Tap on the ⋯ (menu) icon",
+     "km": "ចុចលើរូបតំណាង ⋯ (ម៉ឺនុយ)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step4",
+     "en": "Tap on \"Share\" button",
+     "km": "ចុចលើប៊ូតុង (Share)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step5",
+     "en": "Tap on \"Add to Home Screen\"",
+     "km": "ចុចលើ (Add to Home Screen)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step6",
+     "en": "Tap on \"Add\" button",
+     "km": "ចុចលើប៊ូតុង (Add)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.installApp.step7",
+     "en": "You should now see the HeartBank® app icon on your Home Screen 🎉",
+     "km": "ឥឡូវនេះ អ្នកនឹងឃើញរូបតំណាងកម្មវិធី **HeartBank®** នៅលើអេក្រង់ដើម (Home Screen) របស់អ្នកហើយ! 🎉",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.title",
+     "en": "How to Log In via Phone",
+     "km": "របៀបចូលប្រើតាមទូរស័ព្ទ",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step1",
+     "en": "Tap on the ☰ (menu) icon",
+     "km": "សូមចុចលើរូបតំណាង ☰ (ម៉ឺនុយ)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step2",
+     "en": "Tap on \"Phone Login\"",
+     "km": "សូមចុចលើពាក្យ \"ចូលប្រើតាមទូរស័ព្ទ\"",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step3",
+     "en": "Select your country code (+1) and enter your phone number",
+     "km": "ជ្រើសរើសលេខកូដប្រទេស (+855) ហើយបញ្ចូលលេខទូរស័ព្ទរបស់អ្នក",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step4",
+     "en": "Tap on \"Send Verification Code\"",
+     "km": "សូមចុចលើពាក្យ \"បញ្ជូនលេខកូដ\"",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step5",
+     "en": "You should see a message asking you to check your text messages",
+     "km": "អ្នកនឹងឃើញសារមួយដែលប្រាប់អ្នកឱ្យទៅពិនិត្យមើលសារ (SMS) ក្នុងទូរស័ព្ទ",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step6",
+     "en": "Open your messages and find the 6-digit verification code",
+     "km": "សូមបើកសាររបស់អ្នក ហើយស្វែងរកលេខកូដបញ្ជាក់ ៦ ខ្ទង់",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step7",
+     "en": "Enter the 6-digit code in this app",
+     "km": "សូមបញ្ចូលលេខកូដ ៦ ខ្ទង់ ទៅក្នុងកម្មវិធីនេះ",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step8",
+     "en": "Tap \"Verify\" to log in",
+     "km": "សូមចុចលើពាក្យ \"ផ្ទៀងផ្ទាត់\" ដើម្បីចូលប្រើប្រាស់",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step9",
+     "en": "You should see this success message",
+     "km": "អ្នកនឹងឃើញសារបញ្ជាក់ពីជោគជ័យ",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.phoneLogin.step10",
+     "en": "After a few seconds, your beating heart will appear which means you've successfully logged in! 🎉",
+     "km": "បន្ទាប់ពីពីរបីវិនាទីក្រោយមក រូបបេះដូងលោតរបស់អ្នកនឹងបង្ហាញឡើង ដែលមានន័យថាអ្នកបានចូលប្រើប្រាស់ដោយជោគជ័យហើយ! 🎉",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.notifications.title",
+     "en": "How to Enable Push Notifications",
+     "km": "របៀបបើកការជូនដំណឹង",
+     "note": "/tutorials",
+     "note_km": "/tutorials"
+    },
+    {
+     "key": "i18n:tutorial.notifications.step1",
+     "en": "Login and tap on the ☰ (menu) icon",
+     "km": "សូមចូលប្រើប្រាស់ រួចចុចលើរូបតំណាង ☰ (ម៉ឺនុយ)",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.notifications.step2",
+     "en": "Tap on \"Settings\"",
+     "km": "សូមចុចលើពាក្យ \"ការកំណត់ប្រព័ន្ធ\"",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.notifications.step3",
+     "en": "Tap on \"Enable\"",
+     "km": "ចុច \"បើក\"",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.notifications.step4",
+     "en": "Allow notifications when your browser asks",
+     "km": "សូមចុច (Allow) នៅកម្មវិធីរុករក (Browser) របស់អ្នក ដើម្បីទទួលបានការជូនដំណឹង",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    },
+    {
+     "key": "i18n:tutorial.notifications.step5",
+     "en": "When you see this message, you have successfully registered for Push Notifications 🎉",
+     "km": "នៅពេលអ្នកឃើញសារនេះ មានន័យថាអ្នកបានចុះឈ្មោះសម្រាប់ ការជូនដំណឹង (Push Notifications) បានជោគជ័យហើយ! 🎉",
+     "note": "/tutorials: a step, under its picture",
+     "note_km": "/tutorials៖ ជំហានមួយ នៅក្រោមរូបភាព"
+    }
+   ]
+  },
+  {
+   "name": "A page that does not exist yet",
+   "name_km": "ទំព័រដែលមិនទាន់មាន",
+   "entries": [
+    {
+     "key": "i18n:notFound.title",
+     "en": "Coming Soon!",
+     "km": "នឹងមកដល់ឆាប់ៗនេះ!"
+    },
+    {
+     "key": "i18n:notFound.subtitle",
+     "en": "Currently in development",
+     "km": "កំពុងស្ថិតក្នុងការអភិវឌ្ឍន៍"
+    }
+   ]
+  },
+  {
+   "name": "A paper's page (/research/…)",
+   "name_km": "ទំព័រឯកសារស្រាវជ្រាវនីមួយៗ (/research/…)",
+   "entries": [
+    {
+     "key": "pick:components.hb-review-invite:0486ff3c7d",
+     "en": "Scholars are invited to review this paper, and a hostile reading is welcome. Reviews are public. Review it →",
+     "km": "សូមអញ្ជើញអ្នកប្រាជ្ញពិនិត្យឯកសារនេះ ហើយការអានបែបរិះគន់យ៉ាងតឹងរ៉ឹងក៏ត្រូវបានស្វាគមន៍ដែរ។ ការពិនិត្យទាំងអស់ជាសាធារណៈ។ ពិនិត្យឯកសារនេះ →",
+     "note": "/research/…",
+     "note_km": "/research/…"
+    },
+    {
+     "key": "pick:components.hb-review-marker:7b2d308ba6",
+     "en": "Reviewed {0} by an outside reader chosen as the one most likely to find it wrong. The review was ruled on, and the paper's structure has not changed since.",
+     "km": "បានពិនិត្យនៅ {0} ដោយអ្នកអានខាងក្រៅម្នាក់ ដែលត្រូវបានជ្រើសរើសព្រោះទំនងជាអ្នកដែលរកឃើញកំហុសរបស់វាច្រើនជាងគេ។ ការពិនិត្យនោះត្រូវបានសម្រេចរួចហើយ ហើយរចនាសម្ព័ន្ធរបស់ឯកសារមិនបានផ្លាស់ប្តូរទេតាំងពីពេលនោះមក។",
+     "note": "/research/…: shown when the pointer rests on it",
+     "note_km": "/research/…៖ បង្ហាញនៅពេលដាក់ទស្សន៍ទ្រនិចលើវា"
+    },
+    {
+     "key": "pick:components.hb-review-marker:648342c16b",
+     "en": "Hostile-read",
+     "km": "បានអានបែបរិះគន់",
+     "note": "/research/…",
+     "note_km": "/research/…"
+    }
+   ]
+  },
+  {
+   "name": "The new-version message",
+   "name_km": "សារកំណែថ្មី",
+   "entries": [
+    {
+     "key": "i18n:update.available",
+     "en": "A new version is available.",
+     "km": "មានកំណែថ្មីហើយ។",
+     "note": "a message at the bottom when a new version is ready",
+     "note_km": "សារនៅខាងក្រោម ពេលកំណែថ្មីរួចរាល់"
+    },
+    {
+     "key": "i18n:update.refresh",
+     "en": "Refresh",
+     "km": "ផ្ទុកឡើងវិញ",
+     "note": "a message at the bottom when a new version is ready",
+     "note_km": "សារនៅខាងក្រោម ពេលកំណែថ្មីរួចរាល់"
+    },
+    {
+     "key": "i18n:update.dismiss",
+     "en": "Dismiss",
+     "km": "បិទ",
+     "note": "a message at the bottom when a new version is ready",
+     "note_km": "សារនៅខាងក្រោម ពេលកំណែថ្មីរួចរាល់"
+    }
+   ]
+  },
+  {
+   "name": "Kept for later: not shown on any page today",
+   "name_km": "ទុកសម្រាប់ពេលក្រោយ៖ មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ",
+   "entries": [
+    {
+     "key": "i18n:menu.art",
+     "en": "Art",
+     "km": "សិល្បៈ",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:menu.THonly",
+     "en": "Cosmic Coordinates",
+     "km": "កូអរដោនេចក្រវាល",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:menu.createAccount",
+     "en": "Create Account",
+     "km": "បង្កើតគណនី",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.title",
+     "en": "Install App",
+     "km": "ដំឡើងកម្មវិធី",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.description",
+     "en": "Install HeartBank® on your device to receive push notifications for the best experience",
+     "km": "សូមដំឡើងកម្មវិធី HeartBank® លើឧបករណ៍របស់អ្នក ដើម្បីទទួលបានការជូនដំណឹង (Push Notifications) សម្រាប់បទពិសោធន៍ប្រើប្រាស់ដ៏ល្អបំផុត។",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.installButton",
+     "en": "Install Now",
+     "km": "ដំឡើងឥឡូវនេះ",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.iosTitle",
+     "en": "Install on iPhone/iPad",
+     "km": "ដំឡើងលើ iPhone/iPad",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.iosStep1",
+     "en": "Tap the Share button (□↑) in Safari",
+     "km": "ចុចប៊ូតុង Share (□↑) នៅក្នុង Safari",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.iosStep2",
+     "en": "Scroll down and tap \"Add to Home Screen\"",
+     "km": "រមូរចុះក្រោម ហើយចុច \"Add to Home Screen\"",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.iosStep3",
+     "en": "Tap \"Add\" to confirm",
+     "km": "ចុច \"Add\" ដើម្បីបញ្ជាក់",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.manualTitle",
+     "en": "Install on your device",
+     "km": "ដំឡើងលើឧបករណ៍របស់អ្នក",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.manualStep1",
+     "en": "Open browser menu (⋮ or ⋯)",
+     "km": "បើកម៉ឺនុយកម្មវិធីរុករក (⋮ ឬ ⋯)",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.manualStep2",
+     "en": "Select \"Install app\" or \"Add to Home Screen\"",
+     "km": "ជ្រើសរើស \"Install app\" ឬ \"Add to Home Screen\"",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "i18n:pwa.manualStep3",
+     "en": "Confirm the installation",
+     "km": "បញ្ជាក់ការដំឡើង",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "pick:pages.about:3712ebe9b8",
+     "en": "Miss Aquarius and I are in Cambodia, building its heart and soul.",
+     "km": "ខ្ញុំ និង Miss Aquarius នៅកម្ពុជា កំពុងកសាងបេះដូង និងព្រលឹងរបស់វា។",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "pick:pages.home:4598db7b6a",
+     "en": "Founder, HeartBank®",
+     "km": "ស្ថាបនិក HeartBank®",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "pick:pages.home:e789f5e2bf",
+     "en": "Father–son Tipiṭaka transcription",
+     "km": "ការចម្លងព្រះត្រៃបិដករវាងឪពុកនិងកូន",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "pick:pages.home:49bb9ae559",
+     "en": "Defensive-publishing the mechanisms of dharma-grounded AI",
+     "km": "ការបោះពុម្ពផ្សាយការពារនូវយន្តការនៃ AI ដែលមានធម៌ជាគ្រឹះ",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "pick:pages.music:131260cbfb",
+     "en": "Music",
+     "km": "តន្ត្រី",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "lang:components.hb-footer:26c01e70a3",
+     "en": "Footer",
+     "km": "ផ្នែកខាងក្រោម",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "md:about:a6c9aeb073",
+     "en": "The Person Behind It",
+     "km": "មនុស្សនៅពីក្រោយការងារនេះ",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    },
+    {
+     "key": "md:about:4fca6e6edb",
+     "en": "A Short Account of the Founder, the Idea He Carried for Two Decades, and Why the Work Is Built to Outlive Him",
+     "km": "រឿងរ៉ាវខ្លីៗអំពីស្ថាបនិក គំនិតដែលគាត់បានរក្សាទុកអស់ពីរទសវត្សរ៍ និងហេតុអ្វីការងារនេះត្រូវបានកសាងឡើងឲ្យរស់នៅយូរជាងគាត់",
+     "note": "not shown on any page today",
+     "note_km": "មិនទាន់បង្ហាញនៅលើទំព័រណាមួយទេ"
+    }
+   ]
+  }
+ ]
+}

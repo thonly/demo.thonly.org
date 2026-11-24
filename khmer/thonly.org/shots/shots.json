@@ -1,0 +1,2668 @@
+{
+ "made": "2026-11-24T23:33:50.070Z",
+ "viewport": {
+  "width": 390,
+  "height": 844
+ },
+ "states": {
+  "home": {
+   "url": "/",
+   "found": 7,
+   "images": 1
+  },
+  "menu": {
+   "url": "/",
+   "found": 22,
+   "images": 1
+  },
+  "language-list": {
+   "url": "/",
+   "found": 1,
+   "images": 1
+  },
+  "footer-drawer": {
+   "url": "/",
+   "found": 8,
+   "images": 1
+  },
+  "about": {
+   "url": "/about",
+   "found": 25,
+   "images": 8
+  },
+  "research": {
+   "url": "/research",
+   "found": 39,
+   "images": 6
+  },
+  "research-category": {
+   "url": "/research/mechanism",
+   "found": 10,
+   "images": 4
+  },
+  "research-mcp": {
+   "url": "/research/mcp",
+   "found": 39,
+   "images": 14
+  },
+  "mcp": {
+   "url": "/mcp",
+   "found": 25,
+   "images": 6
+  },
+  "film": {
+   "url": "/film",
+   "found": 26,
+   "images": 5
+  },
+  "film-category": {
+   "url": "/film/cinema",
+   "found": 13,
+   "images": 6
+  },
+  "film-category-empty": {
+   "url": "/film/origin",
+   "found": 1,
+   "images": 1
+  },
+  "treatments": {
+   "url": "/film/treatments",
+   "found": 3,
+   "images": 1
+  },
+  "screenplays": {
+   "url": "/film/screenplays",
+   "found": 2,
+   "images": 1
+  },
+  "sport": {
+   "url": "/sport",
+   "found": 30,
+   "images": 10
+  },
+  "music": {
+   "url": "/music",
+   "found": 15,
+   "images": 4
+  },
+  "music-playlist": {
+   "url": "/music/playlist/thon",
+   "found": 1,
+   "images": 1
+  },
+  "music-downloads": {
+   "url": "/music/downloads",
+   "found": 4,
+   "images": 1
+  },
+  "music-player": {
+   "url": "/music/acoustic/my-first-love/my-first-love",
+   "found": 18,
+   "images": 1
+  },
+  "login": {
+   "url": "/login",
+   "found": 4,
+   "images": 1
+  },
+  "tutorials": {
+   "url": "/tutorials",
+   "found": 7,
+   "images": 1
+  },
+  "tutorial-installApp-1": {
+   "url": "/tutorials#installApp",
+   "found": 3,
+   "images": 1
+  },
+  "tutorial-installApp-2": {
+   "url": "/tutorials#installApp",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-installApp-3": {
+   "url": "/tutorials#installApp",
+   "found": 0,
+   "images": 0
+  },
+  "tutorial-installApp-4": {
+   "url": "/tutorials#installApp",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-installApp-5": {
+   "url": "/tutorials#installApp",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-installApp-6": {
+   "url": "/tutorials#installApp",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-installApp-7": {
+   "url": "/tutorials#installApp",
+   "found": 2,
+   "images": 1
+  },
+  "tutorial-phoneLogin-1": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-2": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-3": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-4": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-5": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-6": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-7": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-8": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-9": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-phoneLogin-10": {
+   "url": "/tutorials#phoneLogin",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-notifications-1": {
+   "url": "/tutorials#notifications",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-notifications-2": {
+   "url": "/tutorials#notifications",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-notifications-3": {
+   "url": "/tutorials#notifications",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-notifications-4": {
+   "url": "/tutorials#notifications",
+   "found": 1,
+   "images": 1
+  },
+  "tutorial-notifications-5": {
+   "url": "/tutorials#notifications",
+   "found": 1,
+   "images": 1
+  },
+  "not-found": {
+   "url": "/404",
+   "found": 2,
+   "images": 1
+  },
+  "paper": {
+   "url": "/research/the-called-draw",
+   "found": 1,
+   "images": 1
+  },
+  "update-message": {
+   "url": "/",
+   "found": 5,
+   "images": 1
+  }
+ },
+ "entries": {
+  "i18n:header.openMenu": {
+   "img": "home-0.webp",
+   "x": 16,
+   "y": 18,
+   "w": 40,
+   "h": 32
+  },
+  "i18n:header.treasury": {
+   "img": "home-0.webp",
+   "x": 68,
+   "y": 16,
+   "w": 131,
+   "h": 36
+  },
+  "i18n:header.khmer": {
+   "img": "home-0.webp",
+   "x": 345,
+   "y": 20,
+   "w": 25,
+   "h": 28
+  },
+  "i18n:footer.slogan": {
+   "img": "home-0.webp",
+   "x": 105,
+   "y": 804,
+   "w": 71,
+   "h": 24
+  },
+  "pick:pages.home:1bde19f79f": {
+   "img": "home-0.webp",
+   "x": 106,
+   "y": 352,
+   "w": 128,
+   "h": 128
+  },
+  "pick:pages.about:1bde19f79f": {
+   "img": "home-0.webp",
+   "x": 106,
+   "y": 352,
+   "w": 128,
+   "h": 128
+  },
+  "pick:pages.about:b6db7a97a9": {
+   "img": "home-0.webp",
+   "x": 68,
+   "y": 16,
+   "w": 131,
+   "h": 36
+  },
+  "i18n:menu.closeMenu": {
+   "img": "menu-0.webp",
+   "x": 214,
+   "y": 10,
+   "w": 32,
+   "h": 32
+  },
+  "i18n:menu.music": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 68,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.film": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 116,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.sport": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 164,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.research": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 212,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.books": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 260,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.mcp": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 384,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:menu.work": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 448,
+   "w": 224,
+   "h": 20
+  },
+  "i18n:menu.education": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 596,
+   "w": 224,
+   "h": 20
+  },
+  "i18n:menu.phoneLogin": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 336,
+   "w": 176,
+   "h": 24
+  },
+  "pick:components.hb-menu:020d76dca6": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 475,
+   "w": 125,
+   "h": 17
+  },
+  "pick:components.hb-menu:9ea6d7cf76": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 499,
+   "w": 121,
+   "h": 17
+  },
+  "pick:components.hb-menu:023c1054bb": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 523,
+   "w": 147,
+   "h": 17
+  },
+  "pick:components.hb-menu:4a97c4714f": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 547,
+   "w": 108,
+   "h": 17
+  },
+  "pick:components.hb-menu:6d04d2fd62": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 623,
+   "w": 187,
+   "h": 17
+  },
+  "pick:components.hb-menu:cd2126ed39": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 647,
+   "w": 119,
+   "h": 17
+  },
+  "pick:components.hb-menu:be444ea578": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 671,
+   "w": 175,
+   "h": 17
+  },
+  "pick:components.hb-menu:96385fa1a2": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 695,
+   "w": 81,
+   "h": 17
+  },
+  "pick:components.hb-menu:d258b83004": {
+   "img": "menu-0.webp",
+   "x": 16,
+   "y": 750,
+   "w": 97,
+   "h": 16
+  },
+  "md:mcp:3ad9acb9b0": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 384,
+   "w": 176,
+   "h": 24
+  },
+  "pick:pages.film:b9aec11128": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 116,
+   "w": 176,
+   "h": 24
+  },
+  "pick:pages.music:131260cbfb": {
+   "img": "menu-0.webp",
+   "x": 56,
+   "y": 68,
+   "w": 176,
+   "h": 24
+  },
+  "i18n:header.english": {
+   "img": "language-list-0.webp",
+   "x": 287,
+   "y": 74,
+   "w": 50,
+   "h": 24
+  },
+  "i18n:footer.github": {
+   "img": "footer-drawer-0.webp",
+   "x": 281,
+   "y": 596,
+   "w": 77,
+   "h": 24
+  },
+  "i18n:footer.fb": {
+   "img": "footer-drawer-0.webp",
+   "x": 32,
+   "y": 596,
+   "w": 77,
+   "h": 24
+  },
+  "i18n:footer.card": {
+   "img": "footer-drawer-0.webp",
+   "x": 157,
+   "y": 596,
+   "w": 77,
+   "h": 24
+  },
+  "i18n:footer.darkMode": {
+   "img": "footer-drawer-0.webp",
+   "x": 32,
+   "y": 724,
+   "w": 77,
+   "h": 48
+  },
+  "i18n:footer.autoMode": {
+   "img": "footer-drawer-0.webp",
+   "x": 157,
+   "y": 724,
+   "w": 77,
+   "h": 48
+  },
+  "i18n:footer.lightMode": {
+   "img": "footer-drawer-0.webp",
+   "x": 281,
+   "y": 724,
+   "w": 77,
+   "h": 24
+  },
+  "i18n:draftMarkKm": {
+   "img": "footer-drawer-0.webp",
+   "x": 0,
+   "y": 804,
+   "w": 390,
+   "h": 40
+  },
+  "lang:components.hb-footer:26c01e70a3": {
+   "img": "footer-drawer-0.webp",
+   "x": 0,
+   "y": 476,
+   "w": 390,
+   "h": 32
+  },
+  "pick:pages.about:6b21fb791a": {
+   "img": "about-0.webp",
+   "x": 187,
+   "y": 320,
+   "w": 16,
+   "h": 16
+  },
+  "pick:pages.about:ee0a26c5b6": {
+   "img": "about-0.webp",
+   "x": 121,
+   "y": 394,
+   "w": 147,
+   "h": 24
+  },
+  "md:about:17eababadc": {
+   "img": "about-0.webp",
+   "x": 36,
+   "y": 462,
+   "w": 338,
+   "h": 163
+  },
+  "pick:pages.home:4598db7b6a": {
+   "img": "about-0.webp",
+   "x": 121,
+   "y": 394,
+   "w": 147,
+   "h": 24
+  },
+  "md:about:86f47bc408": {
+   "img": "about-1.webp",
+   "x": 16,
+   "y": 300,
+   "w": 358,
+   "h": 245
+  },
+  "md:about:17a446fbef": {
+   "img": "about-1.webp",
+   "x": 16,
+   "y": 576,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:38799beaae": {
+   "img": "about-2.webp",
+   "x": 16,
+   "y": 245,
+   "w": 358,
+   "h": 353
+  },
+  "md:about:68cf0c3279": {
+   "img": "about-2.webp",
+   "x": 16,
+   "y": 611,
+   "w": 358,
+   "h": 109
+  },
+  "md:about:d235244dbb": {
+   "img": "about-2.webp",
+   "x": 16,
+   "y": 752,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:5027f0fa26": {
+   "img": "about-3.webp",
+   "x": 16,
+   "y": 273,
+   "w": 358,
+   "h": 299
+  },
+  "md:about:ccc61db6c8": {
+   "img": "about-3.webp",
+   "x": 16,
+   "y": 584,
+   "w": 358,
+   "h": 54
+  },
+  "md:about:2c5399316e": {
+   "img": "about-3.webp",
+   "x": 16,
+   "y": 670,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:1a2a68e8bb": {
+   "img": "about-4.webp",
+   "x": 16,
+   "y": 286,
+   "w": 358,
+   "h": 272
+  },
+  "md:about:4e9a906211": {
+   "img": "about-4.webp",
+   "x": 16,
+   "y": 570,
+   "w": 358,
+   "h": 109
+  },
+  "md:about:497a23ad00": {
+   "img": "about-4.webp",
+   "x": 16,
+   "y": 711,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:4e5eaa1939": {
+   "img": "about-5.webp",
+   "x": 16,
+   "y": 300,
+   "w": 358,
+   "h": 245
+  },
+  "md:about:077616a973": {
+   "img": "about-5.webp",
+   "x": 16,
+   "y": 556,
+   "w": 358,
+   "h": 218
+  },
+  "md:about:5c7ef908fc": {
+   "img": "about-6.webp",
+   "x": 16,
+   "y": 405,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:a9e3866226": {
+   "img": "about-6.webp",
+   "x": 16,
+   "y": 451,
+   "w": 358,
+   "h": 272
+  },
+  "md:about:ed399e7290": {
+   "img": "about-6.webp",
+   "x": 16,
+   "y": 755,
+   "w": 358,
+   "h": 34
+  },
+  "sport:0e44c8b638": {
+   "img": "about-6.webp",
+   "x": 16,
+   "y": 755,
+   "w": 358,
+   "h": 34
+  },
+  "md:about:311aee6305": {
+   "img": "about-7.webp",
+   "x": 40,
+   "y": 474,
+   "w": 334,
+   "h": 82
+  },
+  "md:about:be3cd61bdd": {
+   "img": "about-7.webp",
+   "x": 40,
+   "y": 559,
+   "w": 334,
+   "h": 54
+  },
+  "md:about:d93dcc6df9": {
+   "img": "about-7.webp",
+   "x": 40,
+   "y": 618,
+   "w": 334,
+   "h": 54
+  },
+  "md:about:55625fc21c": {
+   "img": "about-7.webp",
+   "x": 40,
+   "y": 676,
+   "w": 334,
+   "h": 54
+  },
+  "pick:pages.research:7141cbd696": {
+   "img": "research-0.webp",
+   "x": 297,
+   "y": 414,
+   "w": 52,
+   "h": 16
+  },
+  "pick:pages.research:09153b62ae": {
+   "img": "research-0.webp",
+   "x": 209,
+   "y": 644,
+   "w": 69,
+   "h": 20
+  },
+  "pick:pages.research:5d824ebf02": {
+   "img": "research-0.webp",
+   "x": 33,
+   "y": 89,
+   "w": 324,
+   "h": 137
+  },
+  "pick:pages.research:49af8f226b": {
+   "img": "research-0.webp",
+   "x": 33,
+   "y": 242,
+   "w": 119,
+   "h": 50
+  },
+  "pick:pages.research:d129373bfa": {
+   "img": "research-0.webp",
+   "x": 164,
+   "y": 242,
+   "w": 193,
+   "h": 50
+  },
+  "pick:pages.research:6ccb60071b": {
+   "img": "research-0.webp",
+   "x": 16,
+   "y": 341,
+   "w": 358,
+   "h": 28
+  },
+  "data:research-category:alignment:name": {
+   "img": "research-0.webp",
+   "x": 41,
+   "y": 410,
+   "w": 199,
+   "h": 32
+  },
+  "data:research-category:alignment:description": {
+   "img": "research-0.webp",
+   "x": 41,
+   "y": 450,
+   "w": 308,
+   "h": 182
+  },
+  "data:research-category:institutional:name": {
+   "img": "research-0.webp",
+   "x": 41,
+   "y": 738,
+   "w": 143,
+   "h": 32
+  },
+  "pick:pages.research.mcp:d129373bfa": {
+   "img": "research-0.webp",
+   "x": 164,
+   "y": 242,
+   "w": 193,
+   "h": 50
+  },
+  "pick:pages.mcp:49af8f226b": {
+   "img": "research-0.webp",
+   "x": 33,
+   "y": 242,
+   "w": 119,
+   "h": 50
+  },
+  "pick:pages.research:c382c49ee4": {
+   "img": "research-1.webp",
+   "x": 41,
+   "y": 412,
+   "w": 69,
+   "h": 20
+  },
+  "pick:pages.research:3a612ee9a2": {
+   "img": "research-1.webp",
+   "x": 118,
+   "y": 412,
+   "w": 69,
+   "h": 20
+  },
+  "data:research-category:institutional:description": {
+   "img": "research-1.webp",
+   "x": 41,
+   "y": 218,
+   "w": 308,
+   "h": 182
+  },
+  "data:research-category:mechanism:name": {
+   "img": "research-1.webp",
+   "x": 41,
+   "y": 506,
+   "w": 152,
+   "h": 32
+  },
+  "data:research-category:mechanism:description": {
+   "img": "research-1.webp",
+   "x": 41,
+   "y": 546,
+   "w": 308,
+   "h": 182
+  },
+  "pick:pages.research:6d69d8d4fc": {
+   "img": "research-2.webp",
+   "x": 16,
+   "y": 184,
+   "w": 358,
+   "h": 40
+  },
+  "pick:pages.research:e06cb6e99b": {
+   "img": "research-2.webp",
+   "x": 33,
+   "y": 687,
+   "w": 324,
+   "h": 28
+  },
+  "md:research-mcp:e06cb6e99b": {
+   "img": "research-2.webp",
+   "x": 33,
+   "y": 687,
+   "w": 324,
+   "h": 28
+  },
+  "pick:pages.research:85050cfff3": {
+   "img": "research-3.webp",
+   "x": 33,
+   "y": 331,
+   "w": 324,
+   "h": 182
+  },
+  "pick:pages.research:8dea5ec027": {
+   "img": "research-4.webp",
+   "x": 16,
+   "y": 407,
+   "w": 95,
+   "h": 30
+  },
+  "pick:pages.research:987575ea3b": {
+   "img": "research-4.webp",
+   "x": 16,
+   "y": 510,
+   "w": 358,
+   "h": 98
+  },
+  "pick:pages.research:5ba0e78b26": {
+   "img": "research-4.webp",
+   "x": 16,
+   "y": 616,
+   "w": 358,
+   "h": 176
+  },
+  "data:research-category:essays:name": {
+   "img": "research-4.webp",
+   "x": 41,
+   "y": 165,
+   "w": 137,
+   "h": 32
+  },
+  "data:research-category:essays:description": {
+   "img": "research-4.webp",
+   "x": 41,
+   "y": 205,
+   "w": 308,
+   "h": 114
+  },
+  "pick:pages.research-category:0855684c14": {
+   "img": "research-4.webp",
+   "x": 16,
+   "y": 511,
+   "w": 78,
+   "h": 17
+  },
+  "data:publication-status:Published": {
+   "img": "research-4.webp",
+   "x": 92,
+   "y": 617,
+   "w": 84,
+   "h": 17
+  },
+  "data:publication-status:Draft": {
+   "img": "research-4.webp",
+   "x": 16,
+   "y": 617,
+   "w": 55,
+   "h": 17
+  },
+  "data:tier": {
+   "img": "research-4.webp",
+   "x": 126,
+   "y": 570,
+   "w": 39,
+   "h": 17
+  },
+  "pick:pages.research:e01ff39897": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 636,
+   "w": 358,
+   "h": 78
+  },
+  "pick:pages.research:e8a5cb3501": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.research-category:9f1a19d4bc": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.research.mcp:e8a5cb3501": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.mcp:e8a5cb3501": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.film:9f1a19d4bc": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.film-category:9f1a19d4bc": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.film.treatments:e8a5cb3501": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.film.screenplays:9f1a19d4bc": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "sport:9f1a19d4bc": {
+   "img": "research-5.webp",
+   "x": 16,
+   "y": 722,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.research-category:faf65534ba": {
+   "img": "research-category-0.webp",
+   "x": 305,
+   "y": 414,
+   "w": 13,
+   "h": 16
+  },
+  "data:publication-type:Defensive-Publication": {
+   "img": "research-category-0.webp",
+   "x": 41,
+   "y": 414,
+   "w": 106,
+   "h": 16
+  },
+  "pick:pages.research-category:7e37728782": {
+   "img": "research-category-1.webp",
+   "x": 16,
+   "y": 100,
+   "w": 96,
+   "h": 19
+  },
+  "pick:pages.research-category:8c047b64d6": {
+   "img": "research-category-1.webp",
+   "x": 16,
+   "y": 144,
+   "w": 358,
+   "h": 16
+  },
+  "pick:pages.research-category:db10e5d054": {
+   "img": "research-category-1.webp",
+   "x": 16,
+   "y": 436,
+   "w": 358,
+   "h": 16
+  },
+  "pick:pages.research-category:f5cbdf6bfb": {
+   "img": "research-category-1.webp",
+   "x": 37,
+   "y": 513,
+   "w": 316,
+   "h": 16
+  },
+  "pick:pages.film-category:f5cbdf6bfb": {
+   "img": "research-category-1.webp",
+   "x": 37,
+   "y": 513,
+   "w": 316,
+   "h": 16
+  },
+  "pick:pages.research-category:a3706b07d0": {
+   "img": "research-category-2.webp",
+   "x": 16,
+   "y": 531,
+   "w": 358,
+   "h": 59
+  },
+  "pick:pages.research-category:a48029c6d6": {
+   "img": "research-category-2.webp",
+   "x": 16,
+   "y": 598,
+   "w": 358,
+   "h": 117
+  },
+  "data:publication-type:Essay": {
+   "img": "research-category-3.webp",
+   "x": 41,
+   "y": 414,
+   "w": 31,
+   "h": 16
+  },
+  "pick:pages.research.mcp:c3f546e343": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 274,
+   "w": 358,
+   "h": 86
+  },
+  "md:research-mcp:bcbb600253": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 100,
+   "w": 358,
+   "h": 16
+  },
+  "md:research-mcp:eb4e353b2d": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 172,
+   "w": 358,
+   "h": 78
+  },
+  "md:research-mcp:b65463cb6a": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 392,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:899b1ec6cb": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 438,
+   "w": 358,
+   "h": 82
+  },
+  "md:research-mcp:a8b3f140aa": {
+   "img": "research-mcp-0.webp",
+   "x": 16,
+   "y": 595,
+   "w": 358,
+   "h": 109
+  },
+  "pick:pages.research.mcp:2a9b96a6ae": {
+   "img": "research-mcp-1.webp",
+   "x": 241,
+   "y": 498,
+   "w": 133,
+   "h": 50
+  },
+  "pick:pages.research.mcp:7cb8d0aad4": {
+   "img": "research-mcp-1.webp",
+   "x": 16,
+   "y": 560,
+   "w": 162,
+   "h": 50
+  },
+  "pick:pages.research.mcp:4b5f7e40c2": {
+   "img": "research-mcp-1.webp",
+   "x": 16,
+   "y": 675,
+   "w": 358,
+   "h": 40
+  },
+  "md:research-mcp:63ef56710f": {
+   "img": "research-mcp-1.webp",
+   "x": 16,
+   "y": 162,
+   "w": 358,
+   "h": 109
+  },
+  "md:research-mcp:6287d93e67": {
+   "img": "research-mcp-1.webp",
+   "x": 16,
+   "y": 303,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:ff70708090": {
+   "img": "research-mcp-2.webp",
+   "x": 16,
+   "y": 327,
+   "w": 358,
+   "h": 190
+  },
+  "md:research-mcp:11cedfe3eb": {
+   "img": "research-mcp-2.webp",
+   "x": 16,
+   "y": 549,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:9a830c714b": {
+   "img": "research-mcp-2.webp",
+   "x": 17,
+   "y": 596,
+   "w": 156,
+   "h": 37
+  },
+  "md:research-mcp:ca032b5844": {
+   "img": "research-mcp-2.webp",
+   "x": 172,
+   "y": 596,
+   "w": 201,
+   "h": 37
+  },
+  "md:research-mcp:18d209b535": {
+   "img": "research-mcp-3.webp",
+   "x": 172,
+   "y": 296,
+   "w": 201,
+   "h": 252
+  },
+  "md:research-mcp:595dc3533d": {
+   "img": "research-mcp-3.webp",
+   "x": 172,
+   "y": 548,
+   "w": 201,
+   "h": 133
+  },
+  "md:research-mcp:c1820cf80d": {
+   "img": "research-mcp-3.webp",
+   "x": 172,
+   "y": 680,
+   "w": 201,
+   "h": 156
+  },
+  "md:research-mcp:5a4ae57b07": {
+   "img": "research-mcp-4.webp",
+   "x": 172,
+   "y": 320,
+   "w": 201,
+   "h": 204
+  },
+  "md:research-mcp:fe0d3bca20": {
+   "img": "research-mcp-4.webp",
+   "x": 172,
+   "y": 524,
+   "w": 201,
+   "h": 227
+  },
+  "md:research-mcp:c497ee43f0": {
+   "img": "research-mcp-5.webp",
+   "x": 172,
+   "y": 356,
+   "w": 201,
+   "h": 132
+  },
+  "md:research-mcp:b121bae357": {
+   "img": "research-mcp-5.webp",
+   "x": 172,
+   "y": 488,
+   "w": 201,
+   "h": 84
+  },
+  "md:research-mcp:1b0e543a03": {
+   "img": "research-mcp-5.webp",
+   "x": 172,
+   "y": 572,
+   "w": 201,
+   "h": 108
+  },
+  "md:research-mcp:188b5331ea": {
+   "img": "research-mcp-5.webp",
+   "x": 16,
+   "y": 697,
+   "w": 358,
+   "h": 109
+  },
+  "md:research-mcp:d33411da42": {
+   "img": "research-mcp-6.webp",
+   "x": 16,
+   "y": 313,
+   "w": 358,
+   "h": 218
+  },
+  "md:research-mcp:25be965b38": {
+   "img": "research-mcp-6.webp",
+   "x": 16,
+   "y": 542,
+   "w": 358,
+   "h": 163
+  },
+  "md:research-mcp:cf6d8e84c7": {
+   "img": "research-mcp-6.webp",
+   "x": 16,
+   "y": 737,
+   "w": 358,
+   "h": 102
+  },
+  "md:research-mcp:9be70da880": {
+   "img": "research-mcp-7.webp",
+   "x": 16,
+   "y": 354,
+   "w": 358,
+   "h": 136
+  },
+  "md:research-mcp:85773ac2bc": {
+   "img": "research-mcp-7.webp",
+   "x": 16,
+   "y": 502,
+   "w": 358,
+   "h": 245
+  },
+  "md:research-mcp:3d046e5697": {
+   "img": "research-mcp-8.webp",
+   "x": 16,
+   "y": 405,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:284b535f4d": {
+   "img": "research-mcp-8.webp",
+   "x": 16,
+   "y": 451,
+   "w": 358,
+   "h": 245
+  },
+  "md:research-mcp:0ff18ea61e": {
+   "img": "research-mcp-9.webp",
+   "x": 16,
+   "y": 340,
+   "w": 358,
+   "h": 163
+  },
+  "md:research-mcp:45a12010a0": {
+   "img": "research-mcp-9.webp",
+   "x": 16,
+   "y": 606,
+   "w": 358,
+   "h": 109
+  },
+  "md:research-mcp:81c0e917e8": {
+   "img": "research-mcp-9.webp",
+   "x": 16,
+   "y": 747,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:cb40c6aeab": {
+   "img": "research-mcp-10.webp",
+   "x": 16,
+   "y": 314,
+   "w": 358,
+   "h": 218
+  },
+  "md:research-mcp:e411694e18": {
+   "img": "research-mcp-11.webp",
+   "x": 16,
+   "y": 286,
+   "w": 358,
+   "h": 272
+  },
+  "md:research-mcp:615c472210": {
+   "img": "research-mcp-12.webp",
+   "x": 16,
+   "y": 273,
+   "w": 358,
+   "h": 299
+  },
+  "md:research-mcp:fd6f5b715e": {
+   "img": "research-mcp-12.webp",
+   "x": 16,
+   "y": 604,
+   "w": 358,
+   "h": 34
+  },
+  "md:research-mcp:6fff648bca": {
+   "img": "research-mcp-13.webp",
+   "x": 16,
+   "y": 367,
+   "w": 358,
+   "h": 109
+  },
+  "pick:pages.mcp:5d605d1a41": {
+   "img": "mcp-0.webp",
+   "x": 218,
+   "y": 628,
+   "w": 156,
+   "h": 30
+  },
+  "md:mcp:0139ee85e3": {
+   "img": "mcp-0.webp",
+   "x": 16,
+   "y": 92,
+   "w": 342,
+   "h": 22
+  },
+  "md:mcp:df2cfb6a3a": {
+   "img": "mcp-0.webp",
+   "x": 16,
+   "y": 129,
+   "w": 358,
+   "h": 136
+  },
+  "md:mcp:c31f252eaf": {
+   "img": "mcp-0.webp",
+   "x": 16,
+   "y": 297,
+   "w": 358,
+   "h": 34
+  },
+  "md:mcp:d2449a15ef": {
+   "img": "mcp-0.webp",
+   "x": 16,
+   "y": 343,
+   "w": 358,
+   "h": 245
+  },
+  "md:mcp:61880b8dca": {
+   "img": "mcp-1.webp",
+   "x": 16,
+   "y": 100,
+   "w": 358,
+   "h": 16
+  },
+  "md:mcp:9de1be3b6a": {
+   "img": "mcp-1.webp",
+   "x": 16,
+   "y": 172,
+   "w": 358,
+   "h": 52
+  },
+  "md:mcp:b283550b85": {
+   "img": "mcp-1.webp",
+   "x": 16,
+   "y": 256,
+   "w": 358,
+   "h": 190
+  },
+  "md:mcp:5407fd0525": {
+   "img": "mcp-1.webp",
+   "x": 16,
+   "y": 478,
+   "w": 358,
+   "h": 68
+  },
+  "md:mcp:92b9b7f33b": {
+   "img": "mcp-1.webp",
+   "x": 16,
+   "y": 558,
+   "w": 358,
+   "h": 272
+  },
+  "md:mcp:fd32b6e57e": {
+   "img": "mcp-2.webp",
+   "x": 16,
+   "y": 411,
+   "w": 310,
+   "h": 22
+  },
+  "md:mcp:8c59c7b598": {
+   "img": "mcp-2.webp",
+   "x": 16,
+   "y": 468,
+   "w": 358,
+   "h": 34
+  },
+  "md:mcp:cda05ca6d8": {
+   "img": "mcp-2.webp",
+   "x": 17,
+   "y": 515,
+   "w": 171,
+   "h": 37
+  },
+  "md:mcp:f8c94a3b4b": {
+   "img": "mcp-2.webp",
+   "x": 188,
+   "y": 515,
+   "w": 186,
+   "h": 37
+  },
+  "md:mcp:5f49bb2557": {
+   "img": "mcp-2.webp",
+   "x": 188,
+   "y": 552,
+   "w": 186,
+   "h": 203
+  },
+  "md:mcp:8df76566f7": {
+   "img": "mcp-3.webp",
+   "x": 188,
+   "y": 356,
+   "w": 186,
+   "h": 132
+  },
+  "md:mcp:47d482f0bf": {
+   "img": "mcp-3.webp",
+   "x": 188,
+   "y": 488,
+   "w": 186,
+   "h": 61
+  },
+  "md:mcp:80e5b860eb": {
+   "img": "mcp-3.webp",
+   "x": 188,
+   "y": 549,
+   "w": 186,
+   "h": 108
+  },
+  "md:mcp:4538827d7a": {
+   "img": "mcp-3.webp",
+   "x": 16,
+   "y": 689,
+   "w": 358,
+   "h": 34
+  },
+  "md:mcp:ce0bff4212": {
+   "img": "mcp-4.webp",
+   "x": 16,
+   "y": 354,
+   "w": 358,
+   "h": 136
+  },
+  "md:mcp:25a0e586be": {
+   "img": "mcp-4.webp",
+   "x": 16,
+   "y": 502,
+   "w": 358,
+   "h": 136
+  },
+  "md:mcp:1544fdbfd5": {
+   "img": "mcp-4.webp",
+   "x": 16,
+   "y": 670,
+   "w": 358,
+   "h": 68
+  },
+  "md:mcp:93747e3453": {
+   "img": "mcp-5.webp",
+   "x": 16,
+   "y": 340,
+   "w": 358,
+   "h": 163
+  },
+  "md:mcp:008f1a42fe": {
+   "img": "mcp-5.webp",
+   "x": 16,
+   "y": 535,
+   "w": 358,
+   "h": 34
+  },
+  "md:mcp:df6435ab44": {
+   "img": "mcp-5.webp",
+   "x": 16,
+   "y": 581,
+   "w": 358,
+   "h": 245
+  },
+  "data:publication-status:Planned": {
+   "img": "film-0.webp",
+   "x": 291,
+   "y": 414,
+   "w": 58,
+   "h": 16
+  },
+  "pick:pages.film:9cbe42aaff": {
+   "img": "film-0.webp",
+   "x": 291,
+   "y": 414,
+   "w": 58,
+   "h": 16
+  },
+  "data:film-category:dhammadesana:name": {
+   "img": "film-0.webp",
+   "x": 41,
+   "y": 410,
+   "w": 103,
+   "h": 32
+  },
+  "data:film-category:dhammadesana:description": {
+   "img": "film-0.webp",
+   "x": 41,
+   "y": 450,
+   "w": 308,
+   "h": 296
+  },
+  "data:film-group:Dhamma": {
+   "img": "film-0.webp",
+   "x": 16,
+   "y": 353,
+   "w": 358,
+   "h": 16
+  },
+  "pick:pages.film:27202c9c48": {
+   "img": "film-1.webp",
+   "x": 312,
+   "y": 414,
+   "w": 37,
+   "h": 16
+  },
+  "pick:pages.film:ef3ab086a2": {
+   "img": "film-1.webp",
+   "x": 20,
+   "y": 81,
+   "w": 349,
+   "h": 126
+  },
+  "data:film-category:cinema:name": {
+   "img": "film-1.webp",
+   "x": 41,
+   "y": 410,
+   "w": 119,
+   "h": 32
+  },
+  "data:film-category:cinema:description": {
+   "img": "film-1.webp",
+   "x": 41,
+   "y": 450,
+   "w": 308,
+   "h": 273
+  },
+  "data:film-group:Cinema": {
+   "img": "film-1.webp",
+   "x": 41,
+   "y": 410,
+   "w": 119,
+   "h": 32
+  },
+  "pick:pages.film:08936c510b": {
+   "img": "film-2.webp",
+   "x": 16,
+   "y": 550,
+   "w": 358,
+   "h": 98
+  },
+  "pick:pages.film:630b00eda7": {
+   "img": "film-2.webp",
+   "x": 16,
+   "y": 656,
+   "w": 358,
+   "h": 59
+  },
+  "data:film-category:commercials:name": {
+   "img": "film-2.webp",
+   "x": 41,
+   "y": 126,
+   "w": 190,
+   "h": 32
+  },
+  "data:film-category:commercials:description": {
+   "img": "film-2.webp",
+   "x": 41,
+   "y": 166,
+   "w": 308,
+   "h": 46
+  },
+  "data:film-category:explainers:name": {
+   "img": "film-2.webp",
+   "x": 41,
+   "y": 285,
+   "w": 259,
+   "h": 32
+  },
+  "data:film-category:explainers:description": {
+   "img": "film-2.webp",
+   "x": 41,
+   "y": 361,
+   "w": 308,
+   "h": 91
+  },
+  "data:film-group:Outreach": {
+   "img": "film-2.webp",
+   "x": 16,
+   "y": 69,
+   "w": 358,
+   "h": 16
+  },
+  "data:film-type:Commercial": {
+   "img": "film-2.webp",
+   "x": 41,
+   "y": 126,
+   "w": 190,
+   "h": 32
+  },
+  "data:film-category:documentaries:name": {
+   "img": "film-3.webp",
+   "x": 41,
+   "y": 406,
+   "w": 151,
+   "h": 32
+  },
+  "data:film-category:documentaries:description": {
+   "img": "film-3.webp",
+   "x": 41,
+   "y": 446,
+   "w": 308,
+   "h": 137
+  },
+  "data:film-category:origin:name": {
+   "img": "film-3.webp",
+   "x": 41,
+   "y": 656,
+   "w": 95,
+   "h": 32
+  },
+  "data:film-category:origin:description": {
+   "img": "film-3.webp",
+   "x": 41,
+   "y": 696,
+   "w": 308,
+   "h": 91
+  },
+  "data:film-group:The-Real": {
+   "img": "film-3.webp",
+   "x": 16,
+   "y": 349,
+   "w": 358,
+   "h": 16
+  },
+  "data:film-type:Documentary": {
+   "img": "film-3.webp",
+   "x": 41,
+   "y": 406,
+   "w": 151,
+   "h": 32
+  },
+  "data:film-category:family-stories:name": {
+   "img": "film-4.webp",
+   "x": 41,
+   "y": 406,
+   "w": 127,
+   "h": 32
+  },
+  "data:film-category:family-stories:description": {
+   "img": "film-4.webp",
+   "x": 41,
+   "y": 446,
+   "w": 308,
+   "h": 68
+  },
+  "pick:pages.film-category:630d4fb650": {
+   "img": "film-category-0.webp",
+   "x": 16,
+   "y": 100,
+   "w": 105,
+   "h": 19
+  },
+  "pick:pages.film-category:a300b86254": {
+   "img": "film-category-0.webp",
+   "x": 16,
+   "y": 144,
+   "w": 358,
+   "h": 16
+  },
+  "pick:pages.film-category:6890f98372": {
+   "img": "film-category-0.webp",
+   "x": 16,
+   "y": 514,
+   "w": 358,
+   "h": 16
+  },
+  "pick:pages.film-category:5e80751ddd": {
+   "img": "film-category-0.webp",
+   "x": 16,
+   "y": 577,
+   "w": 85,
+   "h": 16
+  },
+  "pick:pages.film-category:6976d00f2b": {
+   "img": "film-category-0.webp",
+   "x": 224,
+   "y": 570,
+   "w": 117,
+   "h": 30
+  },
+  "data:film-status:Screenplay": {
+   "img": "film-category-0.webp",
+   "x": 224,
+   "y": 570,
+   "w": 117,
+   "h": 30
+  },
+  "pick:pages.film-category:10914a42d4": {
+   "img": "film-category-1.webp",
+   "x": 260,
+   "y": 410,
+   "w": 89,
+   "h": 24
+  },
+  "data:film-status:Treatment": {
+   "img": "film-category-1.webp",
+   "x": 260,
+   "y": 410,
+   "w": 89,
+   "h": 24
+  },
+  "data:film-status:Concept": {
+   "img": "film-category-2.webp",
+   "x": 309,
+   "y": 410,
+   "w": 40,
+   "h": 24
+  },
+  "data:film-type:Feature": {
+   "img": "film-category-2.webp",
+   "x": 41,
+   "y": 478,
+   "w": 73,
+   "h": 16
+  },
+  "data:film-type:Series": {
+   "img": "film-category-3.webp",
+   "x": 41,
+   "y": 414,
+   "w": 38,
+   "h": 16
+  },
+  "data:film-type:Limited-Series": {
+   "img": "film-category-4.webp",
+   "x": 41,
+   "y": 414,
+   "w": 129,
+   "h": 16
+  },
+  "data:film-type:Character": {
+   "img": "film-category-5.webp",
+   "x": 41,
+   "y": 414,
+   "w": 23,
+   "h": 16
+  },
+  "pick:pages.film-category:5ece8edf80": {
+   "img": "film-category-empty-0.webp",
+   "x": 41,
+   "y": 485,
+   "w": 308,
+   "h": 68
+  },
+  "pick:pages.film.treatments:1e36681f88": {
+   "img": "treatments-0.webp",
+   "x": 16,
+   "y": 100,
+   "w": 83,
+   "h": 19
+  },
+  "pick:pages.film.treatments:10914a42d4": {
+   "img": "treatments-0.webp",
+   "x": 16,
+   "y": 144,
+   "w": 358,
+   "h": 72
+  },
+  "pick:pages.film.screenplays:1e36681f88": {
+   "img": "treatments-0.webp",
+   "x": 16,
+   "y": 100,
+   "w": 83,
+   "h": 19
+  },
+  "pick:pages.film.screenplays:6976d00f2b": {
+   "img": "screenplays-0.webp",
+   "x": 16,
+   "y": 188,
+   "w": 358,
+   "h": 72
+  },
+  "pick:pages.film.screenplays:d63308c821": {
+   "img": "screenplays-0.webp",
+   "x": 41,
+   "y": 467,
+   "w": 308,
+   "h": 114
+  },
+  "sport:4e36c32540": {
+   "img": "sport-0.webp",
+   "x": 16,
+   "y": 100,
+   "w": 358,
+   "h": 72
+  },
+  "sport:8d62446b20": {
+   "img": "sport-0.webp",
+   "x": 16,
+   "y": 184,
+   "w": 358,
+   "h": 104
+  },
+  "sport:d3782b30ce": {
+   "img": "sport-0.webp",
+   "x": 140,
+   "y": 316,
+   "w": 110,
+   "h": 48
+  },
+  "sport:799d8f14e5": {
+   "img": "sport-0.webp",
+   "x": 16,
+   "y": 412,
+   "w": 358,
+   "h": 28
+  },
+  "sport:3caf884c6f": {
+   "img": "sport-0.webp",
+   "x": 16,
+   "y": 452,
+   "w": 358,
+   "h": 130
+  },
+  "sport:5b453380fa": {
+   "img": "sport-0.webp",
+   "x": 16,
+   "y": 598,
+   "w": 358,
+   "h": 52
+  },
+  "sport:4a012d315e": {
+   "img": "sport-1.webp",
+   "x": 16,
+   "y": 292,
+   "w": 358,
+   "h": 260
+  },
+  "sport:6518fde459": {
+   "img": "sport-1.webp",
+   "x": 16,
+   "y": 592,
+   "w": 358,
+   "h": 28
+  },
+  "sport:484da5bae8": {
+   "img": "sport-1.webp",
+   "x": 16,
+   "y": 644,
+   "w": 358,
+   "h": 144
+  },
+  "sport:6f0abd0efa": {
+   "img": "sport-2.webp",
+   "x": 16,
+   "y": 331,
+   "w": 358,
+   "h": 182
+  },
+  "sport:08cccb006a": {
+   "img": "sport-2.webp",
+   "x": 16,
+   "y": 529,
+   "w": 358,
+   "h": 208
+  },
+  "sport:7b3fa4707e": {
+   "img": "sport-3.webp",
+   "x": 16,
+   "y": 394,
+   "w": 358,
+   "h": 56
+  },
+  "sport:ad16e11257": {
+   "img": "sport-3.webp",
+   "x": 16,
+   "y": 462,
+   "w": 358,
+   "h": 104
+  },
+  "sport:979fa6e687": {
+   "img": "sport-3.webp",
+   "x": 36,
+   "y": 582,
+   "w": 338,
+   "h": 72
+  },
+  "sport:39ae786f03": {
+   "img": "sport-3.webp",
+   "x": 36,
+   "y": 662,
+   "w": 338,
+   "h": 96
+  },
+  "sport:2dc6549d78": {
+   "img": "sport-4.webp",
+   "x": 36,
+   "y": 386,
+   "w": 338,
+   "h": 72
+  },
+  "sport:3019432b41": {
+   "img": "sport-4.webp",
+   "x": 16,
+   "y": 474,
+   "w": 358,
+   "h": 338
+  },
+  "sport:bc4cced0c5": {
+   "img": "sport-5.webp",
+   "x": 16,
+   "y": 408,
+   "w": 358,
+   "h": 28
+  },
+  "sport:d3b749666f": {
+   "img": "sport-5.webp",
+   "x": 16,
+   "y": 448,
+   "w": 358,
+   "h": 130
+  },
+  "sport:8def976be7": {
+   "img": "sport-6.webp",
+   "x": 16,
+   "y": 279,
+   "w": 358,
+   "h": 286
+  },
+  "sport:7d4ba21443": {
+   "img": "sport-6.webp",
+   "x": 16,
+   "y": 581,
+   "w": 358,
+   "h": 182
+  },
+  "sport:4a8d40bcbc": {
+   "img": "sport-7.webp",
+   "x": 16,
+   "y": 408,
+   "w": 358,
+   "h": 28
+  },
+  "sport:88dab5e654": {
+   "img": "sport-7.webp",
+   "x": 16,
+   "y": 448,
+   "w": 358,
+   "h": 104
+  },
+  "sport:4d04d9c94d": {
+   "img": "sport-7.webp",
+   "x": 16,
+   "y": 568,
+   "w": 358,
+   "h": 182
+  },
+  "sport:c268697b1c": {
+   "img": "sport-8.webp",
+   "x": 16,
+   "y": 383,
+   "w": 358,
+   "h": 78
+  },
+  "sport:28169174b0": {
+   "img": "sport-8.webp",
+   "x": 41,
+   "y": 534,
+   "w": 308,
+   "h": 78
+  },
+  "sport:68e3d118ca": {
+   "img": "sport-8.webp",
+   "x": 116,
+   "y": 628,
+   "w": 158,
+   "h": 48
+  },
+  "sport:e97d875fd7": {
+   "img": "sport-9.webp",
+   "x": 16,
+   "y": 412,
+   "w": 358,
+   "h": 104
+  },
+  "sport:0e805a946a": {
+   "img": "sport-9.webp",
+   "x": 16,
+   "y": 589,
+   "w": 358,
+   "h": 78
+  },
+  "sport:810f036c7a": {
+   "img": "sport-9.webp",
+   "x": 16,
+   "y": 675,
+   "w": 358,
+   "h": 39
+  },
+  "pick:pages.music:16f415790b": {
+   "img": "music-0.webp",
+   "x": 203,
+   "y": 412,
+   "w": 171,
+   "h": 20
+  },
+  "pick:pages.music:70f8bb9a8a": {
+   "img": "music-0.webp",
+   "x": 16,
+   "y": 10,
+   "w": 98,
+   "h": 32
+  },
+  "pick:pages.music:a862c2b21b": {
+   "img": "music-0.webp",
+   "x": 16,
+   "y": 568,
+   "w": 171,
+   "h": 20
+  },
+  "pick:pages.music:4b6c8f568a": {
+   "img": "music-0.webp",
+   "x": 16,
+   "y": 588,
+   "w": 171,
+   "h": 16
+  },
+  "pick:pages.music:8fd2d43782": {
+   "img": "music-0.webp",
+   "x": 16,
+   "y": 677,
+   "w": 358,
+   "h": 40
+  },
+  "pick:pages.music:c40030d690": {
+   "img": "music-0.webp",
+   "x": 16,
+   "y": 736,
+   "w": 358,
+   "h": 39
+  },
+  "pick:pages.music:3342188970": {
+   "img": "music-0.webp",
+   "x": 124,
+   "y": 785,
+   "w": 194,
+   "h": 40
+  },
+  "data:music-instrument:all": {
+   "img": "music-0.webp",
+   "x": 122,
+   "y": 10,
+   "w": 76,
+   "h": 32
+  },
+  "data:music-instrument:acoustic": {
+   "img": "music-0.webp",
+   "x": 207,
+   "y": 10,
+   "w": 77,
+   "h": 32
+  },
+  "data:music-instrument:guitar": {
+   "img": "music-0.webp",
+   "x": 291,
+   "y": 10,
+   "w": 58,
+   "h": 32
+  },
+  "data:music-repeat:all": {
+   "img": "music-0.webp",
+   "x": 122,
+   "y": 10,
+   "w": 76,
+   "h": 32
+  },
+  "pick:pages.music:eb49a6e102": {
+   "img": "music-1.webp",
+   "x": 33,
+   "y": 247,
+   "w": 15,
+   "h": 17
+  },
+  "pick:pages.music:da8a7f991a": {
+   "img": "music-1.webp",
+   "x": 16,
+   "y": 80,
+   "w": 358,
+   "h": 20
+  },
+  "pick:pages.music:f4eb45c807": {
+   "img": "music-2.webp",
+   "x": 143,
+   "y": 678,
+   "w": 118,
+   "h": 17
+  },
+  "data:music-instrument:violin-and-cello": {
+   "img": "music-3.webp",
+   "x": 267,
+   "y": 10,
+   "w": 123,
+   "h": 32
+  },
+  "pick:pages.music:9232e12fa3": {
+   "img": "music-playlist-0.webp",
+   "x": 319,
+   "y": 300,
+   "w": 47,
+   "h": 16
+  },
+  "pick:pages.music:758947a4dc": {
+   "img": "music-downloads-0.webp",
+   "x": 16,
+   "y": 320,
+   "w": 175,
+   "h": 36
+  },
+  "pick:pages.music:d485e93ed2": {
+   "img": "music-downloads-0.webp",
+   "x": 199,
+   "y": 320,
+   "w": 175,
+   "h": 36
+  },
+  "pick:pages.music:577870cb37": {
+   "img": "music-downloads-0.webp",
+   "x": 16,
+   "y": 276,
+   "w": 225,
+   "h": 20
+  },
+  "pick:pages.music:cb4ebec2f7": {
+   "img": "music-downloads-0.webp",
+   "x": 16,
+   "y": 380,
+   "w": 358,
+   "h": 40
+  },
+  "pick:pages.music:a479c9c34e": {
+   "img": "music-player-0.webp",
+   "x": 212,
+   "y": 572,
+   "w": 35,
+   "h": 15
+  },
+  "pick:pages.music:acdac205f5": {
+   "img": "music-player-0.webp",
+   "x": 151,
+   "y": 16,
+   "w": 89,
+   "h": 32
+  },
+  "pick:pages.music:ebb1e1e891": {
+   "img": "music-player-0.webp",
+   "x": 165,
+   "y": 456,
+   "w": 60,
+   "h": 60
+  },
+  "pick:pages.music:bc981983e7": {
+   "img": "music-player-0.webp",
+   "x": 241,
+   "y": 466,
+   "w": 40,
+   "h": 40
+  },
+  "pick:pages.music:b52b36b726": {
+   "img": "music-player-0.webp",
+   "x": 16,
+   "y": 16,
+   "w": 107,
+   "h": 32
+  },
+  "pick:pages.music:12794df2db": {
+   "img": "music-player-0.webp",
+   "x": 151,
+   "y": 16,
+   "w": 89,
+   "h": 32
+  },
+  "pick:pages.music:954a82a6fe": {
+   "img": "music-player-0.webp",
+   "x": 271,
+   "y": 16,
+   "w": 103,
+   "h": 32
+  },
+  "pick:pages.music:5b772b7bfd": {
+   "img": "music-player-0.webp",
+   "x": 57,
+   "y": 468,
+   "w": 36,
+   "h": 36
+  },
+  "pick:pages.music:50f94286ba": {
+   "img": "music-player-0.webp",
+   "x": 109,
+   "y": 466,
+   "w": 40,
+   "h": 40
+  },
+  "pick:pages.music:f4e69fd7a4": {
+   "img": "music-player-0.webp",
+   "x": 61,
+   "y": 540,
+   "w": 64,
+   "h": 55
+  },
+  "pick:pages.music:e6c1d2efcd": {
+   "img": "music-player-0.webp",
+   "x": 79,
+   "y": 572,
+   "w": 28,
+   "h": 15
+  },
+  "pick:pages.music:3e241e3cc6": {
+   "img": "music-player-0.webp",
+   "x": 129,
+   "y": 540,
+   "w": 64,
+   "h": 55
+  },
+  "pick:pages.music:61cc55aa04": {
+   "img": "music-player-0.webp",
+   "x": 150,
+   "y": 572,
+   "w": 22,
+   "h": 15
+  },
+  "pick:pages.music:e906133709": {
+   "img": "music-player-0.webp",
+   "x": 265,
+   "y": 540,
+   "w": 64,
+   "h": 55
+  },
+  "pick:pages.music:3cac34e674": {
+   "img": "music-player-0.webp",
+   "x": 278,
+   "y": 572,
+   "w": 37,
+   "h": 15
+  },
+  "data:music-share:Share": {
+   "img": "music-player-0.webp",
+   "x": 271,
+   "y": 16,
+   "w": 103,
+   "h": 32
+  },
+  "i18n:tutorial.next": {
+   "img": "music-player-0.webp",
+   "x": 241,
+   "y": 466,
+   "w": 40,
+   "h": 40
+  },
+  "i18n:tutorial.prev": {
+   "img": "music-player-0.webp",
+   "x": 16,
+   "y": 16,
+   "w": 107,
+   "h": 32
+  },
+  "i18n:login.title": {
+   "img": "login-0.webp",
+   "x": 48,
+   "y": 322,
+   "w": 294,
+   "h": 25
+  },
+  "i18n:login.yourPhone": {
+   "img": "login-0.webp",
+   "x": 48,
+   "y": 363,
+   "w": 294,
+   "h": 20
+  },
+  "i18n:login.sendCode": {
+   "img": "login-0.webp",
+   "x": 48,
+   "y": 461,
+   "w": 294,
+   "h": 40
+  },
+  "i18n:login.footer": {
+   "img": "login-0.webp",
+   "x": 0,
+   "y": 557,
+   "w": 390,
+   "h": 20
+  },
+  "i18n:menu.tutorials": {
+   "img": "tutorials-0.webp",
+   "x": 48,
+   "y": 281,
+   "w": 294,
+   "h": 25
+  },
+  "data:film-type:Tutorial": {
+   "img": "tutorials-0.webp",
+   "x": 48,
+   "y": 281,
+   "w": 294,
+   "h": 25
+  },
+  "i18n:tutorials.title": {
+   "img": "tutorials-0.webp",
+   "x": 48,
+   "y": 281,
+   "w": 294,
+   "h": 25
+  },
+  "i18n:tutorials.description": {
+   "img": "tutorials-0.webp",
+   "x": 48,
+   "y": 322,
+   "w": 294,
+   "h": 20
+  },
+  "i18n:tutorial.installApp.title": {
+   "img": "tutorials-0.webp",
+   "x": 96,
+   "y": 370,
+   "w": 97,
+   "h": 20
+  },
+  "i18n:tutorial.phoneLogin.title": {
+   "img": "tutorials-0.webp",
+   "x": 96,
+   "y": 442,
+   "w": 127,
+   "h": 20
+  },
+  "i18n:tutorial.notifications.title": {
+   "img": "tutorials-0.webp",
+   "x": 96,
+   "y": 514,
+   "w": 124,
+   "h": 20
+  },
+  "i18n:tutorial.step": {
+   "img": "tutorial-installApp-1-0.webp",
+   "x": 64,
+   "y": 598,
+   "w": 44,
+   "h": 19
+  },
+  "i18n:tutorial.installApp.step1": {
+   "img": "tutorial-installApp-1-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.installApp.step3": {
+   "img": "tutorial-installApp-1-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.installApp.step2": {
+   "img": "tutorial-installApp-2-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.installApp.step4": {
+   "img": "tutorial-installApp-4-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.installApp.step5": {
+   "img": "tutorial-installApp-5-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.installApp.step6": {
+   "img": "tutorial-installApp-6-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.done": {
+   "img": "tutorial-installApp-7-0.webp",
+   "x": 201,
+   "y": 682,
+   "w": 141,
+   "h": 36
+  },
+  "i18n:tutorial.installApp.step7": {
+   "img": "tutorial-installApp-7-0.webp",
+   "x": 64,
+   "y": 578,
+   "w": 262,
+   "h": 72
+  },
+  "i18n:tutorial.phoneLogin.step1": {
+   "img": "tutorial-phoneLogin-1-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.phoneLogin.step2": {
+   "img": "tutorial-phoneLogin-2-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.phoneLogin.step3": {
+   "img": "tutorial-phoneLogin-3-0.webp",
+   "x": 64,
+   "y": 602,
+   "w": 262,
+   "h": 48
+  },
+  "i18n:tutorial.phoneLogin.step4": {
+   "img": "tutorial-phoneLogin-4-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.phoneLogin.step5": {
+   "img": "tutorial-phoneLogin-5-0.webp",
+   "x": 64,
+   "y": 602,
+   "w": 262,
+   "h": 48
+  },
+  "i18n:tutorial.phoneLogin.step6": {
+   "img": "tutorial-phoneLogin-6-0.webp",
+   "x": 64,
+   "y": 602,
+   "w": 262,
+   "h": 48
+  },
+  "i18n:tutorial.phoneLogin.step7": {
+   "img": "tutorial-phoneLogin-7-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.phoneLogin.step8": {
+   "img": "tutorial-phoneLogin-8-0.webp",
+   "x": 64,
+   "y": 602,
+   "w": 262,
+   "h": 48
+  },
+  "i18n:tutorial.phoneLogin.step9": {
+   "img": "tutorial-phoneLogin-9-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.phoneLogin.step10": {
+   "img": "tutorial-phoneLogin-10-0.webp",
+   "x": 64,
+   "y": 578,
+   "w": 262,
+   "h": 72
+  },
+  "i18n:tutorial.notifications.step1": {
+   "img": "tutorial-notifications-1-0.webp",
+   "x": 64,
+   "y": 602,
+   "w": 262,
+   "h": 48
+  },
+  "i18n:tutorial.notifications.step2": {
+   "img": "tutorial-notifications-2-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.notifications.step3": {
+   "img": "tutorial-notifications-3-0.webp",
+   "x": 64,
+   "y": 626,
+   "w": 262,
+   "h": 24
+  },
+  "i18n:tutorial.notifications.step4": {
+   "img": "tutorial-notifications-4-0.webp",
+   "x": 64,
+   "y": 578,
+   "w": 262,
+   "h": 72
+  },
+  "i18n:tutorial.notifications.step5": {
+   "img": "tutorial-notifications-5-0.webp",
+   "x": 64,
+   "y": 578,
+   "w": 262,
+   "h": 72
+  },
+  "i18n:notFound.title": {
+   "img": "not-found-0.webp",
+   "x": 45,
+   "y": 381,
+   "w": 299,
+   "h": 40
+  },
+  "i18n:notFound.subtitle": {
+   "img": "not-found-0.webp",
+   "x": 45,
+   "y": 437,
+   "w": 299,
+   "h": 24
+  },
+  "pick:components.hb-review-invite:0486ff3c7d": {
+   "img": "paper-0.webp",
+   "x": 16,
+   "y": 392,
+   "w": 358,
+   "h": 60
+  },
+  "data:music-repeat:off": {
+   "img": "update-message-0.webp",
+   "x": 338,
+   "y": 783,
+   "w": 19,
+   "h": 20
+  },
+  "i18n:settings.disable": {
+   "img": "update-message-0.webp",
+   "x": 338,
+   "y": 783,
+   "w": 19,
+   "h": 20
+  },
+  "i18n:update.available": {
+   "img": "update-message-0.webp",
+   "x": 33,
+   "y": 783,
+   "w": 187,
+   "h": 20
+  },
+  "i18n:update.refresh": {
+   "img": "update-message-0.webp",
+   "x": 232,
+   "y": 775,
+   "w": 94,
+   "h": 36
+  },
+  "i18n:update.dismiss": {
+   "img": "update-message-0.webp",
+   "x": 338,
+   "y": 783,
+   "w": 19,
+   "h": 20
+  }
+ },
+ "missed": [
+  "i18n:title",
+  "pick:components.hb-header:6fb0e3986f",
+  "i18n:menu.proofOfHumanity",
+  "i18n:menu.logOut",
+  "i18n:menu.settings",
+  "i18n:footer.x",
+  "pick:pages.home:bdbb759f35",
+  "pick:pages.research:b27d68ddec",
+  "pick:pages.research:c6dbf7ce0f",
+  "pick:pages.research-category:455f73234b",
+  "pick:pages.research-category:7c70e63364",
+  "pick:pages.research-category:48cca94b32",
+  "pick:pages.research-category:f7184ad803",
+  "md:research-mcp:cb05c3c90f",
+  "md:research-mcp:f8accb5b61",
+  "md:research-mcp:0a24ef4099",
+  "pick:pages.film:d8dc14d251",
+  "pick:pages.film-category:48cca94b32",
+  "data:film-status:Released",
+  "data:film-status:In-Production",
+  "data:film-type:Short",
+  "data:film-type:Docuseries",
+  "pick:pages.film.treatments:74b404b034",
+  "pick:pages.film.treatments:3ee00e991a",
+  "pick:pages.film.treatments:03ce316616",
+  "pick:pages.film.screenplays:7c65a75279",
+  "pick:pages.film.screenplays:a0f53591d6",
+  "pick:pages.music:a9e843cd94",
+  "pick:pages.music:9cea68b48c",
+  "pick:pages.music:aedf328115",
+  "pick:pages.music:54ab24e625",
+  "pick:pages.music:b4f57cd0cd",
+  "pick:pages.music:260ff8ae71",
+  "pick:pages.music:e963907dac",
+  "pick:pages.music:658cff702e",
+  "pick:pages.music:08170580cb",
+  "pick:pages.music:f6fdbe48dc",
+  "pick:pages.music:f4a3778d9c",
+  "pick:pages.music:05bd6ca139",
+  "pick:pages.music:9d7fd5a378",
+  "pick:pages.music:bc17c1f017",
+  "pick:pages.music:dbce77eb22",
+  "pick:pages.music:ad3e5d8c1c",
+  "pick:pages.music:b68734c259",
+  "pick:pages.music:41750c594a",
+  "lang:pages.music:e7b1a06426",
+  "data:music-instrument:flute",
+  "data:music-instrument:koto",
+  "data:music-instrument:piano",
+  "data:music-share:Copied",
+  "data:music-share:Copy-failed",
+  "data:music-repeat:one",
+  "i18n:login.success",
+  "i18n:login.loggingIn",
+  "i18n:login.sending",
+  "i18n:login.codeSent",
+  "i18n:login.enterCode",
+  "i18n:login.verificationCode",
+  "i18n:login.verify",
+  "i18n:login.differentPhone",
+  "i18n:login.resendCode",
+  "i18n:login.resendIn",
+  "i18n:login.codeResent",
+  "i18n:login.invalidCode",
+  "i18n:login.sendFailed",
+  "i18n:login.loginFailed",
+  "i18n:settings.title",
+  "i18n:settings.notifications",
+  "i18n:settings.notificationsDesc",
+  "i18n:settings.enable",
+  "i18n:settings.enabled",
+  "i18n:settings.disabled",
+  "i18n:settings.unsupported",
+  "i18n:settings.denied",
+  "i18n:settings.installPrompt",
+  "i18n:settings.installLink",
+  "i18n:pwa.alreadyInstalled",
+  "i18n:pwa.alreadyInstalledDesc",
+  "i18n:tutorial.steps",
+  "i18n:tutorial.comingSoon",
+  "pick:components.hb-review-marker:7b2d308ba6",
+  "pick:components.hb-review-marker:648342c16b",
+  "i18n:menu.art",
+  "i18n:menu.THonly",
+  "i18n:menu.createAccount",
+  "i18n:pwa.title",
+  "i18n:pwa.description",
+  "i18n:pwa.installButton",
+  "i18n:pwa.iosTitle",
+  "i18n:pwa.iosStep1",
+  "i18n:pwa.iosStep2",
+  "i18n:pwa.iosStep3",
+  "i18n:pwa.manualTitle",
+  "i18n:pwa.manualStep1",
+  "i18n:pwa.manualStep2",
+  "i18n:pwa.manualStep3",
+  "pick:pages.about:3712ebe9b8",
+  "pick:pages.home:e789f5e2bf",
+  "pick:pages.home:49bb9ae559",
+  "md:about:a6c9aeb073",
+  "md:about:4fca6e6edb"
+ ]
+}
