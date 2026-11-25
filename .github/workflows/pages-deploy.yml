@@ -1,0 +1,96 @@
+# Copied from missaquarius.org (2026-11-24): this repo's legacy Pages build never queued a single run, so it deploys
+# the way missaquarius.org does — the whole repo as the Pages artifact, on every push to main.
+name: Deploy to GitHub Pages
+
+# Deploys the static site to GitHub Pages on every push to main. The CNAME
+# file at repo root is included in the upload, so the custom domain stays
+# mapped on each deploy.
+#
+# ONE-TIME SETUP per repo (do this once in the repo settings on github.com):
+#   Repo Settings → Pages → Build and deployment → Source → "GitHub Actions"
+# (Not "Deploy from a branch" — that's the older mode and would conflict.)
+# Switching the Source does not take the live site down; the previous deploy
+# stays served until this workflow's first deploy succeeds.
+#
+# RE-RUN SAFETY: do not re-run a whole failed deploy — re-running uploads a
+# second "github-pages" artifact and deploy-pages@v4 aborts on seeing two.
+# Prefer a fresh push or workflow_dispatch. The "Clear stale Pages artifact"
+# step below also deletes any leftover artifact so re-runs stay safe anyway.
+#
+# This workflow file is intentionally IDENTICAL across the missaquarius.org
+# and missaquarius.com repos (both are pure-static GitHub Pages sites with
+# CNAMEs). Keep them in sync; do not diverge one without the other.
+
+on:
+  push:
+    branches: [main, master]
+    # ⛔ TIMESTAMPING COMMITS MUST NOT REDEPLOY THE SITE. This repo is a website
+    # that also holds five documents, so it carries the estate's proof machinery —
+    # and every part of that machinery COMMITS: OTS upgrades rewrite the proofs,
+    # the RFC 3161 leg writes a dated manifest and its authority tokens, and both
+    # log to TIMESTAMPS.md. None of it changes a byte that is served.
+    #
+    # ⚠️ THE PROOFS LIVE NEXT TO THE LETTERS — `letters/*.html.ots` — so ignoring
+    # only `timestamps/**` would leave every OTS upgrade triggering a full deploy.
+    # That is the pattern worth remembering: the artifact and its proof are
+    # siblings on disk, and a path filter written from the directory name alone
+    # misses half of it.
+    #
+    # ⭐ `paths-ignore` skips a push only when EVERY changed file matches, so a
+    # commit that edits a letter AND rotates its proof still deploys, which is the
+    # behaviour we want. Editing this workflow is likewise not ignored — pushing a
+    # change to it proves deploys still fire.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  actions: write   # delete stale github-pages artifacts so re-runs stay safe
+
+# Allow one deployment at a time; let an in-progress deploy finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Clear stale Pages artifact (safe re-runs)
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const { data } = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: context.runId,
+            });
+            for (const artifact of data.artifacts) {
+              if (artifact.name === 'github-pages') {
+                core.info(`Deleting stale artifact ${artifact.id}`);
+                await github.rest.actions.deleteArtifact({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  artifact_id: artifact.id,
+                });
+              }
+            }
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
