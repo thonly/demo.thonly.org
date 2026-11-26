@@ -5,22 +5,49 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>demo.thonly.org</title>
+<meta name="description" content="Working pages for thonly.org and book.thonly.org: Khmer reviews and drawings.">
+<meta name="theme-color" content="#9333ea">
+<link rel="manifest" href="site.webmanifest">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <style>
-:root { color-scheme: light dark; --bg: #ffffff; --fg: #1f2937; --dim: #6b7280; }
-@media (prefers-color-scheme: dark) { :root { --bg: #111827; --fg: #f3f4f6; --dim: #9ca3af; } }
+:root { color-scheme: light dark; --bg: #ffffff; --fg: #1f2937; --dim: #6b7280; --line: #d1d5db; }
+@media (prefers-color-scheme: dark) { :root { --bg: #111827; --fg: #f3f4f6; --dim: #9ca3af; --line: #374151; } }
 body { margin: 0; padding: 48px 16px; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, sans-serif; }
 main { max-width: 560px; margin: 0 auto; }
 a { color: inherit; }
 p { color: var(--dim); }
+.top { display: flex; justify-content: flex-end; margin: -1.5rem 0 1rem; }
+.share { display: inline-flex; align-items: center; gap: .4rem; border: 1px solid var(--line); border-radius: 999px; background: none; color: var(--fg); font: inherit; font-size: .9rem; padding: .4rem .9rem; cursor: pointer; }
+.share svg { width: 18px; height: 18px; }
+#toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); max-width: calc(100vw - 32px); overflow-wrap: anywhere; background: var(--fg); color: var(--bg); border-radius: 999px; padding: .5rem 1rem; font-size: .9rem; }
+[hidden] { display: none !important; }
 </style>
 </head>
 <body>
 <main>
+<div class="top"><button type="button" class="share" id="share" aria-label="Share this page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>Share</button></div>
 <h1>demo.thonly.org</h1>
 <p>Working pages for <a href="https://thonly.org">thonly.org</a>.</p>
 <ul><li><a href="/khmer/thonly.org/">The Khmer review of thonly.org</a> (ការពិនិត្យភាសាខ្មែររបស់ thonly.org)</li>
 <li><a href="/book/">The drawings of book.thonly.org</a> (គំនូររបស់ book.thonly.org)</li>
 <li><a href="/khmer/book.thonly.org/">The Khmer review of book.thonly.org</a> (ការពិនិត្យភាសាខ្មែររបស់ book.thonly.org)</li></ul>
 </main>
+<div id="toast" role="status" aria-live="polite" hidden>Link copied</div>
+<script>
+// The share button (/build Default 7, roadmap A477): the system share sheet where there is one; else the link is copied and a
+// note says so; else the link itself is shown, to copy by hand. Never a dialog.
+document.getElementById("share").addEventListener("click", async () => {
+  const url = location.href.split(/[?#]/)[0];
+  const m = document.querySelector('meta[name="description"]') || document.querySelector('meta[property="og:description"]');
+  const t = document.getElementById("toast");
+  const say = (s, ms) => { t.textContent = s; t.hidden = false; setTimeout(() => { t.hidden = true; }, ms); };
+  try { if (navigator.share) { await navigator.share({ title: document.title, text: m ? m.content : "", url }); return; } }
+  catch (e) { if (e && e.name === "AbortError") return; }
+  try { await navigator.clipboard.writeText(url); say("Link copied", 2200); }
+  catch { say(url, 8000); }
+});
+</script>
 </body>
 </html>
