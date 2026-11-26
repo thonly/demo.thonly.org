@@ -1,0 +1,405 @@
+{
+ "made": "2026-11-26T15:49:52.622Z",
+ "viewport": {
+  "width": 390,
+  "height": 844
+ },
+ "states": {
+  "km": {
+   "url": "/km/",
+   "found": 52,
+   "images": 9
+  },
+  "km-footer": {
+   "url": "/km/",
+   "found": 0,
+   "images": 0
+  },
+  "km-link-copied": {
+   "url": "/km/",
+   "found": 1,
+   "images": 1
+  }
+ },
+ "entries": {
+  "w.site": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 26,
+   "w": 125,
+   "h": 25
+  },
+  "w.share": {
+   "img": "km-0.webp",
+   "x": 310,
+   "y": 29,
+   "w": 47,
+   "h": 18
+  },
+  "w.h1": {
+   "img": "km-0.webp",
+   "x": 114,
+   "y": 115,
+   "w": 180,
+   "h": 47
+  },
+  "w.lede": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 188,
+   "w": 350,
+   "h": 180
+  },
+  "w.received": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 462,
+   "w": 350,
+   "h": 22
+  },
+  "el.Air": {
+   "img": "km-0.webp",
+   "x": 51,
+   "y": 426,
+   "w": 26,
+   "h": 25
+  },
+  "book.Air.received": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 489,
+   "w": 350,
+   "h": 61
+  },
+  "book.Air.note": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 554,
+   "w": 350,
+   "h": 54
+  },
+  "w.portrait_alt": {
+   "img": "km-0.webp",
+   "x": 20,
+   "y": 100,
+   "w": 76,
+   "h": 76
+  },
+  "w.share_aria": {
+   "img": "km-0.webp",
+   "x": 276,
+   "y": 22,
+   "w": 94,
+   "h": 32
+  },
+  "w.given": {
+   "img": "km-1.webp",
+   "x": 37,
+   "y": 411,
+   "w": 316,
+   "h": 22
+  },
+  "book.Air.title": {
+   "img": "km-1.webp",
+   "x": 149,
+   "y": 339,
+   "w": 92,
+   "h": 22
+  },
+  "book.Air.sub": {
+   "img": "km-1.webp",
+   "x": 37,
+   "y": 470,
+   "w": 316,
+   "h": 29
+  },
+  "book.Air.what": {
+   "img": "km-1.webp",
+   "x": 37,
+   "y": 509,
+   "w": 316,
+   "h": 86
+  },
+  "book.Air.by": {
+   "img": "km-1.webp",
+   "x": 37,
+   "y": 607,
+   "w": 316,
+   "h": 24
+  },
+  "el.Earth": {
+   "img": "km-1.webp",
+   "x": 51,
+   "y": 738,
+   "w": 9,
+   "h": 25
+  },
+  "book.Earth.received": {
+   "img": "km-1.webp",
+   "x": 20,
+   "y": 801,
+   "w": 350,
+   "h": 31
+  },
+  "w.placeholder": {
+   "img": "km-2.webp",
+   "x": 173,
+   "y": 418,
+   "w": 43,
+   "h": 8
+  },
+  "book.Earth.note": {
+   "img": "km-2.webp",
+   "x": 20,
+   "y": 133,
+   "w": 350,
+   "h": 27
+  },
+  "book.Earth.title": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 474,
+   "w": 316,
+   "h": 29
+  },
+  "book.Earth.sub": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 506,
+   "w": 316,
+   "h": 29
+  },
+  "book.Earth.what": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 545,
+   "w": 316,
+   "h": 86
+  },
+  "book.Earth.by": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 643,
+   "w": 316,
+   "h": 24
+  },
+  "el.Water": {
+   "img": "km-2.webp",
+   "x": 51,
+   "y": 774,
+   "w": 17,
+   "h": 25
+  },
+  "book.Water.by": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 643,
+   "w": 316,
+   "h": 24
+  },
+  "book.Fire.by": {
+   "img": "km-2.webp",
+   "x": 37,
+   "y": 643,
+   "w": 316,
+   "h": 24
+  },
+  "book.Water.received": {
+   "img": "km-3.webp",
+   "x": 20,
+   "y": 406,
+   "w": 350,
+   "h": 31
+  },
+  "book.Water.note": {
+   "img": "km-3.webp",
+   "x": 20,
+   "y": 440,
+   "w": 350,
+   "h": 54
+  },
+  "book.Water.title": {
+   "img": "km-3.webp",
+   "x": 37,
+   "y": 808,
+   "w": 316,
+   "h": 29
+  },
+  "book.Water.sub": {
+   "img": "km-4.webp",
+   "x": 37,
+   "y": 407,
+   "w": 316,
+   "h": 29
+  },
+  "book.Water.what": {
+   "img": "km-4.webp",
+   "x": 37,
+   "y": 446,
+   "w": 316,
+   "h": 86
+  },
+  "el.Fire": {
+   "img": "km-4.webp",
+   "x": 51,
+   "y": 675,
+   "w": 21,
+   "h": 25
+  },
+  "book.Fire.received": {
+   "img": "km-4.webp",
+   "x": 20,
+   "y": 738,
+   "w": 350,
+   "h": 31
+  },
+  "book.Fire.note": {
+   "img": "km-4.webp",
+   "x": 20,
+   "y": 772,
+   "w": 350,
+   "h": 27
+  },
+  "book.Fire.title": {
+   "img": "km-5.webp",
+   "x": 154,
+   "y": 412,
+   "w": 83,
+   "h": 20
+  },
+  "book.Fire.sub": {
+   "img": "km-5.webp",
+   "x": 37,
+   "y": 542,
+   "w": 316,
+   "h": 29
+  },
+  "book.Fire.what": {
+   "img": "km-5.webp",
+   "x": 37,
+   "y": 581,
+   "w": 316,
+   "h": 58
+  },
+  "el.Space": {
+   "img": "km-5.webp",
+   "x": 51,
+   "y": 781,
+   "w": 38,
+   "h": 25
+  },
+  "book.Space.received": {
+   "img": "km-6.webp",
+   "x": 20,
+   "y": 407,
+   "w": 350,
+   "h": 31
+  },
+  "book.Space.note": {
+   "img": "km-6.webp",
+   "x": 20,
+   "y": 440,
+   "w": 350,
+   "h": 54
+  },
+  "book.Space.title": {
+   "img": "km-6.webp",
+   "x": 153,
+   "y": 709,
+   "w": 83,
+   "h": 20
+  },
+  "book.Space.edition": {
+   "img": "km-6.webp",
+   "x": 175,
+   "y": 739,
+   "w": 41,
+   "h": 8
+  },
+  "book.Space.sub": {
+   "img": "km-7.webp",
+   "x": 37,
+   "y": 408,
+   "w": 316,
+   "h": 29
+  },
+  "book.Space.what": {
+   "img": "km-7.webp",
+   "x": 37,
+   "y": 447,
+   "w": 316,
+   "h": 86
+  },
+  "book.Space.when": {
+   "img": "km-7.webp",
+   "x": 37,
+   "y": 543,
+   "w": 316,
+   "h": 52
+  },
+  "book.Space.by": {
+   "img": "km-7.webp",
+   "x": 37,
+   "y": 607,
+   "w": 316,
+   "h": 24
+  },
+  "w.foot": {
+   "img": "km-7.webp",
+   "x": 20,
+   "y": 773,
+   "w": 350,
+   "h": 22
+  },
+  "w.auto": {
+   "img": "km-7.webp",
+   "x": 221,
+   "y": 815,
+   "w": 69,
+   "h": 25
+  },
+  "w.light": {
+   "img": "km-7.webp",
+   "x": 290,
+   "y": 815,
+   "w": 30,
+   "h": 25
+  },
+  "w.dark": {
+   "img": "km-7.webp",
+   "x": 320,
+   "y": 815,
+   "w": 46,
+   "h": 25
+  },
+  "w.lang_aria": {
+   "img": "km-8.webp",
+   "x": 20,
+   "y": 752,
+   "w": 83,
+   "h": 33
+  },
+  "w.theme_aria": {
+   "img": "km-8.webp",
+   "x": 217,
+   "y": 752,
+   "w": 153,
+   "h": 33
+  },
+  "w.copied": {
+   "img": "km-link-copied-0.webp",
+   "x": 20,
+   "y": 63,
+   "w": 350,
+   "h": 20
+  }
+ },
+ "missed": [
+  "w.read_record",
+  "w.desc",
+  "w.og_alt",
+  "w.copy_this",
+  "w.cover",
+  "w.ld_item"
+ ]
+}

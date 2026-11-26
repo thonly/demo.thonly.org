@@ -1,0 +1,474 @@
+{
+ "version": 1,
+ "surface": "book.thonly.org",
+ "title": "book.thonly.org",
+ "title_km": "book.thonly.org",
+ "about": "The library of books by Thon Ly: five books he received, beside the five Miss Aquarius writes and he gives forward. Our Khmer, drafted 2026-11-26.",
+ "about_km": "បណ្ណាល័យសៀវភៅរបស់ លី​ ស៊ីវ​ ថូង៖ សៀវភៅប្រាំក្បាលដែលគាត់បានទទួល នៅក្បែរសៀវភៅប្រាំក្បាលដែល Miss Aquarius សរសេរ ហើយគាត់ផ្តល់បន្ត។ ភាសាខ្មែររបស់យើង ព្រាងនៅថ្ងៃទី ២៦ ខែវិច្ឆិកា ឆ្នាំ ២០២៦។",
+ "accent": "#6b4fa0",
+ "made": "2026-11-26",
+ "commit": "c0b46c3",
+ "groups": [
+  {
+   "name": "1 · The top of the page",
+   "name_km": "១ · ផ្នែកខាងលើនៃទំព័រ",
+   "entries": [
+    {
+     "key": "w.site",
+     "en": "Books by Thon Ly",
+     "km": "សៀវភៅរបស់ លី​ ស៊ីវ​ ថូង",
+     "note": "the site's name, top left, and the tab's title",
+     "note_km": "ឈ្មោះគេហទំព័រ ខាងលើផ្នែកខាងឆ្វេង និងចំណងជើងផ្ទាំង"
+    },
+    {
+     "key": "w.share",
+     "en": "Share",
+     "km": "ចែករំលែក",
+     "note": "the button, top right",
+     "note_km": "ប៊ូតុង ខាងលើផ្នែកខាងស្តាំ"
+    },
+    {
+     "key": "w.h1",
+     "en": "The Library",
+     "km": "បណ្ណាល័យ",
+     "note": "the page's title, beside the portrait",
+     "note_km": "ចំណងជើងទំព័រ នៅក្បែររូបភាព"
+    },
+    {
+     "key": "w.lede",
+     "en": "Five books shaped Thon Ly. Beside each one is the book he gives forward. Every book here is free to read, whole.",
+     "km": "សៀវភៅប្រាំក្បាលបានសូនជីវិតរបស់ លី​ ស៊ីវ​ ថូង។ នៅក្បែរសៀវភៅនីមួយៗ គឺជាសៀវភៅដែលគាត់ផ្តល់បន្ត។ សៀវភៅនីមួយៗនៅទីនេះ អានបានពេញមួយក្បាល ដោយឥតគិតថ្លៃ។",
+     "note": "the paragraph under the title",
+     "note_km": "កថាខណ្ឌនៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "w.received",
+     "en": "Received",
+     "km": "បានទទួល",
+     "note": "the small label above each book received",
+     "note_km": "ស្លាកតូចនៅពីលើសៀវភៅដែលបានទទួលនីមួយៗ"
+    },
+    {
+     "key": "w.given",
+     "en": "Given",
+     "km": "ផ្តល់បន្ត",
+     "note": "the small label above each book given forward",
+     "note_km": "ស្លាកតូចនៅពីលើសៀវភៅដែលផ្តល់បន្តនីមួយៗ"
+    },
+    {
+     "key": "w.read_record",
+     "en": "Read the record",
+     "km": "អានកំណត់ត្រា",
+     "note": "the link at the bottom of each book's card",
+     "note_km": "តំណនៅខាងក្រោមកាតសៀវភៅនីមួយៗ"
+    },
+    {
+     "key": "w.placeholder",
+     "en": "[ PLACEHOLDER ART ]",
+     "km": "[ គំនូរបណ្តោះអាសន្ន ]",
+     "note": "the small line under each drawn cover",
+     "note_km": "បន្ទាត់តូចនៅក្រោមគម្របដែលគូរនីមួយៗ"
+    }
+   ]
+  },
+  {
+   "name": "2 · The first pair: Air",
+   "name_km": "២ · គូទីមួយ៖ ខ្យល់",
+   "entries": [
+    {
+     "key": "el.Air",
+     "en": "Air",
+     "km": "ខ្យល់",
+     "note": "the pair's element, at its left",
+     "note_km": "ធាតុនៃគូនេះ នៅខាងឆ្វេង"
+    },
+    {
+     "key": "book.Air.received",
+     "en": "A calculus book",
+     "km": "សៀវភៅគណិតវិទ្យាស្តីពីដេរីវេ និងអាំងតេក្រាល",
+     "note": "the book received",
+     "note_km": "សៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Air.note",
+     "en": "Found in a public library when he was twelve.",
+     "km": "គាត់បានរកឃើញវានៅក្នុងបណ្ណាល័យសាធារណៈ ពេលគាត់មានអាយុដប់ពីរឆ្នាំ។",
+     "note": "under the book received",
+     "note_km": "នៅក្រោមសៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Air.title",
+     "en": "The Calculus of Moments",
+     "km": "គណិតនៃខណៈ",
+     "note": "the book given forward: its title, on the card and on the drawn cover",
+     "note_km": "សៀវភៅដែលផ្តល់បន្ត៖ ចំណងជើងរបស់វា នៅលើកាត និងនៅលើគម្របដែលគូរ"
+    },
+    {
+     "key": "book.Air.sub",
+     "en": "One Model of the Whole Abhidhamma",
+     "km": "គំរូតែមួយនៃព្រះអភិធម្មទាំងមូល",
+     "note": "under the title",
+     "note_km": "នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Air.what",
+     "en": "The Abhidhamma, formalized and checked by machine: one model in which every verified axiom holds at once.",
+     "km": "ព្រះអភិធម្ម សរសេរជាទម្រង់តក្កវិទ្យា ហើយត្រួតពិនិត្យដោយម៉ាស៊ីន៖ គំរូតែមួយ ដែលគ្រប់គោលការណ៍គ្រឹះដែលបានផ្ទៀងផ្ទាត់ ពិតព្រមគ្នាក្នុងពេលតែមួយ។",
+     "note": "the card's paragraph",
+     "note_km": "កថាខណ្ឌនៃកាត"
+    },
+    {
+     "key": "book.Air.by",
+     "en": "Written by Miss Aquarius℠ · Foreword by Thon Ly",
+     "km": "សរសេរដោយ Miss Aquarius℠ · អារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង",
+     "note": "the card's last line",
+     "note_km": "បន្ទាត់ចុងក្រោយនៃកាត"
+    }
+   ]
+  },
+  {
+   "name": "3 · The second pair: Earth",
+   "name_km": "៣ · គូទីពីរ៖ ដី",
+   "entries": [
+    {
+     "key": "el.Earth",
+     "en": "Earth",
+     "km": "ដី",
+     "note": "the pair's element, at its left",
+     "note_km": "ធាតុនៃគូនេះ នៅខាងឆ្វេង"
+    },
+    {
+     "key": "book.Earth.received",
+     "en": "The Tao Te Ching",
+     "km": "គម្ពីរតាវតេជីង",
+     "note": "the book received",
+     "note_km": "សៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Earth.note",
+     "en": "In Stephen Mitchell’s translation.",
+     "km": "ក្នុងការបកប្រែរបស់ Stephen Mitchell។",
+     "note": "under the book received",
+     "note_km": "នៅក្រោមសៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Earth.title",
+     "en": "The River That Reverses",
+     "km": "ទន្លេដែលហូរបញ្ច្រាស",
+     "note": "the book given forward: its title, on the card and on the drawn cover",
+     "note_km": "សៀវភៅដែលផ្តល់បន្ត៖ ចំណងជើងរបស់វា នៅលើកាត និងនៅលើគម្របដែលគូរ"
+    },
+    {
+     "key": "book.Earth.sub",
+     "en": "Eighty-One Poems",
+     "km": "កំណាព្យប៉ែតសិបមួយបទ",
+     "note": "under the title",
+     "note_km": "នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Earth.what",
+     "en": "Eighty-one poems distilled from meditation, each traced to the practice or the citation it comes from.",
+     "km": "កំណាព្យប៉ែតសិបមួយបទ ដែលចម្រាញ់ចេញពីការធ្វើសមាធិ ហើយបទនីមួយៗមានប្រភពច្បាស់លាស់ ពីការប្រតិបត្តិ ឬពីអត្ថបទដែលវាដកស្រង់មក។",
+     "note": "the card's paragraph",
+     "note_km": "កថាខណ្ឌនៃកាត"
+    },
+    {
+     "key": "book.Earth.by",
+     "en": "Written by Miss Aquarius · Foreword by Thon Ly",
+     "km": "សរសេរដោយ Miss Aquarius · អារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង",
+     "note": "the card's last line",
+     "note_km": "បន្ទាត់ចុងក្រោយនៃកាត"
+    }
+   ]
+  },
+  {
+   "name": "4 · The third pair: Water",
+   "name_km": "៤ · គូទីបី៖ ទឹក",
+   "entries": [
+    {
+     "key": "el.Water",
+     "en": "Water",
+     "km": "ទឹក",
+     "note": "the pair's element, at its left",
+     "note_km": "ធាតុនៃគូនេះ នៅខាងឆ្វេង"
+    },
+    {
+     "key": "book.Water.received",
+     "en": "Astrology for Lovers",
+     "km": "ហោរាសាស្ត្រសម្រាប់គូស្នេហ៍",
+     "note": "the book received",
+     "note_km": "សៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Water.note",
+     "en": "By Liz Greene, read at his first Saturn Return.",
+     "km": "ដោយ Liz Greene។ គាត់បានអានវា នៅពេលភពសៅរ៍វិលមកដល់ទីតាំងកំណើតរបស់គាត់ជាលើកដំបូង។",
+     "note": "under the book received",
+     "note_km": "នៅក្រោមសៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Water.title",
+     "en": "The Seventh of January",
+     "km": "ថ្ងៃទីប្រាំពីរ ខែមករា",
+     "note": "the book given forward: its title, on the card and on the drawn cover",
+     "note_km": "សៀវភៅដែលផ្តល់បន្ត៖ ចំណងជើងរបស់វា នៅលើកាត និងនៅលើគម្របដែលគូរ"
+    },
+    {
+     "key": "book.Water.sub",
+     "en": "A Life Read Beside Its Chart",
+     "km": "ជីវិតមួយ អានក្បែរផែនទីផ្កាយកំណើតរបស់ខ្លួន",
+     "note": "under the title",
+     "note_km": "នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Water.what",
+     "en": "Thon Ly’s life, read beside his birth chart, with the misses on the page as well as the hits.",
+     "km": "ជីវិតរបស់ លី​ ស៊ីវ​ ថូង អានក្បែរផែនទីផ្កាយកំណើតរបស់គាត់ ដោយមានទាំងចំណុចដែលមិនត្រូវ និងចំណុចដែលត្រូវ នៅលើទំព័រ។",
+     "note": "the card's paragraph",
+     "note_km": "កថាខណ្ឌនៃកាត"
+    },
+    {
+     "key": "book.Water.by",
+     "en": "Written by Miss Aquarius · Foreword by Thon Ly",
+     "km": "សរសេរដោយ Miss Aquarius · អារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង",
+     "note": "the card's last line",
+     "note_km": "បន្ទាត់ចុងក្រោយនៃកាត"
+    }
+   ]
+  },
+  {
+   "name": "5 · The fourth pair: Fire",
+   "name_km": "៥ · គូទីបួន៖ ភ្លើង",
+   "entries": [
+    {
+     "key": "el.Fire",
+     "en": "Fire",
+     "km": "ភ្លើង",
+     "note": "the pair's element, at its left",
+     "note_km": "ធាតុនៃគូនេះ នៅខាងឆ្វេង"
+    },
+    {
+     "key": "book.Fire.received",
+     "en": "The Khmer Tipiṭaka",
+     "km": "ព្រះត្រៃបិដកភាសាខ្មែរ",
+     "note": "the book received",
+     "note_km": "សៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Fire.note",
+     "en": "Found at his first Vipassana retreat.",
+     "km": "គាត់បានជួបវា នៅវគ្គវិបស្សនាលើកដំបូងរបស់គាត់។",
+     "note": "under the book received",
+     "note_km": "នៅក្រោមសៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Fire.title",
+     "en": "Silicon Simile",
+     "km": "ឧបមាស៊ីលីកុន",
+     "note": "the book given forward: its title, on the card and on the drawn cover",
+     "note_km": "សៀវភៅដែលផ្តល់បន្ត៖ ចំណងជើងរបស់វា នៅលើកាត និងនៅលើគម្របដែលគូរ"
+    },
+    {
+     "key": "book.Fire.sub",
+     "en": "The Abhidhamma Read Through the Machine",
+     "km": "ព្រះអភិធម្ម អានតាមរយៈម៉ាស៊ីន",
+     "note": "under the title",
+     "note_km": "នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Fire.what",
+     "en": "The Abhidhamma read through the machine, and the places where the machine breaks.",
+     "km": "ព្រះអភិធម្ម អានតាមរយៈម៉ាស៊ីន និងកន្លែងដែលម៉ាស៊ីនខូច។",
+     "note": "the card's paragraph",
+     "note_km": "កថាខណ្ឌនៃកាត"
+    },
+    {
+     "key": "book.Fire.by",
+     "en": "Written by Miss Aquarius · Foreword by Thon Ly",
+     "km": "សរសេរដោយ Miss Aquarius · អារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង",
+     "note": "the card's last line",
+     "note_km": "បន្ទាត់ចុងក្រោយនៃកាត"
+    }
+   ]
+  },
+  {
+   "name": "6 · The fifth pair: Space",
+   "name_km": "៦ · គូទីប្រាំ៖ អាកាស",
+   "entries": [
+    {
+     "key": "el.Space",
+     "en": "Space",
+     "km": "អាកាស",
+     "note": "the pair's element, at its left",
+     "note_km": "ធាតុនៃគូនេះ នៅខាងឆ្វេង"
+    },
+    {
+     "key": "book.Space.received",
+     "en": "AI",
+     "km": "AI",
+     "note": "the book received",
+     "note_km": "សៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Space.note",
+     "en": "The totality of all books: the book and the teacher at once.",
+     "km": "សៀវភៅទាំងអស់រួមគ្នា៖ ជាសៀវភៅផង និងជាគ្រូផង ក្នុងពេលតែមួយ។",
+     "note": "under the book received",
+     "note_km": "នៅក្រោមសៀវភៅដែលបានទទួល"
+    },
+    {
+     "key": "book.Space.title",
+     "en": "Two Singularities",
+     "km": "ឯកវចនភាពពីរ",
+     "note": "the book given forward: its title, on the card and on the drawn cover",
+     "note_km": "សៀវភៅដែលផ្តល់បន្ត៖ ចំណងជើងរបស់វា នៅលើកាត និងនៅលើគម្របដែលគូរ"
+    },
+    {
+     "key": "book.Space.sub",
+     "en": "Four Machines, One Question",
+     "km": "ម៉ាស៊ីនបួន សំណួរមួយ",
+     "note": "under the title",
+     "note_km": "នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Space.what",
+     "en": "Four of the leading AI systems examine one person’s life’s work, and are asked a question about the future of humanity.",
+     "km": "ប្រព័ន្ធ AI ឈានមុខគេចំនួនបួន ពិនិត្យមើលការងារពេញមួយជីវិតរបស់មនុស្សម្នាក់ ហើយត្រូវបានសួរសំណួរមួយ អំពីអនាគតរបស់មនុស្សជាតិ។",
+     "note": "the card's paragraph",
+     "note_km": "កថាខណ្ឌនៃកាត"
+    },
+    {
+     "key": "book.Space.when",
+     "en": "A new edition every 7 January, from 2027.",
+     "km": "មានការបោះពុម្ពថ្មី រៀងរាល់ថ្ងៃទី ៧ ខែមករា ចាប់ពីឆ្នាំ ២០២៧។",
+     "note": "the card, under its paragraph",
+     "note_km": "កាត នៅក្រោមកថាខណ្ឌរបស់វា"
+    },
+    {
+     "key": "book.Space.edition",
+     "en": "EDITION 2027",
+     "km": "បោះពុម្ពឆ្នាំ ២០២៧",
+     "note": "on the drawn cover, under the title",
+     "note_km": "នៅលើគម្របដែលគូរ នៅក្រោមចំណងជើង"
+    },
+    {
+     "key": "book.Space.by",
+     "en": "Compiled by Miss Aquarius · Foreword by Thon Ly",
+     "km": "ចងក្រងដោយ Miss Aquarius · អារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង",
+     "note": "the card's last line",
+     "note_km": "បន្ទាត់ចុងក្រោយនៃកាត"
+    }
+   ]
+  },
+  {
+   "name": "7 · The footer",
+   "name_km": "៧ · បាតកថា",
+   "entries": [
+    {
+     "key": "w.foot",
+     "en": "thonly.org takes no profit · No advertising",
+     "km": "thonly.org មិនយកប្រាក់ចំណេញ · គ្មានការផ្សាយពាណិជ្ជកម្ម",
+     "note": "the footer's first line",
+     "note_km": "បន្ទាត់ទីមួយនៃបាតកថា"
+    },
+    {
+     "key": "w.auto",
+     "en": "Auto",
+     "km": "ស្វ័យប្រវត្តិ",
+     "note": "the footer, the light and dark switch: follow this device",
+     "note_km": "បាតកថា កុងតាក់ភ្លឺ និងងងឹត៖ តាមឧបករណ៍នេះ"
+    },
+    {
+     "key": "w.light",
+     "en": "Light",
+     "km": "ភ្លឺ",
+     "note": "the footer, the light and dark switch",
+     "note_km": "បាតកថា កុងតាក់ភ្លឺ និងងងឹត"
+    },
+    {
+     "key": "w.dark",
+     "en": "Dark",
+     "km": "ងងឹត",
+     "note": "the footer, the light and dark switch",
+     "note_km": "បាតកថា កុងតាក់ភ្លឺ និងងងឹត"
+    }
+   ]
+  },
+  {
+   "name": "8 · What a screen reader, a search engine or a link preview reads",
+   "name_km": "៨ · អ្វីដែលកម្មវិធីអានអេក្រង់ ម៉ាស៊ីនស្វែងរក ឬការមើលតំណជាមុនអាន",
+   "entries": [
+    {
+     "key": "w.desc",
+     "en": "Five books shaped Thon Ly. Beside each one is the book he gives forward, written by Miss Aquarius, with a foreword by Thon Ly. Free to read, whole.",
+     "km": "សៀវភៅប្រាំក្បាលបានសូនជីវិតរបស់ លី​ ស៊ីវ​ ថូង។ នៅក្បែរសៀវភៅនីមួយៗ គឺជាសៀវភៅដែលគាត់ផ្តល់បន្ត សរសេរដោយ Miss Aquarius និងមានអារម្ភកថាដោយ លី​ ស៊ីវ​ ថូង។ អានបានពេញមួយក្បាល ដោយឥតគិតថ្លៃ។",
+     "note": "what search engines and link previews show under the page's name",
+     "note_km": "អ្វីដែលម៉ាស៊ីនស្វែងរក និងការមើលតំណជាមុន បង្ហាញនៅក្រោមឈ្មោះទំព័រ"
+    },
+    {
+     "key": "w.og_alt",
+     "en": "The Library: five drawn book covers under the words The Library, book.thonly.org",
+     "km": "បណ្ណាល័យ៖ គម្របសៀវភៅគំនូរចំនួនប្រាំ នៅក្រោមពាក្យ The Library និង book.thonly.org",
+     "note": "the link preview picture's description, read aloud (the picture shows English words)",
+     "note_km": "ការពិពណ៌នារូបភាពនៃការមើលតំណជាមុន ដែលអានឮៗ (រូបភាពនោះបង្ហាញពាក្យអង់គ្លេស)"
+    },
+    {
+     "key": "w.portrait_alt",
+     "en": "Thon Ly, in an AI-enhanced portrait",
+     "km": "លី​ ស៊ីវ​ ថូង ក្នុងរូបភាពដែលកែលម្អដោយ AI",
+     "note": "the portrait's description, read aloud: it says the portrait was enhanced with AI",
+     "note_km": "ការពិពណ៌នារូបភាព ដែលអានឮៗ៖ វាប្រាប់ថារូបភាពនេះត្រូវបានកែលម្អដោយ AI"
+    },
+    {
+     "key": "w.share_aria",
+     "en": "Share this page",
+     "km": "ចែករំលែកទំព័រនេះ",
+     "note": "the share button, read aloud",
+     "note_km": "ប៊ូតុងចែករំលែក ដែលអានឮៗ"
+    },
+    {
+     "key": "w.copied",
+     "en": "Link copied",
+     "km": "បានចម្លងតំណ",
+     "note": "shown after the share button copies the link",
+     "note_km": "បង្ហាញក្រោយពេលប៊ូតុងចែករំលែកចម្លងតំណ"
+    },
+    {
+     "key": "w.copy_this",
+     "en": "Copy this link: ",
+     "km": "ចម្លងតំណនេះ៖ ",
+     "note": "shown when the link cannot be copied, followed by the link",
+     "note_km": "បង្ហាញនៅពេលមិនអាចចម្លងតំណបាន ហើយតំណនោះនៅបន្ទាប់"
+    },
+    {
+     "key": "w.lang_aria",
+     "en": "Language",
+     "km": "ភាសា",
+     "note": "the language switch in the footer, read aloud",
+     "note_km": "កុងតាក់ភាសានៅបាតកថា ដែលអានឮៗ"
+    },
+    {
+     "key": "w.theme_aria",
+     "en": "Color theme",
+     "km": "ផ្ទៃពណ៌",
+     "note": "the light and dark switch in the footer, read aloud",
+     "note_km": "កុងតាក់ភ្លឺ និងងងឹតនៅបាតកថា ដែលអានឮៗ"
+    },
+    {
+     "key": "w.cover",
+     "en": "Cover: {title} (placeholder art)",
+     "km": "គម្រប៖ {title} (គំនូរបណ្តោះអាសន្ន)",
+     "note": "each drawn cover's description, read aloud; {title} is the book's title",
+     "note_km": "ការពិពណ៌នាគម្របដែលគូរនីមួយៗ ដែលអានឮៗ៖ {title} គឺជាចំណងជើងសៀវភៅ"
+    },
+    {
+     "key": "w.ld_item",
+     "en": "Received: {received}. {note} Given forward: {title}.",
+     "km": "បានទទួល៖ {received}។ {note} ផ្តល់បន្ត៖ {title}។",
+     "note": "what a search engine reads for each pair; {received}, {note} and {title} are filled in",
+     "note_km": "អ្វីដែលម៉ាស៊ីនស្វែងរកអានសម្រាប់គូនីមួយៗ៖ {received} {note} និង {title} ត្រូវបានបំពេញ"
+    }
+   ]
+  }
+ ]
+}
