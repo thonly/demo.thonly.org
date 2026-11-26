@@ -92,4 +92,5 @@ A prototype is allowed to stub what a build is not. Each of these must be real, 
 - **Not built yet:** the privacy page, analytics, EPUB and PDF generation, the objection pages beyond one, Khmer.
 - **`/demo/` comes off the public host** (founder 2026-10-15). ◐ **Half done 2026-11-26:** moved off the book's host to
   `demo.thonly.org/book/`, so `book.thonly.org` no longer serves a word no model said. It is still public here, and its
-  sample quotes are kept from the AI crawlers only by a request in this host's `robots.txt`.
+  sample quotes are kept from the AI crawlers only by a request in this host's `robots.txt`. ⭐ **Kept public until launch**
+  (founder 2026-11-26: *"Keep public until launch"*): it comes off the web on the day the site is public, not before.
